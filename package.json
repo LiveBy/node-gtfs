@@ -1,5 +1,5 @@
 {
-  "name": "gtfs",
+  "name": "@liveby/gtfs",
   "description": "Download GTFS transit data into mongodb and expose routes, stops, times and more",
   "version": "0.4.8",
   "keywords": [

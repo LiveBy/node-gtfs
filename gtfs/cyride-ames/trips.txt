@@ -1,0 +1,1535 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+1A,WD_1A,1008,Kildee / Bessey,1,1029,SH1AAM,1,1
+1A,WD_1A,1012,Kildee / Bessey,1,1030,SH1AAM,1,1
+1A,WD_1A,1016,Kildee / Bessey,1,1010,SH1AAM,1,1
+1A,WD_1A,1020,Kildee / Bessey,1,1029,SH1AAM,1,1
+1A,WD_1A,1024,Kildee / Bessey,1,1030,SH1AAM,1,1
+1A,WD_1A,1026,Kildee / Bessey,1,1011,SH1AAM,1,1
+1A,WD_1A,1030,Kildee / Bessey,1,1015,SH1AAM,1,1
+1A,WD_1A,1032,Kildee / Bessey,1,1029,SH1AAM,1,1
+1A,WD_1A,1036,Kildee / Bessey,1,1011,SH1AAM,1,1
+1A,WD_1A,1038,Kildee / Bessey,1,1030,SH1AAM,1,1
+1A,WD_1A,1042,Kildee / Bessey,1,1032,SH1AAM,1,1
+1A,WD_1A,1044,Kildee / Bessey,1,1033,SH1AAM,1,1
+1A,WD_1A,1048,Kildee / Bessey,1,1011,SH1AAM,1,1
+1A,WD_1A,1050,Kildee / Bessey,1,1034,SH1AAM,1,1
+1A,WD_1A,1054,Kildee / Bessey,1,1032,SH1AAM,1,1
+1A,WD_1A,1056,Kildee / Bessey,1,1033,SH1AAM,1,1
+1A,WD_1A,1060,Kildee / Bessey,1,1034,SH1APM,1,1
+1A,WD_1A,1064,Kildee / Bessey,1,1035,SH1APM,1,1
+1A,WD_1A,1068,Kildee / Bessey,1,1033,SH1APM,1,1
+1A,WD_1A,1072,Kildee / Bessey,1,1034,SH1APM,1,1
+1A,WD_1A,1076,Kildee / Bessey,1,1035,SH1APM,1,1
+1A,WD_1A,1080,Kildee / Bessey,1,1033,SH1APM,1,1
+1A,WD_1A,1084,Kildee / Bessey,1,1034,SH1APM,1,1
+1A,WD_1A,1088,Kildee / Bessey,1,1035,SH1APM,1,1
+1A,WD_1A,1092,Kildee / Bessey,1,1033,SH1APM,1,1
+1A,WD_1A,1096,Kildee / Bessey,1,1034,SH1APM,1,1
+1A,WD_1A,1100,Kildee / Bessey,1,1035,SH1APM,1,1
+1A,WD_1A,1104,Kildee / Bessey,1,1036,SH1APM,1,1
+1A,WD_1A,1108,Kildee / Bessey,1,1034,SH1APM,1,1
+1A,WD_1A,1112,Kildee / Bessey,1,1035,SH1APM,1,1
+1A,WD_1A,1116,Kildee / Bessey,1,1036,SH1APM,1,1
+1A,WD_1A,1120,Kildee / Bessey,1,1038,SH1APM,1,1
+1A,WD_1A,1124,Kildee / Bessey,1,1035,SH1APM,1,1
+1A,WD_1A,1128,Kildee / Bessey,1,1036,SH1APM,1,1
+1A,WD_1A,1132,Kildee / Bessey,1,1038,SH1APM,1,1
+1A,WD_1A,1136,Kildee / Bessey,1,1039,SH1APM,1,1
+1A,WD_1A,1140,Kildee / Bessey,1,1036,SH1APM,1,1
+1A,WD_1A,1144,Kildee / Bessey,1,1038,SH1APM,1,1
+1E,WD,1002,Mall via Hospital,1,1015,SH1E,1,1
+1E,WD,1004,Mall via Hospital,1,1003,SH1E,1,1
+1E,WD,1006,Mall via Hospital,1,1005,SH1E,1,1
+1E,WD,1010,Mall via Hospital,1,1009,SH1E,1,1
+1E,WD,1014,Mall via Hospital,1,1016,SH1E,1,1
+1E,WD,1018,Mall via Hospital,1,1001,SH1E,1,1
+1E,WD,1022,Mall via Hospital,1,1006,SH1E,1,1
+1E,WD,1028,Mall via Hospital,1,1010,SH1E,1,1
+1E,WD,1034,Mall via Hospital,1,1002,SH1E,1,1
+1E,WD,1040,Mall via Hospital,1,1008,SH1E,1,1
+1E,WD,1046,Mall via Hospital,1,1009,SH1E,1,1
+1E,WD,1052,Mall via Hospital,1,1001,SH1E,1,1
+1E,WD,1058,Mall via Hospital,1,1007,SH1E,1,1
+1E,WD,1062,Mall via Hospital,1,1021,SH1E,1,1
+1E,WD,1066,Mall via Hospital,1,1010,SH1E,1,1
+1E,WD,1070,Mall via Hospital,1,1025,SH1E,1,1
+1E,WD,1074,Mall via Hospital,1,1003,SH1E,1,1
+1E,WD,1078,Mall via Hospital,1,1019,SH1E,1,1
+1E,WD,1082,Mall via Hospital,1,1005,SH1E,1,1
+1E,WD,1086,Mall via Hospital,1,1022,SH1E,1,1
+1E,WD,1090,Mall via Hospital,1,1014,SH1E,1,1
+1E,WD,1094,Mall via Hospital,1,1026,SH1E,1,1
+1E,WD,1098,Mall via Hospital,1,1004,SH1E,1,1
+1E,WD,1102,Mall via Hospital,1,1020,SH1E,1,1
+1E,WD,1106,Mall via Hospital,1,1006,SH1E,1,1
+1E,WD,1110,Mall via Hospital,1,1021,SH1E,1,1
+1E,WD,1114,Mall via Hospital,1,1013,SH1E,1,1
+1E,WD,1118,Mall via Hospital,1,1027,SH1E,1,1
+1E,WD,1122,Mall via Hospital,1,1002,SH1E,1,1
+1E,WD,1126,Mall via Hospital,1,1037,SH1E,1,1
+1E,WD,1130,Mall via Hospital,1,1007,SH1E,1,1
+1E,WD,1134,Mall via Hospital,1,1023,SH1E,1,1
+1E,WD,1138,Mall via Hospital,1,1010,SH1E,1,1
+1E,WD,1142,Mall via Hospital,1,1009,SH1E,1,1
+1E,WD,1146,Mall via Hospital,1,1001,SH1E,1,1
+1E,WD,1148,Mall via Hospital,1,1028,SH1E,1,1
+1E,WD,1150,Mall via Hospital,1,1020,SH1E,1,1
+1E,WD,1152,Mall via Hospital,1,1024,SH1E,1,1
+1E,WD6,1154,Mall via Hospital,1,1018,SH1E,1,1
+1E,WD_MLK,1156,Mall via Hospital,1,1046,SH1E,1,1
+1E,WD6,1158,Mall via Hospital,1,1003,SH1E,1,1
+1E,WD_MLK,1160,Mall via Hospital,1,1021,SH1E,1,1
+1E,WD6,1162,Mall via Hospital,1,1004,SH1E,1,1
+1E,WD6,1164,Mall via Hospital,1,1006,SH1E,1,1
+1E,WD6,1166,Mall via Hospital,1,1020,SH1E,1,1
+1E,WD6,1168,Mall via Hospital,1,1021,SH1E,1,1
+1E,WDF,1170,Mall via Hospital,1,1006,SH1E,1,1
+1E,WDF,1172,Mall via Hospital,1,1021,SH1E,1,1
+1E,SA,1602,Mall via Hospital,1,1603,SH1E,1,1
+1E,SA,1604,Mall via Hospital,1,1601,SH1E,1,1
+1E,SA,1606,Mall via Hospital,1,1604,SH1E,1,1
+1E,SA,1608,Mall via Hospital,1,1602,SH1E,1,1
+1E,SA,1610,Mall via Hospital,1,1603,SH1E,1,1
+1E,SA,1612,Mall via Hospital,1,1601,SH1E,1,1
+1E,SA_ISU,1614,Mall via Hospital,1,1610,SH1E,1,1
+1E,SA,1616,Mall via Hospital,1,1604,SH1E,1,1
+1E,SA_ISU,1618,Mall via Hospital,1,1612,SH1E,1,1
+1E,SA,1620,Mall via Hospital,1,1602,SH1E,1,1
+1E,SA_ISU,1622,Mall via Hospital,1,1610,SH1E,1,1
+1E,SA,1624,Mall via Hospital,1,1603,SH1E,1,1
+1E,SA_ISU,1626,Mall via Hospital,1,1613,SH1E,1,1
+1E,SA,1628,Mall via Hospital,1,1601,SH1E,1,1
+1E,SA_ISU,1630,Mall via Hospital,1,1611,SH1E,1,1
+1E,SA,1632,Mall via Hospital,1,1604,SH1E,1,1
+1E,SA_ISU,1634,Mall via Hospital,1,1612,SH1E,1,1
+1E,SA,1636,Mall via Hospital,1,1602,SH1E,1,1
+1E,SA_ISU,1638,Mall via Hospital,1,1610,SH1E,1,1
+1E,SA,1640,Mall via Hospital,1,1603,SH1E,1,1
+1E,SA_ISU,1642,Mall via Hospital,1,1613,SH1E,1,1
+1E,SA,1644,Mall via Hospital,1,1601,SH1E,1,1
+1E,SA_ISU,1646,Mall via Hospital,1,1611,SH1E,1,1
+1E,SA,1648,Mall via Hospital,1,1604,SH1E,1,1
+1E,SA_ISU,1650,Mall via Hospital,1,1612,SH1E,1,1
+1E,SA,1652,Mall via Hospital,1,1602,SH1E,1,1
+1E,SA,1656,Mall via Hospital,1,1603,SH1E,1,1
+1E,SA_ISU,1660,Mall via Hospital,1,1601,SH1E,1,1
+1E,SA6,1664,Mall via Hospital,1,1604,SH1E,1,1
+1E,SA_ISU,1668,Mall via Hospital,1,1602,SH1E,1,1
+1E,SA6,1672,Mall via Hospital,1,1603,SH1E,1,1
+1E,SA_ISU,1676,Mall via Hospital,1,1601,SH1E,1,1
+1E,SA6,1680,Mall via Hospital,1,1604,SH1E,1,1
+1E,SU,1702,Mall via Hospital,1,1705,SH1E,1,1
+1E,SU,1704,Mall via Hospital,1,1702,SH1E,1,1
+1E,SU,1706,Mall via Hospital,1,1704,SH1E,1,1
+1E,SU,1708,Mall via Hospital,1,1701,SH1E,1,1
+1E,SU,1710,Mall via Hospital,1,1705,SH1E,1,1
+1E,SU,1712,Mall via Hospital,1,1702,SH1E,1,1
+1E,SU,1714,Mall via Hospital,1,1704,SH1E,1,1
+1E,SU,1716,Mall via Hospital,1,1701,SH1E,1,1
+1E,SU,1718,Mall via Hospital,1,1705,SH1E,1,1
+1E,SU,1720,Mall via Hospital,1,1702,SH1E,1,1
+1E,SU,1722,Mall via Hospital,1,1704,SH1E,1,1
+1E,SU,1724,Mall via Hospital,1,1701,SH1E,1,1
+1E,SU,1726,Mall via Hospital,1,1705,SH1E,1,1
+1E,SU,1728,Mall via Hospital,1,1702,SH1E,1,1
+1E,SU,1730,Mall via Hospital,1,1704,SH1E,1,1
+1E,SU_ISU,1732,Mall via Hospital,1,1701,SH1E,1,1
+1E,SU,1734,Mall via Hospital,1,1705,SH1E,1,1
+1E,SU_ISU,1736,Mall via Hospital,1,1702,SH1E,1,1
+1E,SU,1738,Mall via Hospital,1,1704,SH1E,1,1
+1E,SU,1740,Mall via Hospital,1,1705,SH1E,1,1
+1E,SU,1742,Mall via Hospital,1,1704,SH1E,1,1
+1W,WD,1001,Ames Middle School via Lincoln Way,0,1005,SH1W,1,1
+1W,WD,1003,Ames Middle School via Lincoln Way,0,1016,SH1W,1,1
+1W,WD,1007,Ames Middle School via Lincoln Way,0,1001,SH1W,1,1
+1W,WD,1011,Ames Middle School via Lincoln Way,0,1006,SH1W,1,1
+1W,WD,1015,Ames Middle School via Lincoln Way,0,1011,SH1W,1,1
+1W,WD,1019,Ames Middle School via Lincoln Way,0,1015,SH1W,1,1
+1W,WD,1023,Ames Middle School via Lincoln Way,0,1002,SH1W,1,1
+1W,WD,1029,Ames Middle School via Lincoln Way,0,1008,SH1W,1,1
+1W,WD,1035,Ames Middle School via Lincoln Way,0,1009,SH1W,1,1
+1W,WD,1041,Ames Middle School via Lincoln Way,0,1001,SH1W,1,1
+1W,WD,1047,Ames Middle School via Lincoln Way,0,1007,SH1W,1,1
+1W,WD,1055,Ames Middle School via Lincoln Way,0,1021,SH1W,1,1
+1W,WD,1051,Ames Middle School via Lincoln Way,0,1010,SH1W,1,1
+1W,WD,1059,Ames Middle School via Lincoln Way,0,1025,SH1W,1,1
+1W,WD,1063,Ames Middle School via Lincoln Way,0,1003,SH1W,1,1
+1W,WD,1067,Ames Middle School via Lincoln Way,0,1019,SH1W,1,1
+1W,WD,1071,Ames Middle School via Lincoln Way,0,1005,SH1W,1,1
+1W,WD,1075,Ames Middle School via Lincoln Way,0,1022,SH1W,1,1
+1W,WD,1079,Ames Middle School via Lincoln Way,0,1014,SH1W,1,1
+1W,WD,1083,Ames Middle School via Lincoln Way,0,1026,SH1W,1,1
+1W,WD,1087,Ames Middle School via Lincoln Way,0,1004,SH1W,1,1
+1W,WD,1091,Ames Middle School via Lincoln Way,0,1020,SH1W,1,1
+1W,WD,1095,Ames Middle School via Lincoln Way,0,1006,SH1W,1,1
+1W,WD,1099,Ames Middle School via Lincoln Way,0,1021,SH1W,1,1
+1W,WD,1103,Ames Middle School via Lincoln Way,0,1013,SH1W,1,1
+1W,WD,1107,Ames Middle School via Lincoln Way,0,1027,SH1W,1,1
+1W,WD,1111,Ames Middle School via Lincoln Way,0,1002,SH1W,1,1
+1W,WD,1115,Ames Middle School via Lincoln Way,0,1037,SH1W,1,1
+1W,WD,1119,Ames Middle School via Lincoln Way,0,1007,SH1W,1,1
+1W,WD,1123,Ames Middle School via Lincoln Way,0,1023,SH1W,1,1
+1W,WD,1127,Ames Middle School via Lincoln Way,0,1010,SH1W,1,1
+1W,WD,1131,Ames Middle School via Lincoln Way,0,1009,SH1W,1,1
+1W,WD,1135,Ames Middle School via Lincoln Way,0,1001,SH1W,1,1
+1W,WD,1139,Ames Middle School via Lincoln Way,0,1028,SH1W,1,1
+1W,WD,1143,Ames Middle School via Lincoln Way,0,1020,SH1W,1,1
+1W,WD,1147,Ames Middle School via Lincoln Way,0,1024,SH1W,1,1
+1W,WD,1151,Ames Middle School via Lincoln Way,0,1018,SH1W,1,1
+1W,WD,1155,Ames Middle School via Lincoln Way,0,1046,SH1W,1,1
+1W,WD,1159,Ames Middle School via Lincoln Way,0,1026,SH1W,1,1
+1W,WD_MLK,1163,Ames Middle School via Lincoln Way,0,1003,SH1W,1,1
+1W,WD6,1167,Ames Middle School via Lincoln Way,0,1021,SH1W,1,1
+1W,WD_MLK,1169,Ames Middle School via Lincoln Way,0,1022,SH1W,1,1
+1W,WD6,1171,Ames Middle School via Lincoln Way,0,1004,SH1W,1,1
+1W,WD_MLK,1173,Ames Middle School via Lincoln Way,0,1037,SH1W,1,1
+1W,WD6,1175,Ames Middle School via Lincoln Way,0,1006,SH1W,1,1
+1W,WD6,1177,Ames Middle School via Lincoln Way,0,1020,SH1W,1,1
+1W,WD6,1179,Ames Middle School via Lincoln Way,0,1021,SH1W,1,1
+1W,WD6,1181,Ames Middle School via Lincoln Way,0,1004,SH1W,1,1
+1W,WDF,1183,Ames Middle School via Lincoln Way,0,1006,SH1W,1,1
+1W,WDF,1185,Ames Middle School via Lincoln Way,0,1021,SH1W,1,1
+1W,SA,1601,Ames Middle School via Lincoln Way,0,1601,SH1W,1,1
+1W,SA,1603,Ames Middle School via Lincoln Way,0,1604,SH1W,1,1
+1W,SA,1605,Ames Middle School via Lincoln Way,0,1602,SH1W,1,1
+1W,SA,1607,Ames Middle School via Lincoln Way,0,1603,SH1W,1,1
+1W,SA,1609,Ames Middle School via Lincoln Way,0,1601,SH1W,1,1
+1W,SA,1611,Ames Middle School via Lincoln Way,0,1604,SH1W,1,1
+1W,SA,1613,Ames Middle School via Lincoln Way,0,1602,SH1W,1,1
+1W,SA_ISU,1615,Ames Middle School via Lincoln Way,0,1610,SH1W,1,1
+1W,SA,1617,Ames Middle School via Lincoln Way,0,1603,SH1W,1,1
+1W,SA_ISU,1619,Ames Middle School via Lincoln Way,0,1613,SH1W,1,1
+1W,SA,1621,Ames Middle School via Lincoln Way,0,1601,SH1W,1,1
+1W,SA_ISU,1623,Ames Middle School via Lincoln Way,0,1611,SH1W,1,1
+1W,SA,1625,Ames Middle School via Lincoln Way,0,1604,SH1W,1,1
+1W,SA_ISU,1627,Ames Middle School via Lincoln Way,0,1612,SH1W,1,1
+1W,SA,1629,Ames Middle School via Lincoln Way,0,1602,SH1W,1,1
+1W,SA_ISU,1631,Ames Middle School via Lincoln Way,0,1610,SH1W,1,1
+1W,SA,1633,Ames Middle School via Lincoln Way,0,1603,SH1W,1,1
+1W,SA_ISU,1635,Ames Middle School via Lincoln Way,0,1613,SH1W,1,1
+1W,SA,1637,Ames Middle School via Lincoln Way,0,1601,SH1W,1,1
+1W,SA_ISU,1639,Ames Middle School via Lincoln Way,0,1611,SH1W,1,1
+1W,SA,1641,Ames Middle School via Lincoln Way,0,1604,SH1W,1,1
+1W,SA_ISU,1643,Ames Middle School via Lincoln Way,0,1612,SH1W,1,1
+1W,SA,1645,Ames Middle School via Lincoln Way,0,1602,SH1W,1,1
+1W,SA_ISU,1647,Ames Middle School via Lincoln Way,0,1610,SH1W,1,1
+1W,SA,1649,Ames Middle School via Lincoln Way,0,1603,SH1W,1,1
+1W,SA,1653,Ames Middle School via Lincoln Way,0,1601,SH1W,1,1
+1W,SA6,1657,Ames Middle School via Lincoln Way,0,1604,SH1W,1,1
+1W,SA_ISU,1661,Ames Middle School via Lincoln Way,0,1602,SH1W,1,1
+1W,SA6,1665,Ames Middle School via Lincoln Way,0,1603,SH1W,1,1
+1W,SA_ISU,1669,Ames Middle School via Lincoln Way,0,1601,SH1W,1,1
+1W,SA6,1673,Ames Middle School via Lincoln Way,0,1604,SH1W,1,1
+1W,SA_ISU,1677,Ames Middle School via Lincoln Way,0,1602,SH1W,1,1
+1W,SU,1701,Ames Middle School via Lincoln Way,0,1702,SH1W,1,1
+1W,SU,1703,Ames Middle School via Lincoln Way,0,1704,SH1W,1,1
+1W,SU,1705,Ames Middle School via Lincoln Way,0,1701,SH1W,1,1
+1W,SU,1707,Ames Middle School via Lincoln Way,0,1705,SH1W,1,1
+1W,SU,1709,Ames Middle School via Lincoln Way,0,1702,SH1W,1,1
+1W,SU,1711,Ames Middle School via Lincoln Way,0,1704,SH1W,1,1
+1W,SU,1713,Ames Middle School via Lincoln Way,0,1701,SH1W,1,1
+1W,SU,1715,Ames Middle School via Lincoln Way,0,1705,SH1W,1,1
+1W,SU,1717,Ames Middle School via Lincoln Way,0,1702,SH1W,1,1
+1W,SU,1719,Ames Middle School via Lincoln Way,0,1704,SH1W,1,1
+1W,SU,1721,Ames Middle School via Lincoln Way,0,1701,SH1W,1,1
+1W,SU,1723,Ames Middle School via Lincoln Way,0,1705,SH1W,1,1
+1W,SU,1725,Ames Middle School via Lincoln Way,0,1702,SH1W,1,1
+1W,SU,1727,Ames Middle School via Lincoln Way,0,1704,SH1W,1,1
+1W,SU,1729,Ames Middle School via Lincoln Way,0,1701,SH1W,1,1
+1W,SU,1731,Ames Middle School via Lincoln Way,0,1705,SH1W,1,1
+1W,SU_ISU,1733,Ames Middle School via Lincoln Way,0,1702,SH1W,1,1
+1W,SU,1735,Ames Middle School via Lincoln Way,0,1704,SH1W,1,1
+1W,SU_ISU,1737,Ames Middle School via Lincoln Way,0,1701,SH1W,1,1
+1W,SU,1739,Ames Middle School via Lincoln Way,0,1705,SH1W,1,1
+1W,SU,1741,Ames Middle School via Lincoln Way,0,1704,SH1W,1,1
+1B,SA_ISU,1654,Lincoln Way & Beach,1,1610,SH1B,1,1
+1B,SA_ISU,1658,Lincoln Way & Beach,1,1610,SH1B,1,1
+1B,SA_ISU,1662,Lincoln Way & Beach,1,1610,SH1B,1,1
+1B,SA_ISU,1666,Lincoln Way & Beach,1,1610,SH1B,1,1
+1B,SA_ISU,1670,Lincoln Way & Beach,1,1610,SH1B,1,1
+1B,SA_ISU,1674,Lincoln Way & Beach,1,1610,SH1B,1,1
+1B,SA_ISU,1678,Lincoln Way & Beach,1,1610,SH1B,1,1
+1W,SA_ISU,1651,Ames Middle School via Lincoln Way,1,1610,SH1BW,1,1
+1W,SA_ISU,1655,Ames Middle School via Lincoln Way,1,1610,SH1BW,1,1
+1W,SA_ISU,1659,Ames Middle School via Lincoln Way,1,1610,SH1BW,1,1
+1W,SA_ISU,1663,Ames Middle School via Lincoln Way,1,1610,SH1BW,1,1
+1W,SA_ISU,1667,Ames Middle School via Lincoln Way,1,1610,SH1BW,1,1
+1W,SA_ISU,1671,Ames Middle School via Lincoln Way,1,1610,SH1BW,1,1
+1W,SA_ISU,1675,Ames Middle School via Lincoln Way,1,1610,SH1BW,1,1
+1AW,WD_1A,1005,Ames Middle School via Lincoln Way,0,1010,SH1AW,1,1
+1AW,WD_1A,1009,Ames Middle School via Lincoln Way,0,1029,SH1AW,1,1
+1AW,WD_1A,1013,Ames Middle School via Lincoln Way,0,1030,SH1AW,1,1
+1AW,WD_1A,1017,Ames Middle School via Lincoln Way,0,1010,SH1AW,1,1
+1AW,WD_1A,1021,Ames Middle School via Lincoln Way,0,1029,SH1AW,1,1
+1AW,WD_1A,1025,Ames Middle School via Lincoln Way,0,1011,SH1AW,1,1
+1AW,WD_1A,1027,Ames Middle School via Lincoln Way,0,1030,SH1AW,1,1
+1AW,WD_1A,1031,Ames Middle School via Lincoln Way,0,1032,SH1AW,1,1
+1AW,WD_1A,1033,Ames Middle School via Lincoln Way,0,1033,SH1AW,1,1
+1AW,WD_1A,1037,Ames Middle School via Lincoln Way,0,1011,SH1AW,1,1
+1AW,WD_1A,1039,Ames Middle School via Lincoln Way,0,1034,SH1AW,1,1
+1AW,WD_1A,1043,Ames Middle School via Lincoln Way,0,1032,SH1AW,1,1
+1AW,WD_1A,1045,Ames Middle School via Lincoln Way,0,1033,SH1AW,1,1
+1AW,WD_1A,1049,Ames Middle School via Lincoln Way,0,1034,SH1AW,1,1
+1AW,WD_1A,1053,Ames Middle School via Lincoln Way,0,1035,SH1AW,1,1
+1AW,WD_1A,1057,Ames Middle School via Lincoln Way,0,1033,SH1AW,1,1
+1AW,WD_1A,1061,Ames Middle School via Lincoln Way,0,1034,SH1AW,1,1
+1AW,WD_1A,1065,Ames Middle School via Lincoln Way,0,1035,SH1AW,1,1
+1AW,WD_1A,1069,Ames Middle School via Lincoln Way,0,1033,SH1AW,1,1
+1AW,WD_1A,1073,Ames Middle School via Lincoln Way,0,1034,SH1AW,1,1
+1AW,WD_1A,1077,Ames Middle School via Lincoln Way,0,1035,SH1AW,1,1
+1AW,WD_1A,1081,Ames Middle School via Lincoln Way,0,1033,SH1AW,1,1
+1AW,WD_1A,1085,Ames Middle School via Lincoln Way,0,1034,SH1AW,1,1
+1AW,WD_1A,1089,Ames Middle School via Lincoln Way,0,1035,SH1AW,1,1
+1AW,WD_1A,1093,Ames Middle School via Lincoln Way,0,1033,SH1AW,1,1
+1AW,WD_1A,1097,Ames Middle School via Lincoln Way,0,1034,SH1AW,1,1
+1AW,WD_1A,1101,Ames Middle School via Lincoln Way,0,1035,SH1AW,1,1
+1AW,WD_1A,1105,Ames Middle School via Lincoln Way,0,1036,SH1AW,1,1
+1AW,WD_1A,1109,Ames Middle School via Lincoln Way,0,1034,SH1AW,1,1
+1AW,WD_1A,1113,Ames Middle School via Lincoln Way,0,1035,SH1AW,1,1
+1AW,WD_1A,1117,Ames Middle School via Lincoln Way,0,1036,SH1AW,1,1
+1AW,WD_1A,1121,Ames Middle School via Lincoln Way,0,1038,SH1AW,1,1
+1AW,WD_1A,1125,Ames Middle School via Lincoln Way,0,1035,SH1AW,1,1
+1AW,WD_1A,1129,Ames Middle School via Lincoln Way,0,1036,SH1AW,1,1
+1AW,WD_1A,1133,Ames Middle School via Lincoln Way,0,1038,SH1AW,1,1
+1AW,WD_1A,1137,Ames Middle School via Lincoln Way,0,1039,SH1AW,1,1
+1AW,WD_1A,1141,Ames Middle School via Lincoln Way,0,1036,SH1AW,1,1
+1AW,WD_1A,1145,Ames Middle School via Lincoln Way,0,1038,SH1AW,1,1
+1AW,WD_1A,1149,Ames Middle School via Lincoln Way,0,1039,SH1AW,1,1
+1AW,WD_1A,1153,Ames Middle School via Lincoln Way,0,1036,SH1AW,1,1
+1AW,WD_1A,1157,Ames Middle School via Lincoln Way,0,1038,SH1AW,1,1
+1AW,WD_1A,1161,Ames Middle School via Lincoln Way,0,1039,SH1AW,1,1
+1AW,WD_1A,1165,Ames Middle School via Lincoln Way,0,1038,SH1AW,1,1
+2E,WD,2002,Mall via Ames High School,1,1014,SH2E,1,1
+2E,WD,2004,Mall via Ames High School,1,1007,SH2E,1,1
+2E,WD,2006,Mall via Ames High School,1,1013,SH2E,1,1
+2E,WD,2008,Mall via Ames High School,1,1017,SH2E,1,1
+2E,WD,2010,Mall via Ames High School,1,1003,SH2E,1,1
+2E,WD,2012,Mall via Ames High School,1,1005,SH2E,1,1
+2E,WD,2014,Mall via Ames High School,1,1014,SH2E,1,1
+2E,WD,2016,Mall via Ames High School,1,1004,SH2E,1,1
+2E,WD,2018,Mall via Ames High School,1,1006,SH2E,1,1
+2E,WD,2020,Mall via Ames High School,1,1013,SH2E,1,1
+2E,WD,2022,Mall via Ames High School,1,1002,SH2E,1,1
+2E,WD,2024,Mall via Ames High School,1,1008,SH2E,1,1
+2E,WD,2026,Mall via Ames High School,1,1023,SH2E,1,1
+2E,WD,2028,Mall via Ames High School,1,1009,SH2E,1,1
+2E,WD,2030,Mall via Ames High School,1,1001,SH2E,1,1
+2E,WD,2032,Mall via Ames High School,1,1028,SH2E,1,1
+2E,WD,2034,Mall via Ames High School,1,1024,SH2E,1,1
+2E,WD,2036,Mall via Ames High School,1,1010,SH2E,1,1
+2E,WD,2038,Mall via Ames High School,1,1025,SH2E,1,1
+2E,WD,2040,Mall via Ames High School,1,1003,SH2E,1,1
+2E,WD,2042,Mall via Ames High School,1,1005,SH2E,1,1
+2E,WD,2044,Mall via Ames High School,1,1022,SH2E,1,1
+2E,WD,2046,Mall via Ames High School,1,1014,SH2E,1,1
+2E,WD,2048,Mall via Ames High School,1,1004,SH2E,1,1
+2E,WD,2050,Mall via Ames High School,1,1020,SH2E,1,1
+2E,WD,2052,Mall via Ames High School,1,1006,SH2E,1,1
+2E,WD,2054,Mall via Ames High School,1,1013,SH2E,1,1
+2E,WD,2056,Mall via Ames High School,1,1026,SH2E,1,1
+2E,WD,2058,Mall via Ames High School,1,1002,SH2E,1,1
+2E,WD,2060,Mall via Ames High School,1,1023,SH2E,1,1
+2E,WD6,2062,Mall via Ames High School,1,1025,SH2E,1,1
+2E,WD6,2064,Mall via Ames High School,1,1024,SH2E,1,1
+2E,WD_MLK,2066,Mall via Ames High School,1,1025,SH2E,1,1
+2E,WD6,2068,Mall via Ames High School,1,1024,SH2E,1,1
+2E,WD_MLK,2070,Mall via Ames High School,1,1025,SH2E,1,1
+2E,WD6,2072,Mall via Ames High School,1,1024,SH2E,1,1
+2E,WDF,2074,Mall via Ames High School,1,1024,SH2E,1,1
+2E,SA,2602,Mall via Ames High School,1,1605,SH2E,1,1
+2E,SA,2604,Mall via Ames High School,1,1606,SH2E,1,1
+2E,SA,2606,Mall via Ames High School,1,1607,SH2E,1,1
+2E,SA,2608,Mall via Ames High School,1,1605,SH2E,1,1
+2E,SA,2610,Mall via Ames High School,1,1606,SH2E,1,1
+2E,SA,2612,Mall via Ames High School,1,1607,SH2E,1,1
+2E,SA,2614,Mall via Ames High School,1,1605,SH2E,1,1
+2E,SA,2616,Mall via Ames High School,1,1606,SH2E,1,1
+2E,SA,2618,Mall via Ames High School,1,1607,SH2E,1,1
+2E,SA,2620,Mall via Ames High School,1,1605,SH2E,1,1
+2E,SA,2622,Mall via Ames High School,1,1606,SH2E,1,1
+2E,SA,2624,Mall via Ames High School,1,1607,SH2E,1,1
+2E,SA,2626,Mall via Ames High School,1,1605,SH2E,1,1
+2E,SA,2628,Mall via Ames High School,1,1606,SH2E,1,1
+2E,SA,2630,Mall via Ames High School,1,1607,SH2E,1,1
+2E,SA,2632,Mall via Ames High School,1,1605,SH2E,1,1
+2E,SA6,2634,Mall via Ames High School,1,1605,SH2E,1,1
+2E,SA6,2636,Mall via Ames High School,1,1605,SH2E,1,1
+2E,SA6,2638,Mall via Ames High School,1,1605,SH2E,1,1
+2E,SU,2702,Mall via Ames High School,1,1706,SH2E,1,1
+2E,SU,2704,Mall via Ames High School,1,1703,SH2E,1,1
+2E,SU,2706,Mall via Ames High School,1,1706,SH2E,1,1
+2E,SU,2708,Mall via Ames High School,1,1703,SH2E,1,1
+2E,SU,2710,Mall via Ames High School,1,1706,SH2E,1,1
+2E,SU,2712,Mall via Ames High School,1,1703,SH2E,1,1
+2E,SU,2714,Mall via Ames High School,1,1706,SH2E,1,1
+2E,SU,2716,Mall via Ames High School,1,1703,SH2E,1,1
+2E,SU,2718,Mall via Ames High School,1,1706,SH2E,1,1
+2E,SU,2720,Mall via Ames High School,1,1703,SH2E,1,1
+2E,SU,2722,Mall via Ames High School,1,1706,SH2E,1,1
+2E,SU,2724,Mall via Ames High School,1,1703,SH2E,1,1
+2E,SU,2726,Mall via Ames High School,1,1706,SH2E,1,1
+2E,SU,2728,Mall via Ames High School,1,1703,SH2E,1,1
+2E,SU,2730,Mall via Ames High School,1,1706,SH2E,1,1
+2E,SU,2732,Mall via Ames High School,1,1706,SH2E,1,1
+2E,SU,2734,Mall via Ames High School,1,1706,SH2E,1,1
+2E,SU,2736,Mall via Ames High School,1,1706,SH2E,1,1
+2E,SU,2738,Mall via Ames High School,1,1706,SH2E,1,1
+2W,WD,2001,Ontario/California,0,1007,SH2W,1,1
+2W,WD,2003,Ontario/California,0,1017,SH2W,1,1
+2W,WD,2005,Ontario/California,0,1003,SH2W,1,1
+2W,WD,2007,Ontario/California,0,1005,SH2W,1,1
+2W,WD,2009,Ontario/California,0,1012,SH2W,1,1
+2W,WD,2011,Ontario/California,0,1014,SH2W,1,1
+2W,WD,2013,Ontario/California,0,1004,SH2W,1,1
+2W,WD,2015,Ontario/California,0,1006,SH2W,1,1
+2W,WD,2017,Ontario/California,0,1013,SH2W,1,1
+2W,WD,2019,Ontario/California,0,1002,SH2W,1,1
+2W,WD,2021,Ontario/California,0,1008,SH2W,1,1
+2W,WD,2023,Ontario/California,0,1023,SH2W,1,1
+2W,WD,2025,Ontario/California,0,1009,SH2W,1,1
+2W,WD,2027,Ontario/California,0,1001,SH2W,1,1
+2W,WD,2029,Ontario/California,0,1028,SH2W,1,1
+2W,WD,2031,Ontario/California,0,1024,SH2W,1,1
+2W,WD,2033,Ontario/California,0,1010,SH2W,1,1
+2W,WD,2035,Ontario/California,0,1025,SH2W,1,1
+2W,WD,2037,Ontario/California,0,1003,SH2W,1,1
+2W,WD,2039,Ontario/California,0,1005,SH2W,1,1
+2W,WD,2041,Ontario/California,0,1022,SH2W,1,1
+2W,WD,2043,Ontario/California,0,1014,SH2W,1,1
+2W,WD,2045,Ontario/California,0,1004,SH2W,1,1
+2W,WD,2047,Ontario/California,0,1020,SH2W,1,1
+2W,WD,2049,Ontario/California,0,1006,SH2W,1,1
+2W,WD,2051,Ontario/California,0,1013,SH2W,1,1
+2W,WD,2053,Ontario/California,0,1026,SH2W,1,1
+2W,WD,2055,Ontario/California,0,1002,SH2W,1,1
+2W,WD,2057,Ontario/California,0,1007,SH2W,1,1
+2W,WD,2059,Ontario/California,0,1023,SH2W,1,1
+2W,WD_MLK,2061,Ontario/California,0,1010,SH2W,1,1
+2W,WD,2063,Ontario/California,0,1025,SH2W,1,1
+2W,WD6,2065,Ontario/California,0,1024,SH2W,1,1
+2W,WD_MLK,2067,Ontario/California,0,1025,SH2W,1,1
+2W,WD6,2069,Ontario/California,0,1024,SH2W,1,1
+2W,WD_MLK,2071,Ontario/California,0,1025,SH2W,1,1
+2W,WD6,2073,Ontario/California,0,1024,SH2W,1,1
+2W,WDF,2075,Ontario/California,0,1024,SH2W,1,1
+2W,SA,2601,Ontario/California,0,1606,SH2W,1,1
+2W,SA,2603,Ontario/California,0,1607,SH2W,1,1
+2W,SA,2605,Ontario/California,0,1605,SH2W,1,1
+2W,SA,2607,Ontario/California,0,1606,SH2W,1,1
+2W,SA,2609,Ontario/California,0,1607,SH2W,1,1
+2W,SA,2611,Ontario/California,0,1605,SH2W,1,1
+2W,SA,2613,Ontario/California,0,1606,SH2W,1,1
+2W,SA,2615,Ontario/California,0,1607,SH2W,1,1
+2W,SA,2617,Ontario/California,0,1605,SH2W,1,1
+2W,SA,2619,Ontario/California,0,1606,SH2W,1,1
+2W,SA,2621,Ontario/California,0,1607,SH2W,1,1
+2W,SA,2623,Ontario/California,0,1605,SH2W,1,1
+2W,SA,2625,Ontario/California,0,1606,SH2W,1,1
+2W,SA,2627,Ontario/California,0,1607,SH2W,1,1
+2W,SA,2629,Ontario/California,0,1605,SH2W,1,1
+2W,SA,2631,Ontario/California,0,1606,SH2W,1,1
+2W,SA6,2633,Ontario/California,0,1605,SH2W,1,1
+2W,SA6,2635,Ontario/California,0,1605,SH2W,1,1
+2W,SA6,2637,Ontario/California,0,1605,SH2W,1,1
+2W,SU,2701,Ontario/California,0,1703,SH2W,1,1
+2W,SU,2703,Ontario/California,0,1706,SH2W,1,1
+2W,SU,2705,Ontario/California,0,1703,SH2W,1,1
+2W,SU,2707,Ontario/California,0,1706,SH2W,1,1
+2W,SU,2709,Ontario/California,0,1703,SH2W,1,1
+2W,SU,2711,Ontario/California,0,1706,SH2W,1,1
+2W,SU,2713,Ontario/California,0,1703,SH2W,1,1
+2W,SU,2715,Ontario/California,0,1706,SH2W,1,1
+2W,SU,2717,Ontario/California,0,1703,SH2W,1,1
+2W,SU,2719,Ontario/California,0,1706,SH2W,1,1
+2W,SU,2721,Ontario/California,0,1703,SH2W,1,1
+2W,SU,2723,Ontario/California,0,1706,SH2W,1,1
+2W,SU,2725,Ontario/California,0,1703,SH2W,1,1
+2W,SU,2727,Ontario/California,0,1706,SH2W,1,1
+2W,SU,2729,Ontario/California,0,1703,SH2W,1,1
+2W,SU,2731,Ontario/California,0,1706,SH2W,1,1
+2W,SU,2733,Ontario/California,0,1706,SH2W,1,1
+2W,SU,2735,Ontario/California,0,1706,SH2W,1,1
+2W,SU,2737,Ontario/California,0,1706,SH2W,1,1
+3S,WD,3001,South 5th/South Duff,0,1006,SH3S,1,1
+3S,WD,3003,South 5th/South Duff,0,1015,SH3S,1,1
+3S,WD,3007,South 5th/South Duff,0,1002,SH3S,1,1
+3S,WD,3011,South 5th/South Duff,0,1008,SH3S,1,1
+3S,WD,3015,South 5th/South Duff,0,1009,SH3S,1,1
+3S,WD,3019,South 5th/South Duff,0,1016,SH3S,1,1
+3S,WD,3023,South 5th/South Duff,0,1001,SH3S,1,1
+3S,WD,3027,South 5th/South Duff,0,1007,SH3S,1,1
+3S,WD,3029,South 5th/South Duff,0,1010,SH3S,1,1
+3S,WD,3031,South 5th/South Duff,0,1003,SH3S,1,1
+3S,WD,3033,South 5th/South Duff,0,1005,SH3S,1,1
+3S,WD,3035,South 5th/South Duff,0,1022,SH3S,1,1
+3S,WD,3037,South 5th/South Duff,0,1014,SH3S,1,1
+3S,WD,3039,South 5th/South Duff,0,1026,SH3S,1,1
+3S,WD,3041,South 5th/South Duff,0,1004,SH3S,1,1
+3S,WD,3043,South 5th/South Duff,0,1020,SH3S,1,1
+3S,WD,3045,South 5th/South Duff,0,1006,SH3S,1,1
+3S,WD,3047,South 5th/South Duff,0,1021,SH3S,1,1
+3S,WD,3049,South 5th/South Duff,0,1013,SH3S,1,1
+3S,WD,3051,South 5th/South Duff,0,1027,SH3S,1,1
+3S,WD,3053,South 5th/South Duff,0,1002,SH3S,1,1
+3S,WD,3055,South 5th/South Duff,0,1037,SH3S,1,1
+3S,WD,3057,South 5th/South Duff,0,1007,SH3S,1,1
+3S,WD,3059,South 5th/South Duff,0,1023,SH3S,1,1
+3S,WD,3061,South 5th/South Duff,0,1010,SH3S,1,1
+3S,WD,3063,South 5th/South Duff,0,1009,SH3S,1,1
+3S,WD,3065,South 5th/South Duff,0,1001,SH3S,1,1
+3S,WD,3067,South 5th/South Duff,0,1028,SH3S,1,1
+3S,WD,3069,South 5th/South Duff,0,1019,SH3S,1,1
+3S,WD,3071,South 5th/South Duff,0,1024,SH3S,1,1
+3S,WD,3073,South 5th/South Duff,0,1018,SH3S,1,1
+3S,WD,3075,South 5th/South Duff,0,1027,SH3S,1,1
+3S,WD,3077,South 5th/South Duff,0,1025,SH3S,1,1
+3S,WD,3079,South 5th/South Duff,0,1003,SH3S,1,1
+3S,WD,3081,South 5th/South Duff,0,1005,SH3S,1,1
+3S,WD,3083,South 5th/South Duff,0,1021,SH3S,1,1
+3S,WD,3085,South 5th/South Duff,0,1022,SH3S,1,1
+3S,WD,3087,South 5th/South Duff,0,1014,SH3S,1,1
+3S,WD,3089,South 5th/South Duff,0,1004,SH3S,1,1
+3S,WD_MLK,3091,South 5th/South Duff,0,1037,SH3S,1,1
+3S,WD6,3093,South 5th/South Duff,0,1006,SH3S,1,1
+3S,WD_MLK,3095,South 5th/South Duff,0,1013,SH3S,1,1
+3S,WD6,3097,South 5th/South Duff,0,1020,SH3S,1,1
+3S,WD_MLK,3099,South 5th/South Duff,0,1003,SH3S,1,1
+3S,WD6,3101,South 5th/South Duff,0,1021,SH3S,1,1
+3S,WD_MLK,3103,South 5th/South Duff,0,1004,SH3S,1,1
+3S,WD6,3105,South 5th/South Duff,0,1006,SH3S,1,1
+3S,WD_MLK,3107,South 5th/South Duff,0,1020,SH3S,1,1
+3S,WDF,3109,South 5th/South Duff,0,1021,SH3S,1,1
+3S,WDF,3111,South 5th/South Duff,0,1006,SH3S,1,1
+3S,SA,3601,South 5th/South Duff,0,1602,SH3S,1,1
+3S,SA,3603,South 5th/South Duff,0,1603,SH3S,1,1
+3S,SA,3605,South 5th/South Duff,0,1601,SH3S,1,1
+3S,SA,3607,South 5th/South Duff,0,1604,SH3S,1,1
+3S,SA,3609,South 5th/South Duff,0,1602,SH3S,1,1
+3S,SA,3611,South 5th/South Duff,0,1603,SH3S,1,1
+3S,SA,3613,South 5th/South Duff,0,1601,SH3S,1,1
+3S,SA,3615,South 5th/South Duff,0,1604,SH3S,1,1
+3S,SA_ISU,3617,South 5th/South Duff,0,1612,SH3S,1,1
+3S,SA,3619,South 5th/South Duff,0,1602,SH3S,1,1
+3S,SA_ISU,3621,South 5th/South Duff,0,1610,SH3S,1,1
+3S,SA,3623,South 5th/South Duff,0,1603,SH3S,1,1
+3S,SA_ISU,3625,South 5th/South Duff,0,1613,SH3S,1,1
+3S,SA,3627,South 5th/South Duff,0,1601,SH3S,1,1
+3S,SA_ISU,3629,South 5th/South Duff,0,1611,SH3S,1,1
+3S,SA,3631,South 5th/South Duff,0,1604,SH3S,1,1
+3S,SA_ISU,3633,South 5th/South Duff,0,1612,SH3S,1,1
+3S,SA,3635,South 5th/South Duff,0,1602,SH3S,1,1
+3S,SA_ISU,3637,South 5th/South Duff,0,1610,SH3S,1,1
+3S,SA,3639,South 5th/South Duff,0,1603,SH3S,1,1
+3S,SA_ISU,3641,South 5th/South Duff,0,1613,SH3S,1,1
+3S,SA,3643,South 5th/South Duff,0,1601,SH3S,1,1
+3S,SA_ISU,3645,South 5th/South Duff,0,1611,SH3S,1,1
+3S,SA,3647,South 5th/South Duff,0,1604,SH3S,1,1
+3S,SA_ISU,3649,South 5th/South Duff,0,1612,SH3S,1,1
+3S,SA,3651,South 5th/South Duff,0,1602,SH3S,1,1
+3S,SA6,3653,South 5th/South Duff,0,1603,SH3S,1,1
+3S,SA_ISU,3655,South 5th/South Duff,0,1601,SH3S,1,1
+3S,SA6,3657,South 5th/South Duff,0,1604,SH3S,1,1
+3S,SA_ISU,3659,South 5th/South Duff,0,1602,SH3S,1,1
+3S,SA6,3661,South 5th/South Duff,0,1603,SH3S,1,1
+3S,SA_ISU,3663,South 5th/South Duff,0,1601,SH3S,1,1
+3S,SU,3701,South 5th/South Duff,0,1701,SH3S,1,1
+3S,SU,3703,South 5th/South Duff,0,1705,SH3S,1,1
+3S,SU,3705,South 5th/South Duff,0,1702,SH3S,1,1
+3S,SU,3707,South 5th/South Duff,0,1704,SH3S,1,1
+3S,SU,3709,South 5th/South Duff,0,1701,SH3S,1,1
+3S,SU,3713,South 5th/South Duff,0,1705,SH3S,1,1
+3S,SU,3717,South 5th/South Duff,0,1702,SH3S,1,1
+3S,SU,3721,South 5th/South Duff,0,1704,SH3S,1,1
+3S,SU,3725,South 5th/South Duff,0,1701,SH3S,1,1
+3S,SU,3729,South 5th/South Duff,0,1705,SH3S,1,1
+3S,SU,3733,South 5th/South Duff,0,1702,SH3S,1,1
+3S,SU,3737,South 5th/South Duff,0,1704,SH3S,1,1
+3S,SU,3741,South 5th/South Duff,0,1701,SH3S,1,1
+3S,SU,3745,South 5th/South Duff,0,1705,SH3S,1,1
+3S,SU,3749,South 5th/South Duff,0,1702,SH3S,1,1
+3S,SU,3753,South 5th/South Duff,0,1704,SH3S,1,1
+3S,SU_ISU,3755,South 5th/South Duff,0,1701,SH3S,1,1
+3S,SU,3757,South 5th/South Duff,0,1705,SH3S,1,1
+3S,SU_ISU,3759,South 5th/South Duff,0,1702,SH3S,1,1
+3S,SU,3761,South 5th/South Duff,0,1704,SH3S,1,1
+3S,SU,3763,South 5th/South Duff,0,1705,SH3S,1,1
+3A,WD_ISU,3005,To Kildee,0,1010,SH3A,1,1
+3A,WD_ISU,3009,To Kildee,0,1029,SH3A,1,1
+3A,WD_ISU,3013,To Kildee,0,1030,SH3A,1,1
+3A,WD_ISU,3017,To Kildee,0,1010,SH3A,1,1
+3A,WD_ISU,3021,To Kildee,0,1029,SH3A,1,1
+3A,WD_ISU,3025,To Kildee,0,1030,SH3A,1,1
+3S,SU_ISU,3711,South 5th/South Duff,0,1708,SH3BS,1,1
+3S,SU_ISU,3715,South 5th/South Duff,0,1708,SH3BS,1,1
+3S,SU_ISU,3719,South 5th/South Duff,0,1708,SH3BS,1,1
+3S,SU_ISU,3723,South 5th/South Duff,0,1708,SH3BS,1,1
+3S,SU_ISU,3727,South 5th/South Duff,0,1708,SH3BS,1,1
+3S,SU_ISU,3731,South 5th/South Duff,0,1708,SH3BS,1,1
+3S,SU_ISU,3735,South 5th/South Duff,0,1708,SH3BS,1,1
+3S,SU_ISU,3739,South 5th/South Duff,0,1708,SH3BS,1,1
+3S,SU_ISU,3743,South 5th/South Duff,0,1708,SH3BS,1,1
+3S,SU_ISU,3747,South 5th/South Duff,0,1708,SH3BS,1,1
+3S,SU_ISU,3751,South 5th/South Duff,0,1708,SH3BS,1,1
+3N,WD,3002,Mall via Schilletter,1,1016,SH3N,1,1
+3N,WD,3004,Mall via Schilletter,1,1006,SH3N,1,1
+3N,WD,3006,Mall via Schilletter,1,1011,SH3N,1,1
+3N,WD,3008,Mall via Schilletter,1,1015,SH3N,1,1
+3N,WD,3010,Mall via Schilletter,1,1002,SH3N,1,1
+3N,WD,3012,Mall via Schilletter,1,1008,SH3N,1,1
+3N,WD,3014,Mall via Schilletter,1,1009,SH3N,1,1
+3N,WD,3016,Mall via Schilletter,1,1001,SH3N,1,1
+3N,WD,3018,Mall via Schilletter,1,1007,SH3N,1,1
+3N,WD,3020,Mall via Schilletter,1,1010,SH3N,1,1
+3N,WD,3022,Mall via Schilletter,1,1003,SH3N,1,1
+3N,WD,3024,Mall via Schilletter,1,1005,SH3N,1,1
+3N,WD,3026,Mall via Schilletter,1,1022,SH3N,1,1
+3N,WD,3028,Mall via Schilletter,1,1014,SH3N,1,1
+3N,WD,3030,Mall via Schilletter,1,1026,SH3N,1,1
+3N,WD,3032,Mall via Schilletter,1,1004,SH3N,1,1
+3N,WD,3034,Mall via Schilletter,1,1020,SH3N,1,1
+3N,WD,3036,Mall via Schilletter,1,1006,SH3N,1,1
+3N,WD,3038,Mall via Schilletter,1,1021,SH3N,1,1
+3N,WD,3040,Mall via Schilletter,1,1013,SH3N,1,1
+3N,WD,3042,Mall via Schilletter,1,1027,SH3N,1,1
+3N,WD,3044,Mall via Schilletter,1,1002,SH3N,1,1
+3N,WD,3046,Mall via Schilletter,1,1037,SH3N,1,1
+3N,WD,3048,Mall via Schilletter,1,1007,SH3N,1,1
+3N,WD,3050,Mall via Schilletter,1,1023,SH3N,1,1
+3N,WD,3052,Mall via Schilletter,1,1010,SH3N,1,1
+3N,WD,3054,Mall via Schilletter,1,1009,SH3N,1,1
+3N,WD,3056,Mall via Schilletter,1,1001,SH3N,1,1
+3N,WD,3058,Mall via Schilletter,1,1028,SH3N,1,1
+3N,WD,3060,Mall via Schilletter,1,1019,SH3N,1,1
+3N,WD,3062,Mall via Schilletter,1,1024,SH3N,1,1
+3N,WD,3064,Mall via Schilletter,1,1018,SH3N,1,1
+3N,WD,3066,Mall via Schilletter,1,1027,SH3N,1,1
+3N,WD,3068,Mall via Schilletter,1,1025,SH3N,1,1
+3N,WD,3070,Mall via Schilletter,1,1003,SH3N,1,1
+3N,WD,3072,Mall via Schilletter,1,1005,SH3N,1,1
+3N,WD,3074,Mall via Schilletter,1,1021,SH3N,1,1
+3N,WD_MLK,3076,Mall via Schilletter,1,1022,SH3N,1,1
+3N,WD6,3078,Mall via Schilletter,1,1004,SH3N,1,1
+3N,WD_MLK,3080,Mall via Schilletter,1,1037,SH3N,1,1
+3N,WD6,3082,Mall via Schilletter,1,1006,SH3N,1,1
+3N,WD_MLK,3084,Mall via Schilletter,1,1013,SH3N,1,1
+3N,WD6,3086,Mall via Schilletter,1,1020,SH3N,1,1
+3N,WD_MLK,3088,Mall via Schilletter,1,1003,SH3N,1,1
+3N,WD6,3090,Mall via Schilletter,1,1021,SH3N,1,1
+3N,WD_MLK,3092,Mall via Schilletter,1,1004,SH3N,1,1
+3N,WD6,3094,Mall via Schilletter,1,1006,SH3N,1,1
+3N,WDF_ISU,3096,Mall via Schilletter,1,1020,SH3N,1,1
+3N,WDF,3098,Mall via Schilletter,1,1021,SH3N,1,1
+3N,WDF,3100,Mall via Schilletter,1,1006,SH3N,1,1
+3N,SA,3602,Mall via Schilletter,1,1604,SH3N,1,1
+3N,SA,3604,Mall via Schilletter,1,1602,SH3N,1,1
+3N,SA,3606,Mall via Schilletter,1,1603,SH3N,1,1
+3N,SA,3608,Mall via Schilletter,1,1601,SH3N,1,1
+3N,SA,3610,Mall via Schilletter,1,1604,SH3N,1,1
+3N,SA,3612,Mall via Schilletter,1,1602,SH3N,1,1
+3N,SA,3614,Mall via Schilletter,1,1603,SH3N,1,1
+3N,SA_ISU,3616,Mall via Schilletter,1,1613,SH3N,1,1
+3N,SA,3618,Mall via Schilletter,1,1601,SH3N,1,1
+3N,SA_ISU,3620,Mall via Schilletter,1,1611,SH3N,1,1
+3N,SA,3622,Mall via Schilletter,1,1604,SH3N,1,1
+3N,SA_ISU,3624,Mall via Schilletter,1,1612,SH3N,1,1
+3N,SA,3626,Mall via Schilletter,1,1602,SH3N,1,1
+3N,SA_ISU,3628,Mall via Schilletter,1,1610,SH3N,1,1
+3N,SA,3630,Mall via Schilletter,1,1603,SH3N,1,1
+3N,SA_ISU,3632,Mall via Schilletter,1,1613,SH3N,1,1
+3N,SA,3634,Mall via Schilletter,1,1601,SH3N,1,1
+3N,SA_ISU,3636,Mall via Schilletter,1,1611,SH3N,1,1
+3N,SA,3638,Mall via Schilletter,1,1604,SH3N,1,1
+3N,SA_ISU,3640,Mall via Schilletter,1,1612,SH3N,1,1
+3N,SA,3642,Mall via Schilletter,1,1602,SH3N,1,1
+3N,SA_ISU,3644,Mall via Schilletter,1,1610,SH3N,1,1
+3N,SA,3646,Mall via Schilletter,1,1603,SH3N,1,1
+3N,SA_ISU,3648,Mall via Schilletter,1,1613,SH3N,1,1
+3N,SA,3650,Mall via Schilletter,1,1601,SH3N,1,1
+3N,SA_ISU,3652,Mall via Schilletter,1,1611,SH3N,1,1
+3N,SA,3654,Mall via Schilletter,1,1604,SH3N,1,1
+3N,SA_ISU,3656,Mall via Schilletter,1,1612,SH3N,1,1
+3N,SA_ISU,3658,Mall via Schilletter,1,1602,SH3N,1,1
+3N,SA6,3660,Mall via Schilletter,1,1603,SH3N,1,1
+3N,SA_ISU,3662,Mall via Schilletter,1,1601,SH3N,1,1
+3N,SA6,3664,Mall via Schilletter,1,1604,SH3N,1,1
+3N,SA_ISU,3666,Mall via Schilletter,1,1602,SH3N,1,1
+3N,SA6,3668,Mall via Schilletter,1,1603,SH3N,1,1
+3N,SU,3702,Mall via Schilletter,1,1704,SH3N,1,1
+3N,SU,3704,Mall via Schilletter,1,1701,SH3N,1,1
+3N,SU,3706,Mall via Schilletter,1,1705,SH3N,1,1
+3N,SU,3708,Mall via Schilletter,1,1702,SH3N,1,1
+3N,SU,3710,Mall via Schilletter,1,1704,SH3N,1,1
+3N,SU,3712,Mall via Schilletter,1,1701,SH3N,1,1
+3N,SU,3716,Mall via Schilletter,1,1705,SH3N,1,1
+3N,SU,3720,Mall via Schilletter,1,1702,SH3N,1,1
+3N,SU,3724,Mall via Schilletter,1,1704,SH3N,1,1
+3N,SU,3728,Mall via Schilletter,1,1701,SH3N,1,1
+3N,SU,3732,Mall via Schilletter,1,1705,SH3N,1,1
+3N,SU,3736,Mall via Schilletter,1,1702,SH3N,1,1
+3N,SU,3740,Mall via Schilletter,1,1704,SH3N,1,1
+3N,SU,3744,Mall via Schilletter,1,1701,SH3N,1,1
+3N,SU,3748,Mall via Schilletter,1,1705,SH3N,1,1
+3N,SU_ISU,3752,Mall via Schilletter,1,1702,SH3N,1,1
+3N,SU,3756,Mall via Schilletter,1,1704,SH3N,1,1
+3N,SU_ISU,3758,Mall via Schilletter,1,1701,SH3N,1,1
+3N,SU,3760,Mall via Schilletter,1,1705,SH3N,1,1
+3N,SU_ISU,3762,Mall via Schilletter,1,1702,SH3N,1,1
+3N,SU,3764,Mall via Schilletter,1,1704,SH3N,1,1
+3N,SU,3766,Mall via Schilletter,1,1705,SH3N,1,1
+3B,SU_ISU,3714,Campus,1,1708,SH3BN,1,1
+3B,SU_ISU,3718,Campus,1,1708,SH3BN,1,1
+3B,SU_ISU,3722,Campus,1,1708,SH3BN,1,1
+3B,SU_ISU,3726,Campus,1,1708,SH3BN,1,1
+3B,SU_ISU,3730,Campus,1,1708,SH3BN,1,1
+3B,SU_ISU,3734,Campus,1,1708,SH3BN,1,1
+3B,SU_ISU,3738,Campus,1,1708,SH3BN,1,1
+3B,SU_ISU,3742,Campus,1,1708,SH3BN,1,1
+3B,SU_ISU,3746,Campus,1,1708,SH3BN,1,1
+3B,SU_ISU,3750,Campus,1,1708,SH3BN,1,1
+3B,SU_ISU,3754,Campus,1,1708,SH3BN,1,1
+4,MWF,41301,Campus,0,1304,SH4I,1,1
+4,TTH,41501,Campus,0,1403,SH4I,1,1
+4,WD,41181,Campus,0,1042,SH4I,1,1
+4,WD,41182,Campus,0,1042,SH4I,1,1
+4,WD,41183,Campus,0,1042,SH4I,1,1
+4,WD,41184,Campus,0,1042,SH4I,1,1
+4,WD_1A,41185,Campus,0,1045,SH4I,1,1
+4,WDX,41189,Campus,0,1045,SH4I,1,1
+4,WD_1A,41186,Campus,0,1045,SH4I,1,1
+4,WD,41187,Campus,0,1045,SH4I,1,1
+4,WD,41188,Campus,0,1045,SH4I,1,1
+4,WD,41881,S. Dayton via ISC/S. 16th,1,1042,SH4O,1,1
+4,WD,41882,S. Dayton via ISC/S. 16th,1,1042,SH4O,1,1
+4,WD,41883,S. Dayton via ISC/S. 16th,1,1042,SH4O,1,1
+4,WD,41884,S. Dayton via ISC/S. 16th,1,1042,SH4O,1,1
+4,WD_ISU,41885,S. Dayton via ISC/S. 16th,1,1045,SH4O,1,1
+4,WDX,41889,S. Dayton via ISC/S. 16th,1,1045,SH4O,1,1
+4,WD_1A,41886,S. Dayton via ISC/S. 16th,1,1045,SH4O,1,1
+4,WD,41887,S. Dayton via ISC/S. 16th,1,1045,SH4O,1,1
+4,WD,41888,S. Dayton via ISC/S. 16th,1,1045,SH4O,1,1
+4A,WD,41191,S. Duff/Jewel,0,1049,SH4AO,1,1
+4A,WD,41192,S. Duff/Jewel,0,1049,SH4AO,1,1
+4A,WD,41193,S. Duff/Jewel,0,1049,SH4AO,1,1
+4A,WD,41194,S. Duff/Jewel,0,1049,SH4AO,1,1
+4A,WD,41891,Campus via S. 16th,0,1049,SH4AI,1,1
+4A,WD,41892,Campus via S. 16th,0,1049,SH4AI,1,1
+4A,WD,41893,Campus via S. 16th,0,1049,SH4AI,1,1
+4A,WD,41894,Campus via S. 16th,0,1049,SH4AI,1,1
+5,WD,5001,Kate Mitchell via S. Duff,0,1031,SH5S,1,1
+5,WD,5002,Kate Mitchell via S. Duff,0,1031,SH5S,1,1
+5,WD,5003,Kate Mitchell via S. Duff,0,1031,SH5S,1,1
+5,WD,5004,Kate Mitchell via S. Duff,0,1031,SH5S,1,1
+5,WD,5005,Kate Mitchell via S. Duff,0,1031,SH5S,1,1
+5,WD,5006,Kate Mitchell via S. Duff,0,1031,SH5S,1,1
+5,WD,5007,Kate Mitchell via S. Duff,0,1031,SH5S,1,1
+5,WD,5008,Kate Mitchell via S. Duff,0,1031,SH5S,1,1
+5,WD,5009,Kate Mitchell via S. Duff,0,1050,SH5S,1,1
+5,WD,5010,Kate Mitchell via S. Duff,0,1050,SH5S,1,1
+5,WD,5011,Kate Mitchell via S. Duff,0,1050,SH5S,1,1
+5,WD,5012,Kate Mitchell via S. Duff,0,1050,SH5S,1,1
+5,WD,5013,Kate Mitchell via S. Duff,0,1050,SH5S,1,1
+5,WD6,5014,Kate Mitchell via S. Duff,0,1050,SH5S,1,1
+5,SA,5601,Kate Mitchell via S. Duff,0,1608,SH5S,1,1
+5,SA,5602,Kate Mitchell via S. Duff,0,1608,SH5S,1,1
+5,SA,5603,Kate Mitchell via S. Duff,0,1608,SH5S,1,1
+5,SA,5604,Kate Mitchell via S. Duff,0,1608,SH5S,1,1
+5,SA,5605,Kate Mitchell via S. Duff,0,1608,SH5S,1,1
+5,SA,5606,Kate Mitchell via S. Duff,0,1608,SH5S,1,1
+5,SA,5607,Kate Mitchell via S. Duff,0,1608,SH5S,1,1
+5,SA,5608,Kate Mitchell via S. Duff,0,1608,SH5S,1,1
+5,SA,5609,Kate Mitchell via S. Duff,0,1608,SH5S,1,1
+5,SA,5610,Kate Mitchell via S. Duff,0,1608,SH5S,1,1
+5,SA,5611,Kate Mitchell via S. Duff,0,1608,SH5S,1,1
+5,SA,5612,Kate Mitchell via S. Duff,0,1608,SH5S,1,1
+5,SA,5613,Kate Mitchell via S. Duff,0,1608,SH5S,1,1
+5,SA,5614,Kate Mitchell via S. Duff,0,1608,SH5S,1,1
+5,SA6,5615,Kate Mitchell via S. Duff,0,1608,SH5S,1,1
+5,WD,5801,Downtown via S. Duff,1,1031,SH5N,1,1
+5,WD,5802,Downtown via S. Duff,1,1031,SH5N,1,1
+5,WD,5803,Downtown via S. Duff,1,1031,SH5N,1,1
+5,WD,5804,Downtown via S. Duff,1,1031,SH5N,1,1
+5,WD,5805,Downtown via S. Duff,1,1031,SH5N,1,1
+5,WD,5806,Downtown via S. Duff,1,1031,SH5N,1,1
+5,WD,5807,Downtown via S. Duff,1,1031,SH5N,1,1
+5,WD,5808,Downtown via S. Duff,1,1031,SH5N,1,1
+5,WD,5809,Downtown via S. Duff,1,1050,SH5N,1,1
+5,WD,5810,Downtown via S. Duff,1,1050,SH5N,1,1
+5,WD,5811,Downtown via S. Duff,1,1050,SH5N,1,1
+5,WD,5812,Downtown via S. Duff,1,1050,SH5N,1,1
+5,WD,5813,Downtown via S. Duff,1,1050,SH5N,1,1
+5,WD6,5814,Downtown via S. Duff,1,1050,SH5N,1,1
+5,SA,5901,Downtown via S. Duff,1,1608,SH5N,1,1
+5,SA,5902,Downtown via S. Duff,1,1608,SH5N,1,1
+5,SA,5903,Downtown via S. Duff,1,1608,SH5N,1,1
+5,SA,5904,Downtown via S. Duff,1,1608,SH5N,1,1
+5,SA,5905,Downtown via S. Duff,1,1608,SH5N,1,1
+5,SA,5906,Downtown via S. Duff,1,1608,SH5N,1,1
+5,SA,5907,Downtown via S. Duff,1,1608,SH5N,1,1
+5,SA,5908,Downtown via S. Duff,1,1608,SH5N,1,1
+5,SA,5909,Downtown via S. Duff,1,1608,SH5N,1,1
+5,SA,5910,Downtown via S. Duff,1,1608,SH5N,1,1
+5,SA,5911,Downtown via S. Duff,1,1608,SH5N,1,1
+5,SA,5912,Downtown via S. Duff,1,1608,SH5N,1,1
+5,SA,5913,Downtown via S. Duff,1,1608,SH5N,1,1
+5,SA,5914,Downtown via S. Duff,1,1608,SH5N,1,1
+5,SA6,5915,Downtown via S. Duff,1,1608,SH5N,1,1
+6A,WD_6A,6111,Towers/Campus,0,1051,SH6A,1,1
+6A,WD_6A,6112,Towers/Campus,0,1051,SH6A,1,1
+6A,WD_6A,6113,Towers/Campus,0,1051,SH6A,1,1
+6A,WD_6A,6114,Towers/Campus,0,1051,SH6A,1,1
+6A,WD_6A,6115,Towers/Campus,0,1051,SH6A,1,1
+6A,WD_6A,6116,Towers/Campus,0,1051,SH6A,1,1
+6A,WD_6A,6117,Towers/Campus,0,1051,SH6A,1,1
+6A,WD_6A,6118,Towers/Campus,0,1051,SH6A,1,1
+6A,WD_6A,6119,Towers/Campus,0,1051,SH6A,1,1
+6A,WD_6A,6120,Towers/Campus,0,1051,SH6A,1,1
+6A,WD_6A,6121,Towers/Campus,0,1051,SH6A,1,1
+6A,WD_6A,6122,Towers/Campus,0,1051,SH6A,1,1
+6A,WD_6A,6123,Towers/Campus,0,1051,SH6A,1,1
+6A,WD_6A,6124,Towers/Campus,0,1051,SH6A,1,1
+6A,SA_ISU,6621,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6622,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6623,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6624,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6625,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6626,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6627,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6628,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6629,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6630,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6631,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6632,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6633,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6634,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6635,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6636,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6637,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6638,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6639,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6640,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6641,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6642,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6643,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6644,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6645,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6646,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6647,Towers/Campus,0,1609,SH6A,1,1
+6A,SA_ISU,6648,Towers/Campus,0,1609,SH6A,1,1
+6A,SU_ISU,6721,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6722,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6723,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6724,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6725,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6726,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6727,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6728,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6729,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6730,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6731,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6732,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6733,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6734,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6735,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6736,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6737,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6738,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6739,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6740,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6741,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6742,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6743,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6744,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6745,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6746,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6747,Towers/Campus,0,1707,SH6A,1,1
+6A,SU_ISU,6748,Towers/Campus,0,1707,SH6A,1,1
+6B,WD,6079,Campus,0,1020,SH6BS,1,1
+6B,WD,6081,Campus,0,1046,SH6BS,1,1
+6B,WD,6083,Campus,0,1046,SH6BS,1,1
+6B,WD,6085,Campus,0,1046,SH6BS,1,1
+6B,SA,6601,Campus,0,1605,SH6BS,1,1
+6B,SA,6602,Campus,0,1606,SH6BS,1,1
+6B,SA,6603,Campus,0,1607,SH6BS,1,1
+6B,SA,6604,Campus,0,1605,SH6BS,1,1
+6B,SA,6605,Campus,0,1606,SH6BS,1,1
+6B,SA,6606,Campus,0,1607,SH6BS,1,1
+6B,SA,6607,Campus,0,1605,SH6BS,1,1
+6B,SA,6608,Campus,0,1606,SH6BS,1,1
+6B,SA,6609,Campus,0,1607,SH6BS,1,1
+6B,SA,6610,Campus,0,1605,SH6BS,1,1
+6B,SA,6611,Campus,0,1606,SH6BS,1,1
+6B,SA,6612,Campus,0,1607,SH6BS,1,1
+6B,SA,6613,Campus,0,1605,SH6BS,1,1
+6B,SA,6614,Campus,0,1606,SH6BS,1,1
+6B,SA,6615,Campus,0,1607,SH6BS,1,1
+6B,WD,6879,Mall via Somerset,1,1020,SH6BN,1,1
+6B,WD,6881,Mall via Somerset,1,1046,SH6BN,1,1
+6B,WD,6883,Mall via Somerset,1,1046,SH6BN,1,1
+6B,WD,6885,Mall via Somerset,1,1046,SH6BN,1,1
+6B,SA,6901,Mall via Somerset,1,1605,SH6BN,1,1
+6B,SA,6902,Mall via Somerset,1,1606,SH6BN,1,1
+6B,SA,6903,Mall via Somerset,1,1607,SH6BN,1,1
+6B,SA,6904,Mall via Somerset,1,1605,SH6BN,1,1
+6B,SA,6905,Mall via Somerset,1,1606,SH6BN,1,1
+6B,SA,6906,Mall via Somerset,1,1607,SH6BN,1,1
+6B,SA,6907,Mall via Somerset,1,1605,SH6BN,1,1
+6B,SA,6908,Mall via Somerset,1,1606,SH6BN,1,1
+6B,SA,6909,Mall via Somerset,1,1607,SH6BN,1,1
+6B,SA,6910,Mall via Somerset,1,1605,SH6BN,1,1
+6B,SA,6911,Mall via Somerset,1,1606,SH6BN,1,1
+6B,SA,6912,Mall via Somerset,1,1607,SH6BN,1,1
+6B,SA,6913,Mall via Somerset,1,1605,SH6BN,1,1
+6B,SA,6914,Mall via Somerset,1,1606,SH6BN,1,1
+6B,SA,6915,Mall via Somerset,1,1607,SH6BN,1,1
+6N,WD_ISU,6002,Mall via Somerset,1,1066,SH6N,1,1
+6N,WD,6004,Mall via Somerset,1,1004,SH6N,1,1
+6N,WD,6006,Mall via Somerset,1,1008,SH6N,1,1
+6N,WD,6008,Mall via Somerset,1,1012,SH6N,1,1
+6N,WD,6010,Mall via Somerset,1,1014,SH6N,1,1
+6N,WD,6012,Mall via Somerset,1,1004,SH6N,1,1
+6N,WD,6014,Mall via Somerset,1,1007,SH6N,1,1
+6N,WD,6016,Mall via Somerset,1,1013,SH6N,1,1
+6N,WD,6018,Mall via Somerset,1,1003,SH6N,1,1
+6N,WD,6020,Mall via Somerset,1,1005,SH6N,1,1
+6N,WD,6022,Mall via Somerset,1,1014,SH6N,1,1
+6N,WD,6024,Mall via Somerset,1,1004,SH6N,1,1
+6N,WD,6026,Mall via Somerset,1,1006,SH6N,1,1
+6N,WD,6028,Mall via Somerset,1,1024,SH6N,1,1
+6N,WD,6030,Mall via Somerset,1,1013,SH6N,1,1
+6N,WD,6032,Mall via Somerset,1,1027,SH6N,1,1
+6N,WD,6034,Mall via Somerset,1,1002,SH6N,1,1
+6N,WD,6036,Mall via Somerset,1,1037,SH6N,1,1
+6N,WD,6038,Mall via Somerset,1,1007,SH6N,1,1
+6N,WD,6040,Mall via Somerset,1,1023,SH6N,1,1
+6N,WD,6042,Mall via Somerset,1,1018,SH6N,1,1
+6N,WD,6044,Mall via Somerset,1,1009,SH6N,1,1
+6N,WD,6046,Mall via Somerset,1,1001,SH6N,1,1
+6N,WD,6048,Mall via Somerset,1,1028,SH6N,1,1
+6N,WD,6050,Mall via Somerset,1,1019,SH6N,1,1
+6N,WD,6052,Mall via Somerset,1,1024,SH6N,1,1
+6N,WD,6054,Mall via Somerset,1,1018,SH6N,1,1
+6N,WD,6056,Mall via Somerset,1,1026,SH6N,1,1
+6N,WD,6058,Mall via Somerset,1,1025,SH6N,1,1
+6N,WD,6060,Mall via Somerset,1,1003,SH6N,1,1
+6N,WD,6062,Mall via Somerset,1,1005,SH6N,1,1
+6N,WD,6064,Mall via Somerset,1,1021,SH6N,1,1
+6N,WD,6066,Mall via Somerset,1,1022,SH6N,1,1
+6N,WD,6068,Mall via Somerset,1,1014,SH6N,1,1
+6N,WD,6070,Mall via Somerset,1,1004,SH6N,1,1
+6N,WD,6072,Mall via Somerset,1,1037,SH6N,1,1
+6N,WD,6074,Mall via Somerset,1,1019,SH6N,1,1
+6N,WD,6076,Mall via Somerset,1,1006,SH6N,1,1
+6N,WD6,6078,Mall via Somerset,1,1013,SH6N,1,1
+6N,WD6,6080,Mall via Somerset,1,1002,SH6N,1,1
+6S,WD,6001,ISU Research Park,0,1008,SH6S,1,1
+6S,WD,6003,ISU Research Park,0,1014,SH6S,1,1
+6S,WD,6005,ISU Research Park,0,1004,SH6S,1,1
+6S,WD,6007,ISU Research Park,0,1007,SH6S,1,1
+6S,WD,6009,ISU Research Park,0,1013,SH6S,1,1
+6S,WD,6011,ISU Research Park,0,1017,SH6S,1,1
+6S,WD,6013,ISU Research Park,0,1003,SH6S,1,1
+6S,WD,6015,ISU Research Park,0,1005,SH6S,1,1
+6S,WD,6017,ISU Research Park,0,1014,SH6S,1,1
+6S,WD,6019,ISU Research Park,0,1004,SH6S,1,1
+6S,WD,6021,ISU Research Park,0,1006,SH6S,1,1
+6S,WD,6023,ISU Research Park,0,1024,SH6S,1,1
+6S,WD,6025,ISU Research Park,0,1013,SH6S,1,1
+6S,WD,6027,ISU Research Park,0,1027,SH6S,1,1
+6S,WD,6029,ISU Research Park,0,1002,SH6S,1,1
+6S,WD,6031,ISU Research Park,0,1037,SH6S,1,1
+6S,WD,6033,ISU Research Park,0,1007,SH6S,1,1
+6S,WD,6035,ISU Research Park,0,1023,SH6S,1,1
+6S,WD,6037,ISU Research Park,0,1018,SH6S,1,1
+6S,WD,6039,ISU Research Park,0,1009,SH6S,1,1
+6S,WD,6041,ISU Research Park,0,1001,SH6S,1,1
+6S,WD,6043,ISU Research Park,0,1028,SH6S,1,1
+6S,WD,6045,ISU Research Park,0,1019,SH6S,1,1
+6S,WD,6047,ISU Research Park,0,1024,SH6S,1,1
+6S,WD,6049,ISU Research Park,0,1018,SH6S,1,1
+6S,WD,6051,ISU Research Park,0,1026,SH6S,1,1
+6S,WD,6053,ISU Research Park,0,1025,SH6S,1,1
+6S,WD,6055,ISU Research Park,0,1003,SH6S,1,1
+6S,WD,6057,ISU Research Park,0,1005,SH6S,1,1
+6S,WD,6059,ISU Research Park,0,1021,SH6S,1,1
+6S,WD,6061,ISU Research Park,0,1022,SH6S,1,1
+6S,WD,6063,ISU Research Park,0,1014,SH6S,1,1
+6S,WD,6065,ISU Research Park,0,1004,SH6S,1,1
+6S,WD,6067,ISU Research Park,0,1037,SH6S,1,1
+6S,WD,6069,ISU Research Park,0,1019,SH6S,1,1
+6S,WD,6071,ISU Research Park,0,1006,SH6S,1,1
+6S,WD,6073,ISU Research Park,0,1013,SH6S,1,1
+6S,WD,6075,ISU Research Park,0,1009,SH6S,1,1
+6S,WD,6077,ISU Research Park,0,1002,SH6S,1,1
+7,WD,7801,Memorial Union,0,1041,SH7E,1,1
+7,WD,7802,Memorial Union,0,1041,SH7E,1,1
+7,WD,7803,Memorial Union,0,1041,SH7E,1,1
+7,WD,7806,Memorial Union,0,1044,SH7E,1,1
+7,WD,7807,Memorial Union,0,1044,SH7E,1,1
+7,WD,7001,West Ames via L. Way,1,1041,SH7W,1,1
+7,WD,7002,West Ames via L. Way,1,1041,SH7W,1,1
+7,WD,7003,West Ames via L. Way,1,1041,SH7W,1,1
+7,WD,7005,West Ames via L. Way,1,1044,SH7W,1,1
+7,WD,7006,West Ames via L. Way,1,1044,SH7W,1,1
+7,WD,7007,West Ames via L. Way,1,1044,SH7W,1,1
+9,WD_ISU,9101,Campus,0,1073,SH9I,1,1
+9,WD_ISU,9102,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9103,Campus,0,1073,SH9I,1,1
+9,WD_ISU,9104,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9105,Campus,0,1073,SH9I,1,1
+9,WD_ISU,9106,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9107,Campus,0,1073,SH9I,1,1
+9,WD_ISU,9108,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9109,Campus,0,1073,SH9I,1,1
+9,WD_ISU,9110,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9111,Campus,0,1073,SH9I,1,1
+9,WD_ISU,9112,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9113,Campus,0,1073,SH9I,1,1
+9,WD_ISU,9114,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9115,Campus,0,1073,SH9I,1,1
+9,WD_ISU,9116,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9117,Campus,0,1073,SH9I,1,1
+9,WD_ISU,9118,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9119,Campus,0,1073,SH9I,1,1
+9,WD_ISU,9120,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9121,Campus,0,1073,SH9I,1,1
+9,WD_ISU,9122,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9123,Campus,0,1073,SH9I,1,1
+9,WD_ISU,9124,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9125,Campus,0,1073,SH9I,1,1
+9,WD_ISU,9126,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9127,Campus,0,1073,SH9I,1,1
+9,WD_ISU,9128,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9129,Campus,0,1073,SH9I,1,1
+9,WD_ISU,9130,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9131,Campus,0,1073,SH9I,1,1
+9,WD_ISU,9132,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9133,Campus,0,1073,SH9I,1,1
+9,WD_ISU,9134,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9135,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9136,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9137,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9138,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9139,Campus,0,1072,SH9I,1,1
+9,WD_ISU,9801,S. 16th / Buckeye,0,1073,SH9O,1,1
+9,WD_ISU,9802,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9803,S. 16th / Buckeye,0,1073,SH9O,1,1
+9,WD_ISU,9804,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9805,S. 16th / Buckeye,0,1073,SH9O,1,1
+9,WD_ISU,9806,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9807,S. 16th / Buckeye,0,1073,SH9O,1,1
+9,WD_ISU,9808,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9809,S. 16th / Buckeye,0,1073,SH9O,1,1
+9,WD_ISU,9810,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9811,S. 16th / Buckeye,0,1073,SH9O,1,1
+9,WD_ISU,9812,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9813,S. 16th / Buckeye,0,1073,SH9O,1,1
+9,WD_ISU,9814,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9815,S. 16th / Buckeye,0,1073,SH9O,1,1
+9,WD_ISU,9816,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9817,S. 16th / Buckeye,0,1073,SH9O,1,1
+9,WD_ISU,9818,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9819,S. 16th / Buckeye,0,1073,SH9O,1,1
+9,WD_ISU,9820,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9821,S. 16th / Buckeye,0,1073,SH9O,1,1
+9,WD_ISU,9822,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9823,S. 16th / Buckeye,0,1073,SH9O,1,1
+9,WD_ISU,9824,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9825,S. 16th / Buckeye,0,1073,SH9O,1,1
+9,WD_ISU,9826,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9827,S. 16th / Buckeye,0,1073,SH9O,1,1
+9,WD_ISU,9828,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9829,S. 16th / Buckeye,0,1073,SH9O,1,1
+9,WD_ISU,9830,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9831,S. 16th / Buckeye,0,1073,SH9O,1,1
+9,WD_ISU,9832,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9833,S. 16th / Buckeye,0,1073,SH9O,1,1
+9,WD_ISU,9834,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9835,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9836,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9837,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9838,S. 16th / Buckeye,0,1072,SH9O,1,1
+9,WD_ISU,9839,S. 16th / Buckeye,0,1072,SH9O,1,1
+10,WD,10101,Philadelphia via E. Lincoln Way,0,1040,SH10E,1,1
+10,WD,10102,Philadelphia via E. Lincoln Way,0,1040,SH10E,1,1
+10,WD,10103,Philadelphia via E. Lincoln Way,0,1040,SH10E,1,1
+10,WD,10104,Philadelphia via E. Lincoln Way,0,1043,SH10E,1,1
+10,WD,10105,Philadelphia via E. Lincoln Way,0,1043,SH10E,1,1
+10,WD,10106,Philadelphia via E. Lincoln Way,0,1043,SH10E,1,1
+10,WD,10801,City Hall via E. Lincoln Way,1,1040,SH10W,1,1
+10,WD,10802,City Hall via E. Lincoln Way,1,1040,SH10W,1,1
+10,WD,10803,City Hall via E. Lincoln Way,1,1040,SH10W,1,1
+10,WD,10804,City Hall via E. Lincoln Way,1,1043,SH10W,1,1
+10,WD,10805,City Hall via E. Lincoln Way,1,1043,SH10W,1,1
+10,WD,10806,City Hall via E. Lincoln Way,1,1043,SH10W,1,1
+21,WD_ISU,8001,Free Circulator/Frederiksen Ct.,0,1066,SH21,1,1
+21,WD_ISU,8002,Free Circulator/Frederiksen Ct.,0,1065,SH21,1,1
+21,WD_ISU,8003,Free Circulator/Frederiksen Ct.,0,1066,SH21,1,1
+21,WD_ISU,8004,Free Circulator/Frederiksen Ct.,0,1067,SH21,1,1
+21,WD_ISU,8005,Free Circulator/Frederiksen Ct.,0,1065,SH21,1,1
+21,WD_ISU,8006,Free Circulator/Frederiksen Ct.,0,1066,SH21,1,1
+21,WD_ISU,8007,Free Circulator/Frederiksen Ct.,0,1067,SH21,1,1
+21,WD_ISU,8008,Free Circulator/Frederiksen Ct.,0,1065,SH21,1,1
+21,WD_ISU,8009,Free Circulator/Frederiksen Ct.,0,1066,SH21,1,1
+21,WD_ISU,8010,Free Circulator/Frederiksen Ct.,0,1067,SH21,1,1
+21,WD_ISU,8011,Free Circulator/Frederiksen Ct.,0,1065,SH21,1,1
+21,WD_ISU,8012,Free Circulator/Frederiksen Ct.,0,1066,SH21,1,1
+21,WD_ISU,8013,Free Circulator/Frederiksen Ct.,0,1067,SH21,1,1
+21,WD_ISU,8014,Free Circulator/Frederiksen Ct.,0,1065,SH21,1,1
+21,WD_ISU,8015,Free Circulator/Frederiksen Ct.,0,1066,SH21,1,1
+21,WD_ISU,8016,Free Circulator/Frederiksen Ct.,0,1067,SH21,1,1
+21,WD_ISU,8017,Free Circulator/Frederiksen Ct.,0,1065,SH21,1,1
+21,WD_ISU,8018,Free Circulator/Frederiksen Ct.,0,1066,SH21,1,1
+21,WD_ISU,8019,Free Circulator/Frederiksen Ct.,0,1067,SH21,1,1
+21,WD_ISU,8020,Free Circulator/Frederiksen Ct.,0,1065,SH21,1,1
+21,WD_ISU,8021,Free Circulator/Frederiksen Ct.,0,1066,SH21,1,1
+21,WD_ISU,8022,Free Circulator/Frederiksen Ct.,0,1071,SH21,1,1
+21,WD_ISU,8023,Free Circulator/Frederiksen Ct.,0,1065,SH21,1,1
+21,WD_ISU,8024,Free Circulator/Frederiksen Ct.,0,1066,SH21,1,1
+21,WD_ISU,8025,Free Circulator/Frederiksen Ct.,0,1067,SH21,1,1
+21,WD_ISU,8026,Free Circulator/Frederiksen Ct.,0,1065,SH21,1,1
+21,WD_ISU,8027,Free Circulator/Frederiksen Ct.,0,1066,SH21,1,1
+21,WD_ISU,8028,Free Circulator/Frederiksen Ct.,0,1071,SH21,1,1
+21,WD_ISU,8029,Free Circulator/Frederiksen Ct.,0,1065,SH21,1,1
+21,WD_ISU,8030,Free Circulator/Frederiksen Ct.,0,1066,SH21,1,1
+21,WD_ISU,8031,Free Circulator/Frederiksen Ct.,0,1071,SH21,1,1
+21,WD_ISU,8032,Free Circulator/Frederiksen Ct.,0,1069,SH21,1,1
+21,WD_ISU,8033,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WD_ISU,8034,Free Circulator/Frederiksen Ct.,0,1071,SH21,1,1
+21,WD_ISU,8035,Free Circulator/Frederiksen Ct.,0,1069,SH21,1,1
+21,WD_ISU,8036,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WD_ISU,8037,Free Circulator/Frederiksen Ct.,0,1071,SH21,1,1
+21,WD_ISU,8038,Free Circulator/Frederiksen Ct.,0,1069,SH21,1,1
+21,WD_ISU,8039,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WD_ISU,8040,Free Circulator/Frederiksen Ct.,0,1071,SH21,1,1
+21,WD_ISU,8041,Free Circulator/Frederiksen Ct.,0,1069,SH21,1,1
+21,WD_ISU,8042,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WD_ISU,8043,Free Circulator/Frederiksen Ct.,0,1071,SH21,1,1
+21,WD_ISU,8044,Free Circulator/Frederiksen Ct.,0,1069,SH21,1,1
+21,WD_ISU,8045,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WD_ISU,8046,Free Circulator/Frederiksen Ct.,0,1071,SH21,1,1
+21,WD_ISU,8047,Free Circulator/Frederiksen Ct.,0,1069,SH21,1,1
+21,WD_ISU,8048,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WD_ISU,8049,Free Circulator/Frederiksen Ct.,0,1071,SH21,1,1
+21,WD_ISU,8050,Free Circulator/Frederiksen Ct.,0,1069,SH21,1,1
+21,WD_ISU,8051,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WD_ISU,8052,Free Circulator/Frederiksen Ct.,0,1071,SH21,1,1
+21,WD_ISU,8053,Free Circulator/Frederiksen Ct.,0,1069,SH21,1,1
+21,WD_ISU,8054,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WD_ISU,8055,Free Circulator/Frederiksen Ct.,0,1071,SH21,1,1
+21,WD_ISU,8056,Free Circulator/Frederiksen Ct.,0,1069,SH21,1,1
+21,WD_ISU,8057,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WD_ISU,8058,Free Circulator/Frederiksen Ct.,0,1071,SH21,1,1
+21,WD_ISU,8059,Free Circulator/Frederiksen Ct.,0,1069,SH21,1,1
+21,WD_ISU,8060,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WD_ISU,8061,Free Circulator/Frederiksen Ct.,0,1071,SH21,1,1
+21,WD_ISU,8062,Free Circulator/Frederiksen Ct.,0,1069,SH21,1,1
+21,WD_ISU,8064,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WD_ISU,8065,Free Circulator/Frederiksen Ct.,0,1071,SH21,1,1
+21,WD_ISU,8066,Free Circulator/Frederiksen Ct.,0,1069,SH21,1,1
+21,WD_ISU,8067,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WD_ISU,8068,Free Circulator/Frederiksen Ct.,0,1071,SH21,1,1
+21,WD_ISU,8069,Free Circulator/Frederiksen Ct.,0,1069,SH21,1,1
+21,WD_ISU,8070,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WD_ISU,8071,Free Circulator/Frederiksen Ct.,0,1069,SH21,1,1
+21,WD_ISU,8072,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WD_ISU,8073,Free Circulator/Frederiksen Ct.,0,1069,SH21,1,1
+21,WD_ISU,8074,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WD_ISU,8075,Free Circulator/Frederiksen Ct.,0,1069,SH21,1,1
+21,WD_ISU,8076,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WD_ISU,8077,Free Circulator/Frederiksen Ct.,0,1069,SH21,1,1
+21,WDF_ISU,8078,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WDF_ISU,8079,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WDF_ISU,8080,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WDF_ISU,8081,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WDF_ISU,8082,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WDF_ISU,8083,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WDF_ISU,8084,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WDF_ISU,8085,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WDF_ISU,8086,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WDF_ISU,8087,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WDF_ISU,8088,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WDF_ISU,8089,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+21,WDF_ISU,8090,Free Circulator/Frederiksen Ct.,0,1068,SH21,1,1
+22,WD_ISU,22001,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22002,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22003,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22004,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22005,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22006,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22007,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22008,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22009,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22010,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22011,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22012,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22013,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22014,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22015,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22016,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22017,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22018,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22019,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22020,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22021,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22022,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22023,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22024,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22025,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22026,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WD_ISU,22027,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WDF_ISU,22028,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WDF_ISU,22029,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WDF_ISU,22030,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WDF_ISU,22031,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+22,WDF_ISU,22032,Free Circulator/Molecular Bio,0,1070,SH22,1,1
+23,WD,4002,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4003,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD,4005,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4010,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD,4016,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4020,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD,4026,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4032,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD,4038,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4044,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD,4050,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4054,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD,4060,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4066,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD,4070,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4075,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD,4081,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4086,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD,4091,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4096,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD,4100,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4104,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD,4110,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4113,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD,4116,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4121,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD,4125,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4129,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD,4134,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4136,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD,4140,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4144,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD,4147,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4149,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD,4151,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD6,4152,Free Circulator/Vet Med via ISC,0,1048,SH23,1,1
+23,WD6,4153,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD_ORN,4162,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD_ORN,4163,Free Circulator/Vet Med via ISC,0,1047,SH23,1,1
+23,WD,4001,Free Circulator/Iowa State Center,0,1047,SH23ISC,1,1
+23,WD_ORN,4154,Free Circulator/Iowa State Center,0,1047,SH23ISC,1,1
+23,WD_ORN,4155,Free Circulator/Iowa State Center,0,1047,SH23ISC,1,1
+23,WD_ORN,4156,Free Circulator/Iowa State Center,0,1047,SH23ISC,1,1
+23,WD_ORN,4157,Free Circulator/Iowa State Center,0,1047,SH23ISC,1,1
+23,WD_ORN,4158,Free Circulator/Iowa State Center,0,1047,SH23ISC,1,1
+23,WD_ORN,4159,Free Circulator/Iowa State Center,0,1047,SH23ISC,1,1
+23,WD_ORN,4160,Free Circulator/Iowa State Center,0,1047,SH23ISC,1,1
+23,WD_ORN,4161,Free Circulator/Iowa State Center,0,1047,SH23ISC,1,1
+23,MWF,4304,Free Circulator/Iowa State Center,0,1301,SH23ISC,1,1
+23,MWF,4306,Free Circulator/Iowa State Center,0,1304,SH23ISC,1,1
+23,MWF,4307,Free Circulator/Iowa State Center,0,1306,SH23ISC,1,1
+23,MWF,4308,Free Circulator/Iowa State Center,0,1301,SH23ISC,1,1
+23,MWF,4309,Free Circulator/Iowa State Center,0,1309,SH23ISC,1,1
+23,MWF,4311,Free Circulator/Iowa State Center,0,1313,SH23ISC,1,1
+23,MWF,4312,Free Circulator/Iowa State Center,0,1314,SH23ISC,1,1
+23,MWF,4313,Free Circulator/Iowa State Center,0,1304,SH23ISC,1,1
+23,MWF,4314,Free Circulator/Iowa State Center,0,1306,SH23ISC,1,1
+23,MWF,4315,Free Circulator/Iowa State Center,0,1301,SH23ISC,1,1
+23,MWF,4317,Free Circulator/Iowa State Center,0,1309,SH23ISC,1,1
+23,MWF,4318,Free Circulator/Iowa State Center,0,1313,SH23ISC,1,1
+23,MWF,4319,Free Circulator/Iowa State Center,0,1314,SH23ISC,1,1
+23,MWF,4321,Free Circulator/Iowa State Center,0,1304,SH23ISC,1,1
+23,MWF,4322,Free Circulator/Iowa State Center,0,1306,SH23ISC,1,1
+23,MWF,4323,Free Circulator/Iowa State Center,0,1301,SH23ISC,1,1
+23,MWF,4324,Free Circulator/Iowa State Center,0,1309,SH23ISC,1,1
+23,MWF,4325,Free Circulator/Iowa State Center,0,1313,SH23ISC,1,1
+23,MWF,4327,Free Circulator/Iowa State Center,0,1314,SH23ISC,1,1
+23,MWF,4328,Free Circulator/Iowa State Center,0,1304,SH23ISC,1,1
+23,MWF,4329,Free Circulator/Iowa State Center,0,1306,SH23ISC,1,1
+23,MWF,4330,Free Circulator/Iowa State Center,0,1301,SH23ISC,1,1
+23,MWF,4331,Free Circulator/Iowa State Center,0,1309,SH23ISC,1,1
+23,MWF,4333,Free Circulator/Iowa State Center,0,1313,SH23ISC,1,1
+23,MWF,4335,Free Circulator/Iowa State Center,0,1314,SH23ISC,1,1
+23,MWF,4337,Free Circulator/Iowa State Center,0,1304,SH23ISC,1,1
+23,MWF,4339,Free Circulator/Iowa State Center,0,1307,SH23ISC,1,1
+23,MWF,4340,Free Circulator/Iowa State Center,0,1302,SH23ISC,1,1
+23,MWF,4341,Free Circulator/Iowa State Center,0,1310,SH23ISC,1,1
+23,MWF,4342,Free Circulator/Iowa State Center,0,1313,SH23ISC,1,1
+23,MWF,4343,Free Circulator/Iowa State Center,0,1314,SH23ISC,1,1
+23,MWF,4345,Free Circulator/Iowa State Center,0,1304,SH23ISC,1,1
+23,MWF,4346,Free Circulator/Iowa State Center,0,1307,SH23ISC,1,1
+23,MWF,4347,Free Circulator/Iowa State Center,0,1302,SH23ISC,1,1
+23,MWF,4348,Free Circulator/Iowa State Center,0,1310,SH23ISC,1,1
+23,MWF,4349,Free Circulator/Iowa State Center,0,1313,SH23ISC,1,1
+23,MWF,4351,Free Circulator/Iowa State Center,0,1314,SH23ISC,1,1
+23,MWF,4352,Free Circulator/Iowa State Center,0,1304,SH23ISC,1,1
+23,MWF,4353,Free Circulator/Iowa State Center,0,1307,SH23ISC,1,1
+23,MWF,4355,Free Circulator/Iowa State Center,0,1302,SH23ISC,1,1
+23,MWF,4356,Free Circulator/Iowa State Center,0,1310,SH23ISC,1,1
+23,MWF,4357,Free Circulator/Iowa State Center,0,1313,SH23ISC,1,1
+23,MWF,4358,Free Circulator/Iowa State Center,0,1314,SH23ISC,1,1
+23,MWF,4359,Free Circulator/Iowa State Center,0,1304,SH23ISC,1,1
+23,MWF,4361,Free Circulator/Iowa State Center,0,1307,SH23ISC,1,1
+23,MWF,4362,Free Circulator/Iowa State Center,0,1302,SH23ISC,1,1
+23,MWF,4363,Free Circulator/Iowa State Center,0,1310,SH23ISC,1,1
+23,MWF,4364,Free Circulator/Iowa State Center,0,1313,SH23ISC,1,1
+23,MWF,4365,Free Circulator/Iowa State Center,0,1314,SH23ISC,1,1
+23,MWF,4367,Free Circulator/Iowa State Center,0,1304,SH23ISC,1,1
+23,MWF,4368,Free Circulator/Iowa State Center,0,1307,SH23ISC,1,1
+23,MWF,4369,Free Circulator/Iowa State Center,0,1310,SH23ISC,1,1
+23,MWF,4371,Free Circulator/Iowa State Center,0,1313,SH23ISC,1,1
+23,MWF,4372,Free Circulator/Iowa State Center,0,1314,SH23ISC,1,1
+23,MWF,4373,Free Circulator/Iowa State Center,0,1304,SH23ISC,1,1
+23,MWF,4374,Free Circulator/Iowa State Center,0,1308,SH23ISC,1,1
+23,MWF,4376,Free Circulator/Iowa State Center,0,1310,SH23ISC,1,1
+23,MWF,4377,Free Circulator/Iowa State Center,0,1303,SH23ISC,1,1
+23,MWF,4378,Free Circulator/Iowa State Center,0,1313,SH23ISC,1,1
+23,MWF,4379,Free Circulator/Iowa State Center,0,1314,SH23ISC,1,1
+23,MWF,4380,Free Circulator/Iowa State Center,0,1304,SH23ISC,1,1
+23,MWF,4382,Free Circulator/Iowa State Center,0,1308,SH23ISC,1,1
+23,MWF,4384,Free Circulator/Iowa State Center,0,1303,SH23ISC,1,1
+23,MWF,4385,Free Circulator/Iowa State Center,0,1313,SH23ISC,1,1
+23,MWF,4388,Free Circulator/Iowa State Center,0,1304,SH23ISC,1,1
+23,MWF,4389,Free Circulator/Iowa State Center,0,1308,SH23ISC,1,1
+23,MWF,4390,Free Circulator/Iowa State Center,0,1303,SH23ISC,1,1
+23,MWF,4392,Free Circulator/Iowa State Center,0,1313,SH23ISC,1,1
+23,MWF,4393,Free Circulator/Iowa State Center,0,1311,SH23ISC,1,1
+23,MWF,4394,Free Circulator/Iowa State Center,0,1304,SH23ISC,1,1
+23,MWF,4395,Free Circulator/Iowa State Center,0,1315,SH23ISC,1,1
+23,MWF,4397,Free Circulator/Iowa State Center,0,1308,SH23ISC,1,1
+23,MWF,4398,Free Circulator/Iowa State Center,0,1303,SH23ISC,1,1
+23,MWF,4399,Free Circulator/Iowa State Center,0,1311,SH23ISC,1,1
+23,MWF,4401,Free Circulator/Iowa State Center,0,1315,SH23ISC,1,1
+23,MWF,4402,Free Circulator/Iowa State Center,0,1308,SH23ISC,1,1
+23,MWF,4403,Free Circulator/Iowa State Center,0,1303,SH23ISC,1,1
+23,MWF,4405,Free Circulator/Iowa State Center,0,1311,SH23ISC,1,1
+23,MWF,4406,Free Circulator/Iowa State Center,0,1315,SH23ISC,1,1
+23,MWF,4407,Free Circulator/Iowa State Center,0,1308,SH23ISC,1,1
+23,MWF,4408,Free Circulator/Iowa State Center,0,1305,SH23ISC,1,1
+23,MWF,4411,Free Circulator/Iowa State Center,0,1311,SH23ISC,1,1
+23,MWF,4412,Free Circulator/Iowa State Center,0,1315,SH23ISC,1,1
+23,MWF,4414,Free Circulator/Iowa State Center,0,1305,SH23ISC,1,1
+23,MWF,4415,Free Circulator/Iowa State Center,0,1311,SH23ISC,1,1
+23,MWF,4417,Free Circulator/Iowa State Center,0,1315,SH23ISC,1,1
+23,MWF,4419,Free Circulator/Iowa State Center,0,1305,SH23ISC,1,1
+23,MWF,4420,Free Circulator/Iowa State Center,0,1311,SH23ISC,1,1
+23,MWF,4423,Free Circulator/Iowa State Center,0,1315,SH23ISC,1,1
+23,MWF,4427,Free Circulator/Iowa State Center,0,1305,SH23ISC,1,1
+23,MWF,4428,Free Circulator/Iowa State Center,0,1312,SH23ISC,1,1
+23,MWF,4430,Free Circulator/Iowa State Center,0,1316,SH23ISC,1,1
+23,MWF,4431,Free Circulator/Iowa State Center,0,1305,SH23ISC,1,1
+23,MWF,4433,Free Circulator/Iowa State Center,0,1312,SH23ISC,1,1
+23,MWF,4435,Free Circulator/Iowa State Center,0,1316,SH23ISC,1,1
+23,MWF,4438,Free Circulator/Iowa State Center,0,1305,SH23ISC,1,1
+23,MWF,4439,Free Circulator/Iowa State Center,0,1312,SH23ISC,1,1
+23,MWF,4441,Free Circulator/Iowa State Center,0,1316,SH23ISC,1,1
+23,MWF,4442,Free Circulator/Iowa State Center,0,1305,SH23ISC,1,1
+23,MWF,4443,Free Circulator/Iowa State Center,0,1312,SH23ISC,1,1
+23,MWF,4445,Free Circulator/Iowa State Center,0,1316,SH23ISC,1,1
+23,MWF,4448,Free Circulator/Iowa State Center,0,1312,SH23ISC,1,1
+23,MWF,4450,Free Circulator/Iowa State Center,0,1316,SH23ISC,1,1
+23,TTH,4504,Free Circulator/Iowa State Center,0,1401,SH23ISC,1,1
+23,TTH,4506,Free Circulator/Iowa State Center,0,1403,SH23ISC,1,1
+23,TTH,4507,Free Circulator/Iowa State Center,0,1407,SH23ISC,1,1
+23,TTH,4508,Free Circulator/Iowa State Center,0,1401,SH23ISC,1,1
+23,TTH,4509,Free Circulator/Iowa State Center,0,1409,SH23ISC,1,1
+23,TTH,4511,Free Circulator/Iowa State Center,0,1413,SH23ISC,1,1
+23,TTH,4512,Free Circulator/Iowa State Center,0,1417,SH23ISC,1,1
+23,TTH,4513,Free Circulator/Iowa State Center,0,1403,SH23ISC,1,1
+23,TTH,4514,Free Circulator/Iowa State Center,0,1407,SH23ISC,1,1
+23,TTH,4515,Free Circulator/Iowa State Center,0,1401,SH23ISC,1,1
+23,TTH,4517,Free Circulator/Iowa State Center,0,1409,SH23ISC,1,1
+23,TTH,4518,Free Circulator/Iowa State Center,0,1413,SH23ISC,1,1
+23,TTH,4519,Free Circulator/Iowa State Center,0,1417,SH23ISC,1,1
+23,TTH,4521,Free Circulator/Iowa State Center,0,1403,SH23ISC,1,1
+23,TTH,4522,Free Circulator/Iowa State Center,0,1407,SH23ISC,1,1
+23,TTH,4523,Free Circulator/Iowa State Center,0,1401,SH23ISC,1,1
+23,TTH,4524,Free Circulator/Iowa State Center,0,1409,SH23ISC,1,1
+23,TTH,4525,Free Circulator/Iowa State Center,0,1413,SH23ISC,1,1
+23,TTH,4527,Free Circulator/Iowa State Center,0,1417,SH23ISC,1,1
+23,TTH,4528,Free Circulator/Iowa State Center,0,1403,SH23ISC,1,1
+23,TTH,4529,Free Circulator/Iowa State Center,0,1407,SH23ISC,1,1
+23,TTH,4530,Free Circulator/Iowa State Center,0,1401,SH23ISC,1,1
+23,TTH,4531,Free Circulator/Iowa State Center,0,1409,SH23ISC,1,1
+23,TTH,4533,Free Circulator/Iowa State Center,0,1413,SH23ISC,1,1
+23,TTH,4534,Free Circulator/Iowa State Center,0,1417,SH23ISC,1,1
+23,TTH,4535,Free Circulator/Iowa State Center,0,1403,SH23ISC,1,1
+23,TTH,4536,Free Circulator/Iowa State Center,0,1407,SH23ISC,1,1
+23,TTH,4537,Free Circulator/Iowa State Center,0,1401,SH23ISC,1,1
+23,TTH,4540,Free Circulator/Iowa State Center,0,1410,SH23ISC,1,1
+23,TTH,4541,Free Circulator/Iowa State Center,0,1417,SH23ISC,1,1
+23,TTH,4542,Free Circulator/Iowa State Center,0,1404,SH23ISC,1,1
+23,TTH,4543,Free Circulator/Iowa State Center,0,1407,SH23ISC,1,1
+23,TTH,4545,Free Circulator/Iowa State Center,0,1401,SH23ISC,1,1
+23,TTH,4546,Free Circulator/Iowa State Center,0,1414,SH23ISC,1,1
+23,TTH,4547,Free Circulator/Iowa State Center,0,1410,SH23ISC,1,1
+23,TTH,4548,Free Circulator/Iowa State Center,0,1417,SH23ISC,1,1
+23,TTH,4549,Free Circulator/Iowa State Center,0,1404,SH23ISC,1,1
+23,TTH,4551,Free Circulator/Iowa State Center,0,1407,SH23ISC,1,1
+23,TTH,4552,Free Circulator/Iowa State Center,0,1401,SH23ISC,1,1
+23,TTH,4553,Free Circulator/Iowa State Center,0,1414,SH23ISC,1,1
+23,TTH,4555,Free Circulator/Iowa State Center,0,1410,SH23ISC,1,1
+23,TTH,4556,Free Circulator/Iowa State Center,0,1418,SH23ISC,1,1
+23,TTH,4557,Free Circulator/Iowa State Center,0,1404,SH23ISC,1,1
+23,TTH,4558,Free Circulator/Iowa State Center,0,1407,SH23ISC,1,1
+23,TTH,4559,Free Circulator/Iowa State Center,0,1401,SH23ISC,1,1
+23,TTH,4561,Free Circulator/Iowa State Center,0,1414,SH23ISC,1,1
+23,TTH,4562,Free Circulator/Iowa State Center,0,1410,SH23ISC,1,1
+23,TTH,4563,Free Circulator/Iowa State Center,0,1418,SH23ISC,1,1
+23,TTH,4564,Free Circulator/Iowa State Center,0,1404,SH23ISC,1,1
+23,TTH,4565,Free Circulator/Iowa State Center,0,1407,SH23ISC,1,1
+23,TTH,4567,Free Circulator/Iowa State Center,0,1401,SH23ISC,1,1
+23,TTH,4568,Free Circulator/Iowa State Center,0,1414,SH23ISC,1,1
+23,TTH,4569,Free Circulator/Iowa State Center,0,1418,SH23ISC,1,1
+23,TTH,4571,Free Circulator/Iowa State Center,0,1407,SH23ISC,1,1
+23,TTH,4572,Free Circulator/Iowa State Center,0,1401,SH23ISC,1,1
+23,TTH,4573,Free Circulator/Iowa State Center,0,1419,SH23ISC,1,1
+23,TTH,4574,Free Circulator/Iowa State Center,0,1418,SH23ISC,1,1
+23,TTH,4576,Free Circulator/Iowa State Center,0,1411,SH23ISC,1,1
+23,TTH,4577,Free Circulator/Iowa State Center,0,1405,SH23ISC,1,1
+23,TTH,4578,Free Circulator/Iowa State Center,0,1407,SH23ISC,1,1
+23,TTH,4579,Free Circulator/Iowa State Center,0,1401,SH23ISC,1,1
+23,TTH,4580,Free Circulator/Iowa State Center,0,1419,SH23ISC,1,1
+23,TTH,4582,Free Circulator/Iowa State Center,0,1418,SH23ISC,1,1
+23,TTH,4583,Free Circulator/Iowa State Center,0,1411,SH23ISC,1,1
+23,TTH,4584,Free Circulator/Iowa State Center,0,1405,SH23ISC,1,1
+23,TTH,4585,Free Circulator/Iowa State Center,0,1401,SH23ISC,1,1
+23,TTH,4587,Free Circulator/Iowa State Center,0,1419,SH23ISC,1,1
+23,TTH,4588,Free Circulator/Iowa State Center,0,1421,SH23ISC,1,1
+23,TTH,4590,Free Circulator/Iowa State Center,0,1411,SH23ISC,1,1
+23,TTH,4592,Free Circulator/Iowa State Center,0,1405,SH23ISC,1,1
+23,TTH,4593,Free Circulator/Iowa State Center,0,1401,SH23ISC,1,1
+23,TTH,4594,Free Circulator/Iowa State Center,0,1419,SH23ISC,1,1
+23,TTH,4595,Free Circulator/Iowa State Center,0,1421,SH23ISC,1,1
+23,TTH,4597,Free Circulator/Iowa State Center,0,1411,SH23ISC,1,1
+23,TTH,4598,Free Circulator/Iowa State Center,0,1408,SH23ISC,1,1
+23,TTH,4599,Free Circulator/Iowa State Center,0,1405,SH23ISC,1,1
+23,TTH,4601,Free Circulator/Iowa State Center,0,1421,SH23ISC,1,1
+23,TTH,4602,Free Circulator/Iowa State Center,0,1411,SH23ISC,1,1
+23,TTH,4603,Free Circulator/Iowa State Center,0,1408,SH23ISC,1,1
+23,TTH,4605,Free Circulator/Iowa State Center,0,1405,SH23ISC,1,1
+23,TTH,4606,Free Circulator/Iowa State Center,0,1421,SH23ISC,1,1
+23,TTH,4607,Free Circulator/Iowa State Center,0,1402,SH23ISC,1,1
+23,TTH,4608,Free Circulator/Iowa State Center,0,1411,SH23ISC,1,1
+23,TTH,4609,Free Circulator/Iowa State Center,0,1408,SH23ISC,1,1
+23,TTH,4611,Free Circulator/Iowa State Center,0,1406,SH23ISC,1,1
+23,TTH,4612,Free Circulator/Iowa State Center,0,1402,SH23ISC,1,1
+23,TTH,4614,Free Circulator/Iowa State Center,0,1408,SH23ISC,1,1
+23,TTH,4615,Free Circulator/Iowa State Center,0,1406,SH23ISC,1,1
+23,TTH,4617,Free Circulator/Iowa State Center,0,1402,SH23ISC,1,1
+23,TTH,4618,Free Circulator/Iowa State Center,0,1415,SH23ISC,1,1
+23,TTH,4619,Free Circulator/Iowa State Center,0,1408,SH23ISC,1,1
+23,TTH,4620,Free Circulator/Iowa State Center,0,1406,SH23ISC,1,1
+23,TTH,4622,Free Circulator/Iowa State Center,0,1402,SH23ISC,1,1
+23,TTH,4623,Free Circulator/Iowa State Center,0,1415,SH23ISC,1,1
+23,TTH,4624,Free Circulator/Iowa State Center,0,1420,SH23ISC,1,1
+23,TTH,4626,Free Circulator/Iowa State Center,0,1406,SH23ISC,1,1
+23,TTH,4627,Free Circulator/Iowa State Center,0,1412,SH23ISC,1,1
+23,TTH,4628,Free Circulator/Iowa State Center,0,1402,SH23ISC,1,1
+23,TTH,4630,Free Circulator/Iowa State Center,0,1420,SH23ISC,1,1
+23,TTH,4631,Free Circulator/Iowa State Center,0,1406,SH23ISC,1,1
+23,TTH,4632,Free Circulator/Iowa State Center,0,1412,SH23ISC,1,1
+23,TTH,4633,Free Circulator/Iowa State Center,0,1402,SH23ISC,1,1
+23,TTH,4635,Free Circulator/Iowa State Center,0,1420,SH23ISC,1,1
+23,TTH,4637,Free Circulator/Iowa State Center,0,1412,SH23ISC,1,1
+23,TTH,4638,Free Circulator/Iowa State Center,0,1402,SH23ISC,1,1
+23,TTH,4639,Free Circulator/Iowa State Center,0,1420,SH23ISC,1,1
+23,TTH,4641,Free Circulator/Iowa State Center,0,1416,SH23ISC,1,1
+23,TTH,4642,Free Circulator/Iowa State Center,0,1412,SH23ISC,1,1
+23,TTH,4643,Free Circulator/Iowa State Center,0,1402,SH23ISC,1,1
+23,TTH,4645,Free Circulator/Iowa State Center,0,1416,SH23ISC,1,1
+23,TTH,4646,Free Circulator/Iowa State Center,0,1412,SH23ISC,1,1
+23,TTH,4648,Free Circulator/Iowa State Center,0,1402,SH23ISC,1,1
+23,TTH,4650,Free Circulator/Iowa State Center,0,1416,SH23ISC,1,1
+24,SLVR,24701,Free Circulator/Campus,0,1709, ,1,1
+24,SLVR,24702,Free Circulator/Campus,0,1709, ,1,1
+24,SLVR,24703,Free Circulator/Campus,0,1709, ,1,1
+24,SLVR,24704,Free Circulator/Campus,0,1709, ,1,1
+24,SLVR,24705,Free Circulator/Campus,0,1709, ,1,1
+24,SLVR,24706,Free Circulator/Campus,0,1709, ,1,1
+24,SLVR,24707,Free Circulator/Campus,0,1709, ,1,1
+24,SLVR,24708,Free Circulator/Campus,0,1709, ,1,1
+24,SLVR,24709,Free Circulator/Campus,0,1709, ,1,1
+24,SLVR,24710,Free Circulator/Campus,0,1709, ,1,1
+24,SLVR,24711,Free Circulator/Campus,0,1709, ,1,1
+24,SLVR,24712,Free Circulator/Campus,0,1709, ,1,1
+24,SLVR,24713,Free Circulator/Campus,0,1709, ,1,1
+AW,MLX,89101,West Ames/Campustown,0,1902,SHAW,1,1
+AW,MLX,89103,West Ames/Campustown,0,1903,SHAW,1,1
+AW,MLX,89105,West Ames/Campustown,0,1904,SHAW,1,1
+AW,MLX,89107,West Ames/Campustown,0,1901,SHAW,1,1
+AW,MLX,89109,West Ames/Campustown,0,1902,SHAW,1,1
+AW,MLX,89111,West Ames/Campustown,0,1903,SHAW,1,1
+AW,MLX,89113,West Ames/Campustown,0,1904,SHAW,1,1
+AW,MLX,89115,West Ames/Campustown,0,1901,SHAW,1,1
+AW,MLX,89117,West Ames/Campustown,0,1902,SHAW,1,1
+AW,MLX,89119,West Ames/Campustown,0,1903,SHAW,1,1
+AW,MLX,89121,West Ames/Campustown,0,1904,SHAW,1,1
+AW,MLX,89123,West Ames/Campustown,0,1901,SHAW,1,1
+AW,MLX,89125,West Ames/Campustown,0,1902,SHAW,1,1
+AW,MLX,89127,West Ames/Campustown,0,1903,SHAW,1,1
+AW,MLX,89129,West Ames/Campustown,0,1904,SHAW,1,1
+AW,MLX,89131,West Ames/Campustown,0,1901,SHAW,1,1
+AW,MLX,89133,West Ames/Campustown,0,1902,SHAW,1,1
+AW,MLX,89135,West Ames/Campustown,0,1903,SHAW,1,1
+AE,MLX,89100,West Ames/Campustown,1,1901,SHAE,1,1
+AE,MLX,89102,West Ames/Campustown,1,1902,SHAE,1,1
+AE,MLX,89104,West Ames/Campustown,1,1903,SHAE,1,1
+AE,MLX,89106,West Ames/Campustown,1,1904,SHAE,1,1
+AE,MLX,89108,West Ames/Campustown,1,1901,SHAE,1,1
+AE,MLX,89110,West Ames/Campustown,1,1902,SHAE,1,1
+AE,MLX,89112,West Ames/Campustown,1,1903,SHAE,1,1
+AE,MLX,89114,West Ames/Campustown,1,1904,SHAE,1,1
+AE,MLX,89116,West Ames/Campustown,1,1901,SHAE,1,1
+AE,MLX,89118,West Ames/Campustown,1,1902,SHAE,1,1
+AE,MLX,89120,West Ames/Campustown,1,1903,SHAE,1,1
+AE,MLX,89122,West Ames/Campustown,1,1904,SHAE,1,1
+AE,MLX,89124,West Ames/Campustown,1,1901,SHAE,1,1
+AE,MLX,89126,West Ames/Campustown,1,1902,SHAE,1,1
+AE,MLX,89128,West Ames/Campustown,1,1903,SHAE,1,1
+AE,MLX,89130,West Ames/Campustown,1,1904,SHAE,1,1
+AE,MLX,89132,West Ames/Campustown,1,1901,SHAE,1,1
+B,MLX,89140,Ontario/Frederiksen Ct.,0,1905,SHBE,1,1
+B,MLX,89141,Ontario/Frederiksen Ct.,0,1905,SHBE,1,1
+B,MLX,89142,Ontario/Frederiksen Ct.,0,1905,SHBE,1,1
+B,MLX,89143,Ontario/Frederiksen Ct.,0,1905,SHBE,1,1
+B,MLX,89144,Ontario/Frederiksen Ct.,0,1905,SHBE,1,1
+B,MLX,89145,Ontario/Frederiksen Ct.,0,1905,SHBE,1,1
+B,MLX,89840,Ontario/Frederiksen Ct.,1,1905,SHBW,1,1
+B,MLX,89841,Ontario/Frederiksen Ct.,1,1905,SHBW,1,1
+B,MLX,89842,Ontario/Frederiksen Ct.,1,1905,SHBW,1,1
+B,MLX,89843,Ontario/Frederiksen Ct.,1,1905,SHBW,1,1
+B,MLX,89844,Ontario/Frederiksen Ct.,1,1905,SHBW,1,1
+B,MLX,89845,Ontario/Frederiksen Ct.,1,1905,SHBW,1,1
+C,MLX,89161,Billy Sunday/Campustown,0,1906,SHCS,1,1
+C,MLX,89162,Billy Sunday/Campustown,0,1906,SHCS,1,1
+C,MLX,89163,Billy Sunday/Campustown,0,1906,SHCS,1,1
+C,MLX,89164,Billy Sunday/Campustown,0,1906,SHCS,1,1
+C,MLX,89165,Billy Sunday/Campustown,0,1906,SHCS,1,1
+C,MLX,89166,Billy Sunday/Campustown,0,1906,SHCS,1,1
+C,MLX,89860,Billy Sunday/Campustown,1,1906,SHCN,1,1
+C,MLX,89861,Billy Sunday/Campustown,1,1906,SHCN,1,1
+C,MLX,89862,Billy Sunday/Campustown,1,1906,SHCN,1,1
+C,MLX,89863,Billy Sunday/Campustown,1,1906,SHCN,1,1
+C,MLX,89864,Billy Sunday/Campustown,1,1906,SHCN,1,1
+C,MLX,89865,Billy Sunday/Campustown,1,1906,SHCN,1,1
+C,MLX,89866,Billy Sunday/Campustown,1,1906,SHCN,1,1
+D,MLX,89180,Somerset/Frederiksen Ct.,0,1907,SHDS,1,1
+D,MLX,89181,Somerset/Frederiksen Ct.,0,1907,SHDS,1,1
+D,MLX,89182,Somerset/Frederiksen Ct.,0,1907,SHDS,1,1
+D,MLX,89183,Somerset/Frederiksen Ct.,0,1907,SHDS,1,1
+D,MLX,89184,Somerset/Frederiksen Ct.,0,1907,SHDS,1,1
+D,MLX,89185,Somerset/Frederiksen Ct.,0,1907,SHDS,1,1
+D,MLX,89186,Somerset/Frederiksen Ct.,0,1907,SHDS,1,1
+D,MLX,89880,Somerset/Frederiksen Ct.,1,1907,SHDN,1,1
+D,MLX,89881,Somerset/Frederiksen Ct.,1,1907,SHDN,1,1
+D,MLX,89882,Somerset/Frederiksen Ct.,1,1907,SHDN,1,1
+D,MLX,89883,Somerset/Frederiksen Ct.,1,1907,SHDN,1,1
+D,MLX,89884,Somerset/Frederiksen Ct.,1,1907,SHDN,1,1
+D,MLX,89885,Somerset/Frederiksen Ct.,1,1907,SHDN,1,1
+D,MLX,89886,Somerset/Frederiksen Ct.,1,1907,SHDN,1,1

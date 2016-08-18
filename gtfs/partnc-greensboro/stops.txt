@@ -1,0 +1,148 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type
+1,104,5th & Church, ,36.1002045,-80.2432709, , ,0
+2,100,Federal Building, ,36.0969391,-80.243782, , ,0
+3,101,4th & Greene, ,36.0973625,-80.2545853, , ,0
+4,102,4th & Spring, ,36.097641,-80.2523422, , ,0
+5,103,4th & Chestnut, ,36.0986595,-80.2422638, , ,0
+6,105,5th & Chestnut, ,36.1003532,-80.2421036, , ,0
+7,106,Archdale Park & Ride, ,35.9036522,-79.9524078, , ,0
+8,107,Ashbury Road Park & Ride, ,36.1163597,-80.795166, , ,0
+9,109,BB&T, ,36.0949593,-80.2781448, , ,0
+10,110,BB&T 68 N, ,36.0388832,-79.9620438, , ,0
+11,111,CVS Highway68 S, ,35.9921837,-79.9991302, , ,0
+12,112,Centennial & E. Farris (North), ,35.9730339,-80.0015793, , ,0
+13,113,Centennial & E. Farris (South), ,35.9728699,-80.0018234, , ,0
+14,114,Centennial & Hawthorne (North), ,35.9636078,-80.0021133, , ,0
+15,115,Centennial & Hawthrone (South), ,35.9637604,-80.0022812, , ,0
+16,116,Centennial & Monelue HPU (South), ,35.9685669,-80.0019836, , ,0
+17,117,Centennial & Monelue Hpu (North), ,35.9693565,-80.001709, , ,0
+18,118,Centennial & Norwood (North), ,35.9817963,-80.0009308, , ,0
+19,119,Centennial & Norwood (South), ,35.9820213,-80.0010529, , ,0
+20,120,Greensboro Central Library, ,36.0748215,-79.7867508, , ,0
+21,121,Central Library, ,36.0748024,-79.7864532, , ,0
+22,122,Centre Stage Shopping Center, ,35.9928627,-79.9980698, , ,0
+23,123,Charlotte & Cenntenial (South), ,35.9793434,-80.0015488, , ,0
+24,124,Chick-Fil-A & Highway 68 N, ,36.0351563,-79.9638443, , ,0
+25,125,Clemmons Park & Ride, ,36.031498,-80.3820038, , ,0
+26,126,Davidson Community College, ,35.8661499,-80.1814728, , ,0
+27,127,Deep River Friends Meeting Center, ,36.0310593,-79.9675064, , ,0
+28,128,Deep River Shopping Center, ,36.032402,-79.9666748, , ,0
+30,130,E. Washington & Elm St (East), ,36.0701294,-79.7906494, , ,0
+31,131,E. Washington & Elm St (West), ,36.0702782,-79.7899017, , ,0
+32,133,Edgeworth & East Washington (West), ,36.0704842,-79.7949295, , ,0
+33,134,3rd & Main, ,36.0978737,-80.2437363, , ,0
+34,135,Food Lion Charlotte & Centennial (North), ,35.9790726,-80.0013504, , ,0
+35,136,Forsyth Medical Center, ,36.0762253,-80.2981033, , ,0
+36,137,Forsyth Medical Center, ,36.0762291,-80.2985001, , ,0
+37,138,Freeman Mill & Lovette (East), ,36.0435295,-79.8149338, , ,0
+38,139,Freeman Mill & Lovette (West), ,36.043438,-79.815834, , ,0
+39,140,Gallimore Dairy Rd & Highway 68 S, ,36.0638466,-79.9610291, , ,0
+40,141,Graham Park & Ride, ,36.0564156,-79.3988113, , ,0
+41,142,Greensboro Depot Slip 16, ,36.0692253,-79.7872543, , ,0
+42,143,Harris Teeter Kernersville, ,36.1072197,-80.0954361, , ,0
+43,144,HiTran Terminal, ,35.9574013,-80.0070038, , ,0
+44,145,Hickory Tree Park & Ride Lot, ,35.9670792,-80.2228699, , ,0
+45,146,Hicks Wood & Highway 68 S, ,36.0251007,-79.9726563, , ,0
+46,132,Edgeworth & East Washington (East), ,36.0703201,-79.7956161, , ,0
+47,147,High Point Amtrack Station, ,35.9570084,-80.0064087, , ,0
+48,148,High Point Medical Center, ,35.9629784,-80.0120316, , ,0
+49,149,High Point Medical Center, ,35.9629707,-80.0122528, , ,0
+50,150,High Point Park & Ride, ,36.0061913,-80.0382996, , ,0
+51,151,Hilton & Highway 68 S, ,36.0049858,-79.9898453, , ,0
+52,152,King Park & Ride, ,36.258812,-80.3665085, , ,0
+53,153,Four Seasons Mall, ,36.0404739,-79.8417664, , ,0
+55,155,Lovett & Freeman Mill, ,36.0431252,-79.8175735, , ,0
+56,156,MLK & Stadium, ,36.0916023,-80.2275238, , ,0
+57,157,MLK & Stadium, ,36.0908318,-80.2278366, , ,0
+58,158,Marathon Gas Station Highway 86 N, ,35.9955635,-79.9958649, , ,0
+59,159,McDonald's, ,36.0712929,-80.2975998, , ,0
+60,160,South Asheboro Park & Ride, ,35.6705894,-79.8307114, , ,0
+61,161,Medical Park On Maplewood, ,36.0794945,-80.2968903, , ,0
+62,162,Mendenhall Shopping Center 68 N, ,36.0437202,-79.9619141, , ,0
+63,163,Miller Street Market, ,36.095768,-80.2751312, , ,0
+64,164,Miller Street Market, ,36.0959969,-80.2755814, , ,0
+65,165,Mocksville Park & Ride, ,35.9282646,-80.5926895, , ,0
+66,166,Moses Cone (Willard Dairy Rd & Highway 68 S), ,36.0443459,-79.9623489, , ,0
+67,167,Moses Cone Medical Center, ,36.0897446,-79.7862396, , ,0
+68,168,Mount Airy Park & Ride, ,36.4805298,-80.6053696, , ,0
+69,169,North Asheboro Park & Ride, ,35.746006,-79.8076172, , ,0
+70,170,North Lexington Park &Ride, ,35.8325157,-80.2802658, , ,0
+71,171,Novant Medical Center, ,36.0598068,-80.306282, , ,0
+72,172,Oak Hollow Mall, ,35.9885483,-80.0045242, , ,0
+73,173,Oak Hollow Park Highway 68 S, ,36.0087929,-79.9862061, , ,0
+74,174,Oak Hollow Village, ,35.9959602,-79.9959564, , ,0
+75,175,PART Regional Hub, ,36.0771904,-79.9582291, , ,0
+76,176,Panera Bread Highway 68 S, ,36.0350113,-79.9643631, , ,0
+77,177,Piedmont Parkway & Highway 68 S, ,36.0524559,-79.9622116, , ,0
+78,178,Piedmont Parkway & 68 N, ,36.0512695,-79.9618149, , ,0
+79,179,Pilot Mountain Park & Ride 1, ,36.3756943,-80.4843826, , ,0
+80,180,Pilot Mountain Park & Ride 2, ,36.3788528,-80.4806366, , ,0
+81,181,Premier Dr & Highway 68 S, ,36.03965,-79.9624405, , ,0
+82,182,Randolph Community College, ,35.6731567,-79.8288651, , ,0
+83,183,Randolph Hospital, ,35.7109604,-79.8128433, , ,0
+84,184,S.Main & Springfield Road, ,35.9315643,-79.9891739, , ,0
+85,185,Sheets 68 N, ,36.0600204,-79.9614563, , ,0
+86,186,Skeetclub & Highway 68 N, ,36.0296288,-79.9692001, , ,0
+87,187,South Lexington Park & Ride, ,35.776947,-80.3151016, , ,0
+88,188,Southern Community Bank, ,36.0854645,-80.3018265, , ,0
+89,189,Stratford Village At Newbridge Bank, ,36.0947876,-80.2780075, , ,0
+90,190,Sutton Way & Highway 68 N, ,36.0268784,-79.9710541, , ,0
+91,191,TA Truck Stop, ,36.063118,-79.5643921, , ,0
+92,192,Tanglewood Crossing, ,36.004982,-80.4411926, , ,0
+93,193,Thomasville Park & Ride, ,35.8985481,-80.0916367, , ,0
+94,194,Truliant Credit Center, ,36.065361,-80.2962265, , ,0
+95,195,UNC Hospital (ACC Building), ,35.9004173,-79.0558853, , ,0
+96,196,UNCG Elliot Center (Stirling St.), ,36.0676384,-79.811264, , ,0
+97,197,VA Hospital, ,36.0576935,-80.3034744, , ,0
+98,198,Winston-Salem Transportation Center, ,36.0992432,-80.2450943, , ,0
+99,199,W. Florida & Freeman Mill (East), ,36.0520287,-79.8066788, , ,0
+100,200,W. Florida & Freeman Mill (West), ,36.0523911,-79.8067245, , ,0
+101,201,WFU Baptist Medical Center (MRI Building), ,36.08826781,-80.26881974, , ,0
+102,202,WFU Baptist Medical Center (Meads Building), ,36.08846181,-80.2681793, , ,0
+103,203,WFU School Of Medicine, ,36.0893326,-80.2663345, , ,0
+104,204,Winston-Salem Transportation Center, ,36.0994225,-80.2455139, , ,0
+105,205,Randleman Park & Ride, ,35.821434,-79.8229141, , ,0
+106,206,Wesley Long Medical Center, ,36.0833359,-79.8245087, , ,0
+107,207,Winston-Salem Health Care Center, ,36.0816498,-80.3025513, , ,0
+108,208,Womens Health Center, ,36.0919571,-79.8165283, , ,0
+109,209,Woodlake Business Park, ,36.0078506,-79.9868164, , ,0
+110,210,Yadkinville Park & Ride, ,36.1195145,-80.6580734, , ,0
+130,510,POLO, ,36.0537987,-79.9459229, , ,0
+137,509,Bank of America, ,36.0545654,-79.9524002, , ,0
+166,511,APAC, ,36.0625076,-79.9517746, , ,0
+182,282,Thomas Gourmet Foods, ,36.0631561,-79.9528961, , ,0
+184,284,Akzo Nobel Automotive Coatings, ,36.0631561,-79.9528961, , ,0
+206,506,Gilbarco Veeder-Root, ,36.089119,-79.9251785, , ,0
+220,505,PTI Airport, ,36.1064835,-79.935997, , ,0
+253,353,Penn Western Benefits Inc, ,36.0764961,-79.9589005, , ,0
+272,507,Thorndike Rd., ,36.0735168,-79.9713974, , ,0
+275,513,Suntrust Bank, ,36.0958443,-80.2764053, , ,0
+276,512,Brookstone College of Business, ,36.0707436,-79.9455948, , ,0
+277,377,Alamance Community College, ,36.0668144,-79.355629, , ,0
+278,378,Mebane Cone Health Park & Ride, ,36.0746117,-79.2699127, , ,0
+279,500,Freeman Mill & Coliseum, ,36.043293,-79.8173218, , ,0
+280,501,ECPI, ,36.1124268,-79.9611816, , ,0
+281,502,Eco-Labs, ,36.0890274,-79.9833069, , ,0
+282,503,PBM Graphics, ,36.0863914,-79.9745026, , ,0
+283,504,GTCC, ,36.0954132,-79.9538879, , ,0
+284,508,Pegg Rd., ,36.0651665,-79.9703064, , ,0
+285,385,N Columbia St & W Franklin St, ,35.9135323,-79.0561142, , ,0
+286,386,N Columbia St & W Rosemary St, ,35.9137955,-79.0559998, , ,0
+287,387,UNC Abernethy Hall, ,35.9111671,-79.0547409, , ,0
+288,388,UNC Sitterson Hall, ,35.9093513,-79.053299, , ,0
+289,389,UNC Hospitals (Manning Drive), ,35.9035683,-79.0518341, , ,0
+290,390,Manning Dr at Hospital Parking Deck, ,35.9031372,-79.0512238, , ,0
+291,391,Alamance Regional Medical Center, ,36.0616837,-79.499649, , ,0
+292,392,UNC Abernethy Hall, ,35.9114494,-79.0546799, , ,0
+293,393,Martin Luther King Blvd Jr at Airport Dr, ,35.9325256,-79.0557098, , ,0
+294,394,Martin Luther King Jr Blvd at YMCA, ,35.9336662,-79.0556793, , ,0
+295,395,Pittsboro St at Credit Union, ,35.9069061,-79.0548859, , ,0
+296,396,S Columbia St at Carrington Hall, ,35.9069328,-79.0527954, , ,0
+297,397,GTCC High Point, ,35.9462682,-80.00324475, , ,0
+298,398,GTCC High Point, ,35.9462597,-80.00356338, , ,0
+299,399,Davidson County Administrative Building, ,35.87786532,-80.08652633, , ,0
+300,400,Davidson Coutny Transportation Center, ,35.83160083,-80.24211092, , ,0
+301,401,Uptown Lexington, ,35.82154895,-80.25599886, , ,0
+302,402,Uptown Lexington, ,35.8216251,-80.25619398, , ,0
+303,403,Palladium Center, ,36.03351749,-79.96007168, , ,0
+304,404,Palladium Center, ,36.03323845,-79.96019973, , ,0

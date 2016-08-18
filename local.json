@@ -1,0 +1,26 @@
+[
+  {
+    "agency_key": "cyride-ames",
+    "path": "../gtfs/cyride-ames"
+  },
+  {
+    "agency_key": "fast-fayetteville",
+    "path": "../gtfs/fast-fayetteville"
+  },
+  {
+    "agency_key": "ku-lawrence",
+    "path": "../gtfs/ku-lawrence"
+  },
+  {
+    "agency_key": "ometro-omaha",
+    "path": "../gtfs/ometro-omaha"
+  },
+  {
+    "agency_key": "partnc-greensboro",
+    "path": "../gtfs/partnc-greensboro"
+  },
+  {
+    "agency_key": "ridecarta-charleston",
+    "path": "../gtfs/ridecarta-charleston"
+  }
+]

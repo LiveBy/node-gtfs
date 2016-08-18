@@ -1,0 +1,97 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,1252,0,20140817,20170101,0,0,0,0,0,1,1,C of C-Aquarium Shuttle - DASH,"Effective beginning August 17, 2014",MultiDirection,horizontal
+2,1252,0,20140817,20170101,1,1,1,1,1,0,0,C of C-Aquarium Shuttle - DASH,"Effective beginning August 17, 2014",MultiDirection,horizontal
+3,1245,0,20140101,20170101,0,0,0,0,0,1,0,Coleman Blvd,Year-round calendar,Outbound,horizontal
+4,1245,0,20140101,20170101,1,1,1,1,1,0,0,Coleman Blvd,Year-round calendar,Outbound,horizontal
+5,1245,1,20140101,20170101,0,0,0,0,0,1,0,Coleman Blvd,Year-round calendar,Inbound,horizontal
+6,1245,1,20140101,20170101,1,1,1,1,1,0,0,Coleman Blvd,Year-round calendar,Inbound,horizontal
+7,1236,0,20140101,20170101,0,0,0,0,0,0,1,Dorchester Rd - Airport,Year-round calendar,Outbound,horizontal
+8,1236,0,20140101,20170101,0,0,0,0,0,1,0,Dorchester Rd - Airport,Year-round calendar,Outbound,horizontal
+9,1236,0,20140101,20170101,1,1,1,1,1,0,0,Dorchester Rd - Airport,Year-round calendar,Outbound,horizontal
+10,1236,1,20140101,20170101,0,0,0,0,0,0,1,Dorchester Rd - Airport,Year-round calendar,Inbound,horizontal
+11,1236,1,20140101,20170101,0,0,0,0,0,1,0,Dorchester Rd - Airport,Year-round calendar,Inbound,horizontal
+12,1236,1,20140101,20170101,1,1,1,1,1,0,0,Dorchester Rd - Airport,Year-round calendar,Inbound,horizontal
+13,1258,0,20150104,20170101,1,1,1,1,1,0,0,Dorchester Rd - Downtown,Effective beginning 1-4-15,Outbound,horizontal
+14,1258,1,20150104,20170101,1,1,1,1,1,0,0,Dorchester Rd - Downtown,Effective beginning 1-4-15,Inbound,horizontal
+15,1242,0,20140101,20170101,0,0,0,0,0,0,1,Folly Road,Year-round calendar,Outbound,horizontal
+16,1242,0,20140101,20170101,0,0,0,0,0,1,0,Folly Road,Year-round calendar,Outbound,horizontal
+17,1242,0,20140101,20170101,1,1,1,1,1,0,0,Folly Road,Year-round calendar,Outbound,horizontal
+18,1242,1,20140101,20170101,0,0,0,0,0,0,1,Folly Road,Year-round calendar,Inbound,horizontal
+19,1242,1,20140101,20170101,0,0,0,0,0,1,0,Folly Road,Year-round calendar,Inbound,horizontal
+20,1242,1,20140101,20170101,1,1,1,1,1,0,0,Folly Road,Year-round calendar,Inbound,horizontal
+21,1256,0,20140101,20170101,1,1,1,1,1,0,0,James Island - North Charleston,Year-round calendar,Outbound,horizontal
+22,1256,1,20140101,20170101,1,1,1,1,1,0,0,James Island - North Charleston,Year-round calendar,Inbound,horizontal
+23,1239,0,20140101,20170101,0,0,0,0,0,0,1,King Street - Citadel,Year-round calendar,Outbound,horizontal
+24,1239,0,20140101,20170101,0,0,0,0,0,1,0,King Street - Citadel,Year-round calendar,Outbound,horizontal
+25,1239,0,20140101,20170101,1,1,1,1,1,0,0,King Street - Citadel,Year-round calendar,Outbound,horizontal
+26,1239,1,20140101,20170101,0,0,0,0,0,0,1,King Street - Citadel,Year-round calendar,Inbound,horizontal
+27,1239,1,20140101,20170101,0,0,0,0,0,1,0,King Street - Citadel,Year-round calendar,Inbound,horizontal
+28,1239,1,20140101,20170101,1,1,1,1,1,0,0,King Street - Citadel,Year-round calendar,Inbound,horizontal
+29,1247,0,20140101,20170101,0,0,0,0,0,1,0,Leeds Avenue,Year-round calendar,Outbound,horizontal
+30,1247,0,20140101,20170101,1,1,1,1,1,0,0,Leeds Avenue,Year-round calendar,Outbound,horizontal
+31,1247,1,20140101,20170101,0,0,0,0,0,1,0,Leeds Avenue,Year-round calendar,Inbound,horizontal
+32,1247,1,20140101,20170101,1,1,1,1,1,0,0,Leeds Avenue,Year-round calendar,Inbound,horizontal
+33,1254,0,20140817,20170101,0,0,0,0,0,0,1,Lockwood-Calhoun - DASH,"Effective beginning August 17, 2014",MultiDirection,horizontal
+34,1254,0,20140817,20170101,0,0,0,0,0,1,0,Lockwood-Calhoun - DASH,"Effective beginning August 17, 2014",MultiDirection,horizontal
+35,1254,0,20140817,20170101,1,1,1,1,1,0,0,Lockwood-Calhoun - DASH,"Effective beginning August 17, 2014",MultiDirection,horizontal
+36,1251,0,20140101,20170101,1,1,1,1,1,0,0,Medical Shuttle,Year-round calendar,MultiDirection,horizontal
+37,1253,0,20140817,20170101,0,0,0,0,0,1,1,Meeting-King - DASH,"Effective beginning August 17, 2014",MultiDirection,horizontal
+38,1253,0,20140817,20170101,1,1,1,1,1,0,0,Meeting-King - DASH,"Effective beginning August 17, 2014",MultiDirection,horizontal
+39,1248,0,20140101,20170101,0,0,0,0,0,1,0,Montague Ave,Year-round calendar,Outbound,horizontal
+40,1248,0,20140101,20170101,1,1,1,1,1,0,0,Montague Ave,Year-round calendar,Outbound,horizontal
+41,1248,1,20140101,20170101,0,0,0,0,0,1,0,Montague Ave,Year-round calendar,Inbound,horizontal
+42,1248,1,20140101,20170101,1,1,1,1,1,0,0,Montague Ave,Year-round calendar,Inbound,horizontal
+43,1244,0,20140101,20170101,0,0,0,0,0,0,1,Mt. Pleasant,Year-round calendar,Outbound,horizontal
+44,1244,0,20140101,20170101,0,0,0,0,0,1,0,Mt. Pleasant,Year-round calendar,Outbound,horizontal
+45,1244,0,20140101,20170101,1,1,1,1,1,0,0,Mt. Pleasant,Year-round calendar,Outbound,horizontal
+46,1244,1,20140101,20170101,0,0,0,0,0,0,1,Mt. Pleasant,Year-round calendar,Inbound,horizontal
+47,1244,1,20140101,20170101,0,0,0,0,0,1,0,Mt. Pleasant,Year-round calendar,Inbound,horizontal
+48,1244,1,20140101,20170101,1,1,1,1,1,0,0,Mt. Pleasant,Year-round calendar,Inbound,horizontal
+49,1257,0,20150104,20170101,1,1,1,1,1,0,0,Mt. Pleasant - West Ashley,Effective beginning 1-4-15,Outbound,horizontal
+50,1257,1,20150104,20170101,1,1,1,1,1,0,0,Mt. Pleasant - West Ashley,Effective beginning 1-4-15,Inbound,horizontal
+51,1243,0,20140101,20170101,0,0,0,0,0,0,1,North Bridge,Year-round calendar,Outbound,horizontal
+52,1243,0,20140101,20170101,0,0,0,0,0,1,0,North Bridge,Year-round calendar,Outbound,horizontal
+53,1243,0,20140101,20170101,1,1,1,1,1,0,0,North Bridge,Year-round calendar,Outbound,horizontal
+54,1243,1,20140101,20170101,0,0,0,0,0,0,1,North Bridge,Year-round calendar,Inbound,horizontal
+55,1243,1,20140101,20170101,0,0,0,0,0,1,0,North Bridge,Year-round calendar,Inbound,horizontal
+56,1243,1,20140101,20170101,1,1,1,1,1,0,0,North Bridge,Year-round calendar,Inbound,horizontal
+57,1246,0,20140101,20170101,0,0,0,0,0,1,0,North Neck,Year-round calendar,Outbound,horizontal
+58,1246,0,20140101,20170101,1,1,1,1,1,0,0,North Neck,Year-round calendar,Outbound,horizontal
+59,1246,1,20140101,20170101,0,0,0,0,0,1,0,North Neck,Year-round calendar,Inbound,horizontal
+60,1246,1,20140101,20170101,1,1,1,1,1,0,0,North Neck,Year-round calendar,Inbound,horizontal
+61,1238,0,20140817,20170101,0,0,0,0,0,1,0,Remount Road,"Effective beginning August 17, 2014",Outbound,horizontal
+62,1238,0,20140817,20170101,1,1,1,1,1,0,0,Remount Road,"Effective beginning August 17, 2014",Outbound,horizontal
+63,1238,1,20140817,20170101,0,0,0,0,0,1,0,Remount Road,"Effective beginning August 17, 2014",Inbound,horizontal
+64,1238,1,20140817,20170101,1,1,1,1,1,0,0,Remount Road,"Effective beginning August 17, 2014",Inbound,horizontal
+65,1235,0,20140101,20170101,0,0,0,0,0,0,1,Rivers Avenue,Year-round calendar,Outbound,horizontal
+66,1235,0,20140101,20170101,0,0,0,0,0,1,0,Rivers Avenue,Year-round calendar,Outbound,horizontal
+67,1235,0,20140101,20170101,1,1,1,1,1,0,0,Rivers Avenue,Year-round calendar,Outbound,horizontal
+68,1235,1,20140101,20170101,0,0,0,0,0,0,1,Rivers Avenue,Year-round calendar,Inbound,horizontal
+69,1235,1,20140101,20170101,0,0,0,0,0,1,0,Rivers Avenue,Year-round calendar,Inbound,horizontal
+70,1235,1,20140101,20170101,1,1,1,1,1,0,0,Rivers Avenue,Year-round calendar,Inbound,horizontal
+71,1240,0,20140101,20170101,0,0,0,0,0,1,0,Rutledge-Grove,Year-round calendar,Outbound,horizontal
+72,1240,0,20140101,20170101,1,1,1,1,1,0,0,Rutledge-Grove,Year-round calendar,Outbound,horizontal
+73,1240,1,20140101,20170101,0,0,0,0,0,1,0,Rutledge-Grove,Year-round calendar,Inbound,horizontal
+74,1240,1,20140101,20170101,1,1,1,1,1,0,0,Rutledge-Grove,Year-round calendar,Inbound,horizontal
+75,1241,0,20140101,20170101,0,0,0,0,0,0,1,Savannah Highway,Year-round calendar,Outbound,horizontal
+76,1241,0,20140101,20170101,0,0,0,0,0,1,0,Savannah Highway,Year-round calendar,Outbound,horizontal
+77,1241,0,20140101,20170101,1,1,1,1,1,0,0,Savannah Highway,Year-round calendar,Outbound,horizontal
+78,1241,1,20140101,20170101,0,0,0,0,0,0,1,Savannah Highway,Year-round calendar,Inbound,horizontal
+79,1241,1,20140101,20170101,0,0,0,0,0,1,0,Savannah Highway,Year-round calendar,Inbound,horizontal
+80,1241,1,20140101,20170101,1,1,1,1,1,0,0,Savannah Highway,Year-round calendar,Inbound,horizontal
+81,1255,0,20140101,20170101,0,0,0,0,0,1,0,St. Andrews,Year-round calendar,Outbound,horizontal
+82,1255,1,20140101,20170101,0,0,0,0,0,1,0,St. Andrews,Year-round calendar,Inbound,horizontal
+83,1255,0,20150104,20170101,0,0,0,0,0,0,1,St. Andrews,Effective beginning 1-4-15,Outbound,horizontal
+84,1255,0,20150104,20170101,1,1,1,1,1,0,0,St. Andrews,Effective beginning 1-4-15,Outbound,horizontal
+85,1255,1,20150104,20170101,0,0,0,0,0,0,1,St. Andrews,Effective beginning 1-4-15,Inbound,horizontal
+86,1255,1,20150104,20170101,1,1,1,1,1,0,0,St. Andrews,Effective beginning 1-4-15,Inbound,horizontal
+87,1237,0,20150104,20170101,0,0,0,0,0,0,1,Upper Dorchester-Ashley Phosphate Road,Effective beginning 1-4-15,Outbound,horizontal
+88,1237,0,20150104,20170101,0,0,0,0,0,1,0,Upper Dorchester-Ashley Phosphate Road,Effective beginning 1-4-15,Outbound,horizontal
+89,1237,0,20150104,20170101,1,1,1,1,1,0,0,Upper Dorchester-Ashley Phosphate Road,Effective beginning 1-4-15,Outbound,horizontal
+90,1237,1,20150104,20170101,0,0,0,0,0,0,1,Upper Dorchester-Ashley Phosphate Road,Effective beginning 1-4-15,Inbound,horizontal
+91,1237,1,20150104,20170101,0,0,0,0,0,1,0,Upper Dorchester-Ashley Phosphate Road,Effective beginning 1-4-15,Inbound,horizontal
+92,1237,1,20150104,20170101,1,1,1,1,1,0,0,Upper Dorchester-Ashley Phosphate Road,Effective beginning 1-4-15,Inbound,horizontal
+93,1315,0,20150503,20170101,0,0,0,0,0,0,1,XP4-NASH Express,"Beginning effective May 3, 2015",Northbound,horizontal
+94,1315,0,20150503,20170101,1,1,1,1,1,1,0,XP4-NASH Express,"Beginning effective May 3, 2015",Northbound,horizontal
+95,1315,1,20150503,20170101,0,0,0,0,0,0,1,XP4-NASH Express,"Beginning effective May 3, 2015",Southbound,horizontal
+96,1315,1,20150503,20170101,1,1,1,1,1,1,0,XP4-NASH Express,"Beginning effective May 3, 2015",Southbound,horizontal

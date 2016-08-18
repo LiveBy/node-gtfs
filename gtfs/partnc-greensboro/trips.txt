@@ -1,0 +1,72 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id
+8,M - F,44,Route 1: Winston-Salem Express,,0,,1_PM
+8,M - F,56,Route 1: Winston-Salem Express,,0,,1_AM
+8,M - F,57,Route 1: Winston-Salem Express,,0,,1_AM
+8,M - F,58,Route 1: Winston-Salem Express,,0,,1_PM
+8,M - F,59,Route 1: Winston-Salem Express,,0,,1_PM
+8,M - F,76,Route 1: Winston-Salem Express,,0,,1_NooN
+9,M - F,32,Route 10: Greeensboro to Randloph County,,1,,10S
+9,M - F,36,Route 10: Greeensboro to Randloph County,,1,,10S
+9,M - F,9,Route 10: Randolph County to Greensboro,,0,,10N
+9,M - F,21,Route 10: Randolph County to Greensboro,,0,,10N
+10,M - F,35,Route 12: King to Winston-Salem,,0,,12A
+10,M - F,38,Route 12: Winston-Salem to King,,1,,12B
+6,M - F,1,Route 13: Winston-Salem to Yadkinville,,1,,13B
+6,M - F,43,Route 13: Yadkin County to Winston-Salem,,0,,13A
+7,M - F,11,Route 14: Mocksville to Winston-Salem,,0,,14A
+7,M - F,10,Route 14: Winston-Salem to Mocksville,,1,,14B
+11,M - F,19,Route 17: Winston-Salem Kernersville Shuttle,,0,,17B
+11,M - F,20,Route 17: Winston-Salem Kernersville Shuttle,,0,,17A
+12,M - F,5,Route 18: Greensboro Kernersville Shuttle,,0,,18A
+12,M - F,33,Route 18: Greensboro Kernersville Shuttle,,0,,18B
+1,M - F,8,Route 2: Greensboro Express,,0,,2A
+2,M - F,31,Route 3: High Point Express,,1,,3
+3,M - F,51,Route 4: Greensboro to Chapel Hill,,0,,4_east
+3,M - F,52,Route 4: Greensboro to Chapel Hill,,0,,4_east
+3,M - F,53,Route 4: Greensboro to Chapel Hill,,0,,4_east
+3,M - F,54,Route 4: Greensboro to Chapel Hill,,0,,4_east
+3,M - F,17,Route 4: Chapel Hill to Greensboro Depot,,1,,4_west
+3,M - F,49,Route 4: Chapel Hill to Greensboro Depot,,1,,4_west
+3,M - F,50,Route 4: Chapel Hill to Greensboro Depot,,1,,4_west
+3,M - F,55,Route 4: Chapel Hill to Greensboro Depot,,1,,4_west
+13,Sa - Su,2,Route 5: High Point to Winston-Salem,,1,,5B
+13,Sa - Su,15,Route 5: High Point to Winston-Salem,,1,,5B
+13,M - F,37,Route 5: High Point to Winston-Salem,,1,,5B
+13,M - F,39,Route 5: High Point to Winston-Salem,,1,,5B
+13,M - F,47,Route 5: High Point to Winston-Salem,,1,,5B
+13,Sa - Su,48,Route 5: High Point to Winston-Salem,,1,,5B
+13,Sa - Su,4,Route 5: Winston-Salem to High Point,,0,,5A
+13,Sa - Su,12,Route 5: Winston-Salem to High Point,,0,,5A
+13,Sa - Su,13,Route 5: Winston-Salem to High Point,,0,,5A
+13,M - F,29,Route 5: Winston-Salem to High Point,,0,,5A
+13,M - F,30,Route 5: Winston-Salem to High Point,,0,,5A
+13,M - F,42,Route 5: Winston-Salem to High Point,,0,,5A
+4,M - F,40,Route 6: Surry County to Winston-Salem,,0,,6A_5:35
+4,M - F,41,Route 6: Surry County to Winston-Salem,,0,,6A_6:25
+4,M - F,46,Route 6: Surry County to Winston-Salem,,0,,6A_6:55
+4,M - F,24,Route 6: Winston-Salem to Surry County,,1,,6B_16:30
+4,M - F,26,Route 6: Winston-Salem to Surry County,,1,,6B_15:20
+4,M - F,27,Route 6: Winston-Salem to Surry County,,1,,6B_16:07
+14,M - F,23,Route 8: Davidson County to Winston-Salem,,0,,8A
+14,M - F,18,Route 8: Winston-Salem to Davison County,,1,,8B
+5,M - F,9001,Route 9: Business 85 Express,,,,9_SOD
+5,M - F,9845,Route 9: Business 85 Express,,,,9_NS
+5,M - F,9012,Route 9: Business 85 Express,,,,9_NS
+5,M - F,9245,Route 9: Business 85 Express,,,,9_NS
+5,M - F,9002,Route 9: Business 85 Express,,,,9_EOD
+16,M - F,60,Shuttle 20,,0,,20_AM
+16,M - F,61,Shuttle 20,,0,,20_AM
+16,M - F,62,Shuttle 20,,0,,20_PM
+16,M - F,63,Shuttle 20,,0,,20_PM
+17,M - F,64,Shuttle 21,,0,,21_AM
+17,M - F,65,Shuttle 21,,0,,21_AM
+17,M - F,66,Shuttle 21,,0,,21_PM
+17,M - F,67,Shuttle 21,,0,,21_PM
+18,M - F,68,Shuttle 22,,0,,22_AM
+18,M - F,69,Shuttle 22,,0,,22_AM
+18,M - F,70,Shuttle 22,,0,,22_PM
+18,M - F,71,Shuttle 22,,0,,22_PM
+19,M - F,72,Shuttle 23,,0,,23_AM
+19,M - F,73,Shuttle 23,,0,,23_AM
+19,M - F,74,Shuttle 23,,0,,23_PM
+19,M - F,75,Shuttle 23,,0,,23_PM

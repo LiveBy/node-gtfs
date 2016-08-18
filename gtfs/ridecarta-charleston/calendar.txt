@@ -1,0 +1,15 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+1093A1973,"Effective beginning August 17, 2014 (Sun)",0,0,0,0,0,0,1,20140817,20170101
+1092A1973,"Effective beginning August 17, 2014 (Sat)",0,0,0,0,0,1,0,20140817,20170101
+1091A1973,"Effective beginning August 17, 2014 (Mon-Fri)",1,1,1,1,1,0,0,20140817,20170101
+1015A2891,Year-round calendar (Mon-Fri),1,1,1,1,1,0,0,20140101,20170101
+1016A2891,Year-round calendar (Sat),0,0,0,0,0,1,0,20140101,20170101
+1017A2891,Year-round calendar (Sun),0,0,0,0,0,0,1,20140101,20170101
+1043A2891,Year-round calendar (Mon-Sat),1,1,1,1,1,1,0,20140101,20170101
+1097A1973,"Effective beginning August 17, 2014 (Mon-Sat)",1,1,1,1,1,1,0,20140817,20170101
+1099A1973,"Effective beginning August 17, 2014 (Sat-Sun)",0,0,0,0,0,1,1,20140817,20170101
+1376A2493,Effective beginning 1/4/15 (Sun),0,0,0,0,0,0,1,20150104,20170101
+1379A2493,Effective beginning 1/4/15 (Mon-Fri),1,1,1,1,1,0,0,20150104,20170101
+1381A2493,Effective beginning 1/4/15 (Sat),0,0,0,0,0,1,0,20150104,20170101
+1620A2897,"Beginning effective May 3, 2015 (Mon-Sat)",1,1,1,1,1,1,0,20150503,20170101
+1621A2897,"Beginning effective May 3, 2015 (Sun)",0,0,0,0,0,0,1,20150503,20170101

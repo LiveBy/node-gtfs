@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_fare_url,agency_lang
+213,Charleston Area Regional Transportation Authority,http://www.ridecarta.com/,America/New_York,843-724-7420,http://www.ridecarta.com/fares-and-passes/general-fares-passes,en

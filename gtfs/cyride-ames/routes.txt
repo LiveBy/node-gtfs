@@ -1,0 +1,31 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1W,CYRIDE,1,Red West, ,3, ,cc3333,ffffff
+1E,CYRIDE,1,Red East, ,3, ,cc3333,ffffff
+1AW,CYRIDE,1A,Red West, ,3, ,cc3333,ffffff
+1A,CYRIDE,1A,Red East, ,3, ,cc3333,ffffff
+1B,CYRIDE,1B,Red East, ,3, ,cc3333,ffffff
+2W,CYRIDE,2,Green West, ,3, ,336633,ffffff
+2E,CYRIDE,2,Green East, ,3, ,336633,ffffff
+3S,CYRIDE,3,Blue South, ,3, ,3366ff,ffffff
+3N,CYRIDE,3,Blue North, ,3, ,3366ff,ffffff
+3A,CYRIDE,3A,Blue South, ,3, ,3366ff,ffffff
+3B,CYRIDE,3B,Blue North, ,3, ,3366ff,ffffff
+4,CYRIDE,4,Gray, ,3, ,999999,ffffff
+4A,CYRIDE,4A,Gray, ,3, ,999999,ffffff
+5,CYRIDE,5,Yellow, ,3, ,cccc33,000000
+6S,CYRIDE,6,Brown South, ,3, ,996600,ffffff
+6N,CYRIDE,6,Brown North, ,3, ,996600,ffffff
+6A,CYRIDE,6A,Towers, ,3, ,996600,ffffff
+6B,CYRIDE,6B,Brown, ,3, ,996600,ffffff
+7,CYRIDE,7,Purple, ,3, ,6c53a1,ffffff
+9,CYRIDE,9,Plum, ,3, ,bb65a6,ffffff
+10,CYRIDE,10,Pink, ,3, ,f27cb0,ffffff
+21,CYRIDE,21,Cardinal, ,3, ,990033,ffffff
+22,CYRIDE,22,Gold, ,3, ,999900,ffffff
+23,CYRIDE,23,Orange, ,3, ,cc9933,ffffff
+24,CYRIDE,24,Silver, ,3, ,cccccc,000000
+AW,CYRIDE,A,West, ,3, ,00003f,ffffff
+AE,CYRIDE,A,East, ,3, ,00003f,ffffff
+B,CYRIDE,B, , ,3, ,00003f,ffffff
+C,CYRIDE,C, , ,3, ,00003f,ffffff
+D,CYRIDE,D, , ,3, ,00003f,ffffff

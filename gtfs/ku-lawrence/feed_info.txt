@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+KU on Wheels & Lawrence Transit System,http://www.lawrencetransit.org,en,20150801,20160822,7.2

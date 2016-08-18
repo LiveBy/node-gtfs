@@ -1,0 +1,568 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,location_type
+60ccb6e5-afef-4779-97f2-aeeadb233837,"WtR01200AW","Walter Reed Rd/SandhurstDr","""Shelters""",35.034985,-78.937615,0
+83eae5d3-315a-42e2-bff2-5a25f68098d4,"Mel03300AS","Melrose Rd/Beaumont Rd","""Bench""",35.033562,-78.933374,0
+21f647c6-df4e-4e2c-b101-9c41ec02d54a,"Bordeaux","Bordeaux Shopping Center","""""",35.02907895,-78.92942479,0
+a147641a-4d5c-4f47-9fab-e947505369ca,"Owe01900BW","Owen Dr/Nato Rd","""""",35.02727312,-78.92753835,0
+6503ac32-d5ab-4f21-b900-afbe8076af20,"Owe01900CW","Owen Dr/Phillies Cir","""Briarwood Apts""",35.02555078,-78.92570928,0
+13fcdda7-3d33-49e1-8a05-4b49b075bedd,"Owe02100EW","Owen Dr/Poinciana Dr","""""",35.022016,-78.92171041,0
+b19df76d-b771-42c1-8fd2-f6786c97a5ec,"Owe02400FW","Owen Dr/Cope St","""""",35.01832152,-78.91423706,0
+a924da9f-550f-44b5-a52d-47ce2541d885,"Sou02300CE","Southern Ave/W Jenkins St","""""",35.02037741,-78.90237501,0
+1a1f19a5-2580-4f67-b1ff-5ab17c0a87b7,"Sou02100DE","Southern Ave/Dallas St","""""",35.02368702,-78.89983145,0
+5a0819de-960b-4753-a780-648434baf817,"Sou01900EE","Southern Ave/Cude St","""""",35.0249273,-78.89886135,0
+a9ceb3e0-3b24-4997-94a2-937bcf7e0436,"Sou01000FE","Southern Ave/Delcross St","""""",35.02841651,-78.89614045,0
+5a1b6034-fbaa-4565-ba36-1f8a3015cd9b,"Sou01040GE","Massey Hill Hardware","""Southern Ave/Garvin St""",35.03252414,-78.89295698,0
+392fda02-ef9b-4ea5-913f-2abfeaf0643c,"Sou01000HE","Southern Ave/Fay Hart Rd","""""",35.03547334,-78.89066588,0
+48c94081-351f-495c-a188-84b12d3b56e0,"Sou00800IE","Southern Ave/Winslow St","""""",35.03748044,-78.88891756,0
+89ce2900-b432-4649-a465-e14d16a8e811,"Sou00820JE","Southern Ave/Hedgepeth St","""""",35.03920161,-78.88631346,0
+021d7a83-500a-4b35-9b5a-088263fb2768,"Sou00600KE","Southern Ave/Gillespie St","""""",35.0409739,-78.88360021,0
+829aa1b3-ce41-4ebc-bfb4-09623888f856,"Gil00500AE","Gillespie St/Southern Ave","""""",35.04237669,-78.88172033,0
+fc376293-793e-494a-962f-fad605604515,"Gil00500BE","Gillespie St/Pond St","""""",35.04395311,-78.88117014,0
+30bd756a-0a66-4d41-846d-c5c4205a7ac1,"Cpb00300AW","Campbell Ave/Dick St","""""",35.04598419,-78.87952509,0
+343494de-ad93-4c27-8492-d9f556eb218c,"Cpb00300BW","Campbell Ave/Alfred St","""""",35.044751,-78.876177,0
+cc45a57e-b559-4af0-a6d2-dca7bddc59b3,"Lnc00098XS","Dogwood Manor","""""",35.046043,-78.872607,0
+f548ec3c-f830-4920-99a8-8d19839f585b,"TransfCtr","Transfer Center","""""",35.048107,-78.869674,0
+00f999a1-53de-4bf3-8340-c1924fed668d,"VetHosp","Veterans Hospital","""""",35.088572,-78.877059,0
+2a10d948-4cc1-4a22-ac4d-00a9fa7df16d,"Ram02100NW","LaFayette Memorial Park","""""",35.087349,-78.879453,0
+cafa37f2-7eb3-49bf-90e4-4a137d667af3,"Ram01900OW","Ramsey St/Rosehill Rd","""Hillside Manor""",35.083178,-78.881615,0
+585c3046-32fd-4cf6-b81f-e9d2945b06ee,"Ram01700PN","Ramsey St/Scott Ave","""""",35.08105,-78.882204,0
+7838a6b8-c9d8-400a-a2d9-29efb92d3968,"Ram01600QW","Ramsey St/Quincy St","""Ramsey St School""",35.079486,-78.88193,0
+22002182-1132-4ee5-901b-d6f5580059a8,"Ram01400RW","Ramsey St/Hillsboro St","""""",35.07796,-78.881602,0
+b29baea1-3412-457a-9fb0-5abbad54faa3,"Hil01100BW","Hillsboro St/Central Dr","""""",35.07475466,-78.88309611,0
+f8125cc0-cdae-40f0-b6e9-04213e7abe46,"Hil00900CW","Hillsboro St/S Windsor Dr","""""",35.07198425,-78.88360993,0
+01a51d4d-0a27-4c0a-a670-d176278c8cd0,"Hil00800DW","Hillsboro St/Boundary Ln","""""",35.07022177,-78.88382164,0
+c478733a-26e2-4d00-8cb4-cd4785c31930,"Hil00600EW","Hillsboro St/Edwards St","""""",35.06560356,-78.88409631,0
+019f8692-d31b-458b-b296-58f5edffb5e2,"Hil00500FW","Hillsboro St/Moore St","""Operation In As Much""",35.06328628,-78.8842239,0
+d0540f81-7d4c-4c11-9c35-0a60e6695fcf,"Moo00400AW","Moore St/Frink St","""""",35.06164308,-78.88319505,0
+e505ea4c-9ec9-48c7-aa0f-e1364e83db47,"Moo00300BW","Moore St/Ray Ave","""""",35.06037715,-78.8795522,0
+fb7391aa-6bf2-40fc-bc13-a46f609cc0d5,"Ray00300EN","Ray Ave/Rowan St","""BB and T""",35.05891966,-78.88002788,0
+b3fc4ef3-55d5-402d-8fe4-0c5335e75626,"Ray00100AN","Maiden Ln Library","""Ray Ave/Hay St""",35.05443329,-78.88209032,0
+ac0853f0-1aaa-40c2-9384-dea9b35d9725,"Ray00000BN","Ray Ave/Hay St","""""",35.05335958,-78.88246765,0
+873e30b3-b120-4706-89ca-e06adb391ca9,"Fra00200CW","Franklin St/Donaldson St","""""",35.05213885,-78.88078736,0
+425a05f4-160e-4557-9345-e6c6f720f2aa,"CCCH","Cumberland Co Court House","""Otis F Jones Pkwy""",35.05144994,-78.87801425,0
+f2564ef9-e73c-4b4c-a058-47ce98e6ef31,"Per00300AW","Person St/Greyhound","""Greyhound Bus Station""",35.05067811,-78.87310732,0
+c6fcb313-23df-452b-b573-367411413c32,"Per00400BW","Person St/Old Wilmington Rd","""""",35.05002813,-78.87119938,0
+b17dfbfe-ab6a-4500-b5e0-d084e9382269,"OWR00200AN","Old Wilmington Rd/Person St","""""",35.04914128,-78.86975453,0
+510cbb50-c89a-47bf-b168-4ca8a1e93107,"Alf00400AW","Azalea Manor","""Alfred St nearside Vanstory St""",35.04355165,-78.87584302,0
+fce86927-9887-4b1b-953b-6aa6cb0a0f46,"OWR00500BW","Old WIlmington Rd/Simmons St","""""",35.04091044,-78.87348674,0
+7f49e706-7bf9-43eb-9353-76636370b1a6,"PWC","PWC","""Old Wilmington Rd nearside S Eastern Blvd""",35.03375057,-78.87232422,0
+d697dc0b-4a9e-4806-a361-892ad9ca284b,"ERu00100AE","E Russell St/Dick St","""Sherrif Dept-Court House""",35.050032,-78.8772489945,0
+ba966460-da0e-431e-8760-f31e523d3dbf,"WRu00200BE","W Russell St/Gillespie St","""Dention Center""",35.050948,-78.879882,0
+1c4dd76c-a6d6-46b9-9894-2b2e41a0456e,"WRu00670CE","W Russell St/Robeson St","""Highsmith Rainey Hospital""",35.05380239,-78.88835823,0
+5f24abe6-1821-467b-963d-386f28b8b075,"Bra00800AN","Branson St/Bradford Ave","""""",35.05272488,-78.8929975,0
+82518402-304e-4475-9f44-a21ca626f442,"Tur00500AN","Turnpike Rd/Branson St","""""",35.05224251,-78.89536931,0
+084e561e-42c4-4615-84dd-7ac814a6d2bd,"Tur01000BN","Turnpike Rd/Davis Street","""""",35.05142002,-78.89723227,0
+793175f3-29f8-4ae3-befe-7371384e8122,"Tur01100CN","Turnpike Rd/Commerce St","""""",35.04967416,-78.89957407,0
+1b3c61ea-7e6c-4706-b55d-f6faf43d7e57,"Com00800AW","Commerce St/Turnpike Rd","""""",35.04860008,-78.90015775,0
+bd9a3f11-7d60-4e2d-bfa4-85c3eeb06c46,"Com00700BW","Commerce St/Augusta Dr","""""",35.04679198,-78.89872691,0
+193a8c6e-5b86-4b6e-8d75-78d49b3b64ab,"Com00700CW","Commerce St/Weiss Ave","""""",35.0449399,-78.89722885,0
+0ad6c95b-b0db-42cc-a42c-578b174f469c,"Wei00800AN","Weiss Ave/Commerce St","""""",35.04422908,-78.89745906,0
+5c42896b-d792-432c-84c8-f71978e5252b,"Wei00900BN","Weiss Ave/Fledger St","""""",35.04346708,-78.89906694,0
+cd1c92ac-249d-4d95-ab5b-718471e705e2,"Rob01200AN","Robeson St/Levy Dr","""""",35.04044555,-78.905569,0
+00e2c7be-3887-4bd8-9939-7df257aa1083,"Rob01500BN","Robeson St/Village Dr","""Valleygate""",35.04126392,-78.91368767,0
+23a827db-2621-452d-bc87-fb7197056887,"Rob02200CE","Robeson St/Raeford Rd","""""",35.04403863,-78.91758944,0
+ffc19315-562b-4921-9533-88cff3e1bcdc,"Rae02700AN","Executive Pl/Raeford Rd","""Harris Teeter""",35.0457947,-78.92321868,0
+4ce190de-fd61-43d6-84ee-183ba33eb854,"Rae02800BN","Raeford Rd/Ravenhill Dr","""""",35.04558321,-78.92518842,0
+037ce5d8-2d9e-4fbd-b51a-38d2787b2f01,"Tallywood","Tallywood Shopping Ctr","""""",35.04490946,-78.93132174,0
+04c28637-bc4d-47f5-8b77-f6dfc60e8216,"Rae03300CN","Raeford Rd/S McPherson Church Rd","""Lafayette Bowling Lanes""",35.0443651,-78.93664062,0
+7c573c91-4c89-4ea0-ae44-215adcd70203,"Rae03900DN","Raeford Rd/Faison Ave","""Big Lots""",35.04399294,-78.94450595,0
+c36b4231-225a-4597-85ec-455a57275f97,"Fdlion-Ire","Food Lion/Ireland Dr","""Foodlion""",35.044331,-78.948367,0
+4e04d3c9-263a-4015-a91b-bf891172f035,"Rae3870ES","Raeford Rd/Faison Dr","""""",35.043769,-78.943767,0
+f83f2905-0842-47ba-a55f-bcdd18f23f95,"Owe0200BW","AT&T Call Ctr.","""""",35.041923,-78.934428,0
+399600d9-9764-4526-a9e6-3fdc14194c0c,"Owe00500AW","Owen Dr/Sandhurst Dr","""""",35.035433,-78.932501,0
+b72693f7-e07a-4211-8cfe-9c060a2cf19d,"Mel03300AN","CVS/CFVMC","""""",35.033677,-78.933367,0
+f4c3beff-c6c8-4b62-b168-5f151db6a4dd,"WtR01200AE","Walter Reed/Sandhurst Dr","""""",35.035129,-78.937555,0
+e616c8e8-70c2-467e-8b81-36f58a3658a0,"Ire01100AW","Ireland Dr/Raeford Rd","""McDonalds""",35.0424474,-78.94748007,0
+ca1b9eee-c338-462b-8ec9-c69950238d6d,"Ire01200BW","Ireland Dr/David St","""""",35.04027191,-78.94726819,0
+6501a8ab-3889-4990-84d2-ccd48c31a61b,"Dav04200AS","David St/Hicks Ave","""""",35.03975802,-78.94529889,0
+ac37a537-60a5-4464-bb18-bef6cb236969,"Dav04000BS","David St/Faison Ave","""""",35.0398626,-78.94322066,0
+4a7850d8-8cbc-4ccd-94f2-eb4c3d4e6139,"Rox00600AW","Roxie Ave/Hanna St","""""",35.03793,-78.941222,0
+e1885b04-9b67-4899-a0b9-d5163e4c862c,"CpC03700AS","Cape Center Dr/Roxie Ave","""""",35.0362929723437,-78.9396489524632,0
+926a43e6-318f-4d37-a42b-9e808001640d,"Owe02010DW","Owen Dr/Bordeaux Parkway","""""",35.024159,-78.924292,0
+0be1e32d-cda1-42ec-8060-73c6726f0941,"Cam02770BN","Camden Rd/Wake St","""""",35.015893,-78.908919,0
+816bde4c-79ef-41d0-b49a-963c9a99b770,"Sou02700AE","W Mountain Dr/Southern Ave","""""",35.01513049,-78.90660445,0
+2672e2be-7cf7-454a-b5d7-80badb6c5dd7,"Sou02500BE","Southern Av/Ladley St","""""",35.01709947,-78.9050055,0
+8a164554-0498-4618-9906-c2ebd1193a27,"Owe03100GE","Owen Dr/Business 301","""""",35.0201112043924,-78.8949700531346,0
+942fe25d-1e34-41c3-83da-4f1aaba885a2,"Coliseum1","Coliseum 1","""""",35.016429,-78.892836,0
+c89e9120-eea9-4f03-b31c-9fc1864b497b,"Coliseum2","Coliseum 2 ","""""",35.013545,-78.892404,0
+98013383-d8c5-499e-8fa9-cbba3b0c9d09,"Meh05500AE","University Estates","""Meharry Dr/Shaw Mill Rd""",35.1145658,-78.92186356,0
+e4b8c42e-76af-4119-8fd4-c922149f0759,"Meh05510BE","Meharry D/Spellman Dr","""""",35.11559,-78.922893,0
+d1152e1a-02de-4e11-b465-35efead60742,"Meh05580CE","Meharry Dr/Livingston Dr","""""",35.116913,-78.924225,0
+836f2943-c4e7-4096-965c-d321a1e30aff,"Sha02080AN","Shaw Rd/Meharry Dr","""""",35.11729,-78.925349,0
+3798a264-2dfe-40f5-a56f-8ff91cc26381,"Sha02000BN","Shaw Rd/Edmeston Dr","""""",35.115905,-78.92763,0
+d3ba320c-aa16-4198-8b6b-36090379ad71,"Liv05510AW","Livingston Dr/Fiske Dr","""""",35.113781,-78.926475,0
+57cca9bc-20aa-4c72-bb7c-4fb69d59bff8,"Liv05500BW","Livingston Dr/Spellman Dr","""""",35.113097,-78.925834,0
+97185102-646f-4888-95b7-dc394c43631e,"ShM01200BN","Shaw Mill Rd/RR Crossing","""""",35.112051,-78.927139,0
+83cce661-e15f-40b4-878c-98dee0e4182b,"Mur05300BW","Murchison Rd/Hogan St","""""",35.1108334806,-78.9272947171,0
+d6afb841-9792-4f27-b9ed-d71821b9b4c7,"Mur04600CW","Murchison Rd/Harbor Rd","""""",35.1050963371,-78.9224938206,0
+8a8494ae-755c-46ca-a998-31cfb5d3e8c6,"Mur04200DW","Murchison Rd/Sleepy Hollow Dr","""""",35.1022178181,-78.9200850393,0
+9b9d55c5-f91e-45da-b038-5341db753acc,"Mur03600EW","Murchison Rd/Pamalee Dr","""Pamalee Plaza""",35.0990839722,-78.917453168,0
+f900d1c2-1577-4052-b925-0844f9b48d7a,"Mur03100FW","Murchison Rd/Rosemary Dr","""""",35.0954459606,-78.9143832499,0
+572dc09c-2f11-4e1c-a372-56a08a4e6e1b,"Mur02800GW","Murchison Rd/Preston Ave","""""",35.0927429489,-78.9120046301,0
+53416171-3aed-4f56-b5fb-52a067a8ea0e,"Mur03100HW","Murchison Rd/Pelt Dr","""""",35.0909701133,-78.9104785349,0
+c6dddd69-7415-43a6-be8f-c1f22db5e8b5,"Mur02500IW","Murchison Rd/Pelt Dr","""""",35.0890647067,-78.9088196167,0
+89d158a0-3c25-4504-8270-0a95f8c971a7,"Mur02100JW","Murchison Rd/Penn. Ave","""""",35.0842580542,-78.9046989657,0
+ddec29af-872f-49c8-94b2-ed0272190682,"Mur02000KW","Murchison Rd/Hood Ave","""""",35.0830116516,-78.9035407395,0
+c47ddfb8-fc67-4d9b-b0ce-b57f1f7a2529,"Mur01800LW","Murchison Rd/Hood Ave","""""",35.0814890166,-78.9022037014,0
+d92fca2f-4dc2-4f00-a5b2-34957f9ea54e,"Mur01500MW","Murchison Rd/Carver St","""""",35.0773708294,-78.8988547072,0
+a0350a98-3d03-4345-8ac4-de18ce8156aa,"Mur01400NW","Murchison Rd/Council St","""""",35.0752403603,-78.897318081,0
+565a73fd-b7be-414b-aeed-4124e69716ee,"Mur01200OW","FSU","""""",35.0729390292,-78.8956390993,0
+26e058e7-a1c1-48a2-a52b-a2970f1b98e9,"Mur01100PW","Murchison Rd/Currie St","""""",35.0708747499,-78.8941279211,0
+fd81e52a-28c7-4839-a8f9-4e68bcbdbcbe,"Mur00700QW","Murchison Rd/Blue St","""""",35.0653848557,-78.8901510979,0
+935f923e-61c1-45f2-91ea-3b955a0c026e,"Mur00600RW","Murchison Rd/W Rowan St","""""",35.0622775354,-78.8875583369,0
+22889e0c-6f9b-4d6c-826f-b92e9bfd9aab,"WRo00500AE","W Rowan St/Hillsboro St","""Vicks""",35.0598725417,-78.8849620527,0
+e835b8d2-91b9-41be-aaa4-6b09532f5aef,"Hil00300AE","Hillsboro St/Base of Rowan ramp","""""",35.0590706582,-78.8845409588,0
+0b16cde5-e987-46a8-9ed5-5000a4f7bef5,"Row00200AW","Rowan St/Ray Ave","""ESC""",35.058194623,-78.8799756249,0
+32414ba1-5173-4c4f-a7bf-b1e31db94f9d,"Row00100BW","Rowan St/Green St","""""",35.0572664601,-78.8772830377,0
+be30bb11-2a2b-4a4f-a27b-0f9bd89ccab6,"OtsJonesPO","Green St/Rowan St","""Otis Jones Post Office""",35.05649916,-78.8770204,0
+a85f87d2-b106-4aad-881b-a21351929e60,"Bow00100AW","Bow St/Green St","""""",35.053009,-78.877382,0
+5115c25d-e26c-4c31-9c5b-9260ae925e5a,"DSS","Social Services","""""",35.07161596,-78.88279553,0
+2b2f432b-8233-4c99-ba71-6e6f10590bba,"CCHD","Cumb Co Health Dept","""""",35.073699,-78.882629,0
+e90189ec-c794-45ea-90cd-a57943df7635,"CCMall","Cross Creek Mall","""""",35.072667,-78.958904,0
+99bfc540-e68e-45bf-97cf-d2731315e44f,"Mor03800BW","Westwood Shopping Center","""""",35.06732457,-78.95197156,0
+2daba4f9-f9e1-404e-9315-46ac0908c703,"McP00200DE","N McPherson Church Rd/Vancouver Dr","""Cambridge Arms Apts""",35.07010893,-78.95118034,0
+54722f81-a4a6-477a-8b76-a680fac991d8,"McP00200EE","N McPherson Church Rd/Vancouver Dr","""Hooters/Outback""",35.07219752,-78.95210531,0
+448f9ff5-86e8-476f-8178-afd9ba14d6eb,"McP00340FE","N McPherson Church Rd/Vancouver Dr","""""",35.0738487,-78.95288394,0
+572388ce-e4e9-4171-8d65-de149c204d86,"McP00380GE","N McPherson Church Rd/Sycamore Dairy Rd","""U S Flea Mall""",35.07519192,-78.95350868,0
+290f52d7-a13c-4977-b49e-1cfbc778c10b,"SyD03800CW","Sycamore Dairy Rd/Wagoner Dr","""""",35.07931201,-78.94578089,0
+251897f8-5d58-466f-92de-4b798d10ab59,"SyD03600DW","Sycamore Dairy Rd/Bragg Blvd","""""",35.07831807,-78.94160876,0
+3eb7cbee-0d16-4857-a474-0632ff481877,"BgB03300EW","Bragg Blvd/Shannon Dr","""Bragg Blvd Flea Market""",35.076871,-78.936106,0
+111df764-fa94-464d-a34d-616fb0be26dd,"BgB03300FW","Bragg Blvd/Fort Bragg Rd","""""",35.07618542,-78.93387227,0
+f02937da-3fe6-4bbd-8f63-aac0eede06cd,"Elm00800BS","Eutaw Shopping Center","""Elm St/Bragg Blvd""",35.07478476,-78.92600187,0
+c330c01b-4644-4715-ba8d-09b6644783f0,"Sta00400AN","Stamper Rd/Fort Bragg Rd","""Bar B Que Hut""",35.07135833,-78.92370159,0
+c0783471-b363-4285-979e-209d33f7630e,"FtB02900HE","Fort Bragg Rd/Hobson St","""B and B Lanes""",35.07236592,-78.92633314,0
+6257a125-74da-47cf-bd76-837dc1f89420,"FTCC2","FTCC","""""",35.06806955,-78.92707539,0
+6e8ec68c-5726-4cec-a446-376e5e684f4a,"Dev00300AS","Denvers St/Hull Rd","""Health/Science Building""",35.06689465,-78.92393635,0
+87d6b204-ed2f-49e3-9026-4b2a49c1450c,"FtB02600BW","Fort Bragg Rd/Devers St","""Honeycutt Rec Ctr""",35.06925288,-78.92123853,0
+810a98bb-bd9e-405f-a568-6b169f92ef8e,"FtB02400CW","Fort Bragg Rd/Coverly Sq","""""",35.06708965,-78.91737964,0
+2321dd79-e03b-442d-a7c6-14e521aec4e4,"FtB02100DW","Fort Bragg Rd/Woodrow St","""Terry Sanford School""",35.06505944,-78.91387039,0
+6a0c6673-7cf7-46e1-9679-7069a85692e8,"FtB01900EW","Fort Bragg Rd/Woodrow St","""""",35.06384025,-78.91174005,0
+b7a28058-fffd-47bb-b9b3-dffb2e80c5f4,"FtB01700FW","Fort Bragg Rd/Bethune St","""""",35.06234053,-78.90914108,0
+8adca8a3-5c27-4606-ac78-72e0b139473e,"FtB01600GW","Fort Bragg Rd/Sutton St","""""",35.06155028,-78.9077656,0
+79251c63-1bf5-44a1-9987-45330251ed2a,"FtB01500HW","Fort Bragg R/Pate Dr","""""",35.06012666,-78.90526991,0
+ddd19394-64e2-4241-b946-07f49a7e8f43,"Mor01400AW","Morganton Rd/Dobbin Ave","""""",35.05779559,-78.90379428,0
+8fd94e92-811d-447c-a67d-e3e4524bd356,"Mor01300BW","Hay St/Broadfoot Ave","""""",35.057003,-78.900751,0
+0d4aa8ae-1e1e-4351-b78e-516c97d5f43d,"Hay00900AS","Hay St/Davis St","""Bench""",35.05611884,-78.89602361,0
+7e6ebf3f-2666-4b13-91b8-4469a5604219,"Hay00800BS","Hay St/Mental Health","""""",35.05588398,-78.89177643,0
+251c1aca-83e9-490c-b837-5401e32674af,"Fra00500AW","Franklin St/Winslow St","""Medical Arts Building""",35.05402959,-78.88657842,0
+1f0e8cfc-9f11-4cf2-9cff-5ae32ccd4b2c,"Fra00400BW","Franklin S/Ray Ave","""RR Crossing""",35.05281521,-78.88318142,0
+111b3e85-b680-46fb-811b-6fd5120e7c04,"Rad06900AN","Radnor St/71st School Rd","""Cook Out""",35.05981291,-79.01262205,0
+d37ffb39-61ef-489c-bd99-464650d7520b,"Cli06800JW","Cliffdale Rd/Cliffdale Ct","""Cliffdale Library""",35.059479,-79.009788,0
+e4c114cb-7868-4195-926d-e3e37b3f3527,"Cli06600KW","Cliffdale Rd/Bunce Rd","""Kangaroo""",35.05828,-79.003599,0
+662ac78d-4d51-4590-87b3-babeffe9bc27,"Cli06500LW","Cliffdale Rd/Bunce Rd","""""",35.05800073,-79.00212561,0
+5958eb1b-2a8c-49eb-94d3-6ea87c4ed567,"Cli06500MS","Cliffdale Rd/Regency Dr","""""",35.057838,-78.998792,0
+bcadde12-867c-42e6-b33b-616317eb069a,"Pri00500AE","Pritchett Rd/Cliffdale Rd","""""",35.05738885,-78.99292679,0
+550d738a-d335-481e-8e5e-25a795e8e0c2,"Pri00600BE","Pritchett Rd/Cross Pointe Dr","""""",35.05503346,-78.99305532,0
+18cae753-f296-4f45-9d81-f382044b53ee,"Tim06200AS","Timberland Dr/Pritchett Rd","""""",35.05246995,-78.99195385,0
+8c201646-c838-4763-954c-c07656c1b8b5,"Tim06200BS","Timberland Dr/Wynnwood Dr","""""",35.05240501,-78.98987596,0
+58e6fe70-438a-4e0c-9460-e8f9c92fac9c,"Tim06100CS","Timberland Dr/Glenlea Cir","""""",35.05234285,-78.98785156,0
+9370d0b5-af00-40e9-a723-ca7dc70b30be,"Tim06100DW","Timberland Dr/Wayside Rd","""""",35.05137552,-78.98408289,0
+c433f16b-02f7-4fa1-ba43-4243af2509c0,"Lou00900AW","Louise Cir/Dandy Loop Rd","""""",35.05004388,-78.98426456,0
+02aa01ea-c703-410c-9795-6c84be9db585,"Lou06100BW","Louise St/Louise Cir","""""",35.04755418,-78.98131673,0
+acef7d17-4822-4aea-ac8e-ddbfd6fb4ee5,"Ski02100AS","Skibo Rd/Louise St","""""",35.048132,-78.975486,0
+0354b24d-fe8e-4230-b40b-9333c3d7607a,"Ski02100BS","Skibo Rd/Richwood Ct","""""",35.051234,-78.974102,0
+1ef8504f-81e7-4bd4-8389-a70bbf7a008d,"Ski02070CS","Skibo Rd/Fayetteville Pavilion","""Skibo Rd/Century Oaks Dr """,35.053973,-78.972834,0
+79ebe2bd-ddd5-4bd0-b1cb-5208c96a59fe,"Ski02020DS","Skibo Rd/Leisure Ln","""""",35.056862,-78.971588,0
+a2d64844-fefb-4064-b779-9e9edf1757d0,"Ski01900ES","Skibo Rd/Cliffdale Rd","""""",35.059841,-78.969567,0
+42a7babc-09d9-4053-9e3f-27ab9021e0e2,"Ski02060FS","Skibo Rd/Red Tip Rd","""""",35.062626,-78.968225,0
+400cda02-845b-4bbf-bd4a-41deab22d2b1,"Ski01900GS","Skibo Rd/Campground Rd","""K Mart""",35.065764,-78.967159,0
+c041e828-7f91-418c-be68-40034fd5828f,"Ski01860HS","Skibo Rd/Smokey Bones","""""",35.071774,-78.965075,0
+6b29bbb4-add6-47db-a4d3-a76d2edaa21b,"Rae05200EN","Raeford Rd/Sandlewood Rd","""""",35.04262593,-78.96567333,0
+44835c67-2f36-42c9-8cee-b7e58b4e5ebb,"Rae05300FN","Raeford Rd/Pompton Dr","""""",35.04293943,-78.96920577,0
+866e2ac9-3d85-43a1-913d-91d8308afbdc,"Rae05400GN","Lewis Chapel Church/Raeford Rd","""""",35.04392736,-78.97343266,0
+58d3e98d-2837-4223-bf7e-6d5b45bc0384,"Rae05800HN","Raeford Rd/Skibo Rd","""Sunoco/Family Dollar""",35.04438798,-78.97828871,0
+75e90ba0-32db-4d76-a0b0-800e8b9d6af6,"Rae06200IN","Raeford Rd/Time Warner Cable","""""",35.04416397,-78.98344162,0
+4385bbc2-a766-4b0f-8cc0-338c02159121,"Rae06300JN","Raeford Rd/Little Dr","""Falcon Village""",35.0430757,-78.98818718,0
+77bf5442-96e2-42c0-b1f7-f4e88faeb708,"SyCCtr","Sykes Call Center","""""",35.040019,-79.000722,0
+9fe7db02-611e-4d30-bbd9-eacb9e828612,"SykCCtr2","Sykes Call Center Lot","""""",35.040882,-78.999053,0
+2b52cefa-eaa9-4dee-b6cb-b254e7549fc3,"SBr00800AN","Strickland Bridge Rd/Adj Applecross Ave","""""",35.039122,-78.99741,0
+9bc22c60-6e45-4816-a84b-78326221108c,"SBg01500BN","Strickland Bridge Rd /Adj Childers Dr","""""",35.024589,-79.002462,0
+340f4f2e-8498-400e-adbb-9e805931475e,"SBg02100CN","Strickland Bridge Rd/Adj Food Lion","""""",35.014955,-79.009176,0
+e0eb53fb-4c17-454d-b51a-62bafa5ce00c,"WRBL","West Regional Branch Library","""""",35.012391,-79.044012,0
+cbafe9ab-50c0-4b95-9be2-a2735f2ef204,"SP Mall","Southpost Mall","""""",35.103999,-79.014967,0
+cc54f219-b3d7-41ea-b58d-c77def324e68,"Dandridge","505 Dandridge Dr","""""",35.0981353281817,-79.0106322771688,0
+8af7fa6f-792d-4ddf-869c-e4c95ee2ae42,"SFe05000AN","Ponderosa Shopping Center","""""",35.08838595,-78.98509552,0
+0d5eff6c-1326-41f1-812c-e4a2f2b1de7a,"Bon00500CS","Bonanza D/Santa Fe Dr","""""",35.08950456,-78.98562565,0
+59cff50e-2e94-4f3c-9ea4-dbb935180a6f,"Yad05400AW","Yadkin Rd/Pima Dr","""""",35.08688881,-78.97879278,0
+56ddff48-91a0-4452-875f-5348c9cd6592,"Yad05400BW","Yadkin Rd/Brookfield Rd","""""",35.08565012,-78.97699089,0
+ec76072d-8172-4f59-b0a8-d2d236d916c8,"Yad05200CW","Yadkin Rd/Nathan Dr","""""",35.08363681,-78.97169645,0
+f6c61d1e-0748-4aa0-a73d-dd12c598d6ad,"LVD04800AW","Lake Valley Dr/Yadkin Rd","""Embasy Suites""",35.08053269,-78.96742696,0
+ce3c79c3-beee-45ab-be62-4b536ecbab4d,"LVD04600BW","Lake Valley Dr/Skibo Rd","""Cross Point Centre""",35.07624341,-78.96396163,0
+3e4d180b-b02a-4715-94d1-23cb55bd6e9d,"Mor06000AS","Morganton Rd/Murray Fork Shopping Ctr","""""",35.0794577645932,-78.9912385637306,0
+c25de484-6be4-4098-9e8b-2c8832914f8f,"Rei00100CW","S Reilly Rd/Morganton Rd","""""",35.08152749,-79.01022699,0
+a9aa7b50-1047-4249-b7af-a63080c5d2bd,"Rei00100DW","S Reilly Rd/Lexi Ln","""""",35.07718241,-79.01044924,0
+679fd632-81af-429e-a133-bc59e0a2234f,"Rei00400EW","S Reilly Rd/Glen Allen St","""Glen Reilly Village""",35.06645919,-79.0134441,0
+8c4c8617-ca21-46e6-99ef-c3afa270fd62,"Cli07000CN","Cliffdale Rd/S Reilly Rd","""Glen Reilly Village""",35.0620518,-79.01646347,0
+3ef88fe3-1b65-4cc9-b68e-9b21a6b825e7,"Cli07900DN","Cliffdale Rd/Town Creek Dr","""Bone Creek""",35.06262293,-79.04093899,0
+e6b5655b-9e3e-4d09-9c4b-da3689cf6c00,"Cli08100EN","Cliffdale Rd/Prestige Blvd","""""",35.06063093,-79.0458925,0
+82bfedee-9128-48d4-9bd3-6c735a394cd2,"Rim01100AW","Montibello Shopping Center","""Rim Rd/Cliffdale Rd""",35.05817731,-79.04874923,0
+0f709d24-1f5e-4b43-9c8c-6672cdbefda2,"Rim01200BW","Rim Rd/Olted Rd","""Parc Stone""",35.05589366,-79.04705405,0
+02b8180b-9136-4c96-8a7c-bc4c0ed494fa,"Rim01300CW","Rim Rd/English Saddle Dr","""""",35.05282329,-79.04500481,0
+8a0e380e-733c-4b7b-a1cc-532dbb623ce7,"Rim01500DN","Rim Rd/Rembrant Dr","""""",35.04738125,-79.04629317,0
+7e5478ad-7805-4d34-ac3f-399f3d0c1d46,"Rim03800EW","Rim Rd/Old Raeford Rd","""""",35.03181506,-79.04902017,0
+43bd373e-d032-4b64-8076-e5a50ad2bfee,"Rae07700UN","Raeford Rd/Acacia Dr","""Lake Rim Fire Dept""",35.03074335,-79.05308092,0
+7eba9e8e-e702-479b-aecb-27a8b4f6c6d7,"GMd07701AW","Raeford Rd/Walmart","""Good Middling Dr""",35.0273163,-79.05439114,0
+27c87fbc-f6b0-4b5b-935e-f69004ce97cf,"OWR00800AS","Old Wilmington Rd/Eastern Blvd","""Buxton Village""",35.0367348393,-78.8732633197,0
+4589f9dd-0619-47e1-8b17-91d7cdcf2e88,"OWR00700BE","Old Wilmington Rd/Fisher St","""""",35.0388750096,-78.8736030189,0
+2b1db96f-4f64-4989-bb81-12c8c49bba88,"OWR00120CE","Old Wilmington Rd/Curtis Ln","""Sycamore Park""",35.0405489945,-78.8734115416,0
+7df406bf-eba5-4ad9-a7f7-3155a98c5c11,"OWR00400DE","Oak Run Apts","""Old Wilmington Rd /Campbell Ter""",35.043214,-78.872735,0
+835eec09-c286-442b-bde5-71fdf6e39755,"OWR00200FS","Old Wilmington Rd/McDaniel St","""""",35.045676,-78.871471,0
+2f7984c5-5509-4a81-9243-bd181a811f89,"WtR01444ES","Omni Fitness","""""",35.03898,-78.936143,0
+3939e24a-7fba-4dab-bcdc-c3ca70912e7f,"Owe00300JE","Owen Dr Ext/Owen Dr","""""",35.04048316,-78.93378971,0
+50780a3f-2ff1-41b8-808f-ef9bceb52249,"Owe00200KE","Owen Dr Ext/Hunter Cir","""""",35.04248934,-78.93435202,0
+a40866d9-0fe1-4098-be94-03498f13d526,"Owe00100JE","Owen Dr Ext/Raeford Rd","""""",35.04380042,-78.934661,0
+a7dd81a7-4411-4435-a42c-f6a683c876eb,"Rae03100FS","Tallywood Shopping Ctr","""""",35.04458078,-78.9319198,0
+e929bdef-0e09-41f9-b4d4-c5fc672a5bc6,"Rae03000GS","Raeford Rd/Marlborough Rd","""""",35.04484271,-78.92959577,0
+d11a941e-8959-4383-bb99-2bc296693eeb,"Rae02900HS","Raeford Rd/Marlborough Rd","""""",35.04509788,-78.92727906,0
+58398b39-7b29-4858-8539-a12ef57365c0,"Rae02800IS","Raeford Rd/Purdue Dr","""""",35.04536061,-78.92493195,0
+48df7faa-5448-43c1-9068-b0db84897173,"Rae02600JS","Reaford Rd/Forsythe St","""""",35.04575853,-78.92128974,0
+ab30d30e-8311-4b1a-b001-9bed49407fa6,"Rob02200AW","Robeson St/Robeson St","""Robeson Plaza""",35.04375267,-78.91765503,0
+9e099060-0a69-48a8-b355-90739155046d,"Rob01500BS","Robeson St/Village Dr","""Valleygate""",35.04104207,-78.91359089,0
+4b52b339-a226-433b-9565-0208f9410828,"Rob01300CS","Robeson St/Levy Dr","""""",35.04044773,-78.90813866,0
+9e53bbc6-b915-4cbc-bd3f-feecd3513cc8,"Wei00900AS","Weiss Ave/Fledger St","""""",35.04335112,-78.89904709,0
+8ae986b3-afb7-4827-be9b-461a82c49001,"Wei00800BN","Weiss Ave/Commerce St","""""",35.04427841,-78.8971174,0
+75a789ad-e60a-48e1-a6cb-b377fc03d46c,"Com00700AE","Commerce St/Dwain Dr","""""",35.0458272,-78.8978011,0
+a141865b-f780-41fb-b0e0-d05aa15f4494,"Com00800BE","Commerce St/Augusta Dr","""""",35.04714757,-78.89886388,0
+9c622e2c-7654-4b96-a91f-9fa22aa25f83,"Com00800CE","Commerce St/Turnpike Rd","""""",35.04856464,-78.90001178,0
+05af0a01-1cc5-45a4-8852-d60959319edc,"Tur01100AS","Turnpike Rd/Wilbon Dr","""""",35.04972166,-78.89937303,0
+0adba76d-1fbe-4015-9cf7-1070b1e7ca8a,"Tur01000BS","Turnpike Rd/Davis St","""""",35.05129995,-78.89724784,0
+0be732a1-e095-414b-9f64-74a30d726a9b,"Tur00400CS","Turnpike Rd/Branson St","""""",35.05233574,-78.89480094,0
+e87d7515-d831-4738-ae40-263d8e153c56,"Bra00800AS","Branson St/Bradford Ave","""""",35.0526265,-78.89287091,0
+25fcc211-be72-4b78-b028-f9ee60764fdd,"McG00700BS","McGilvary St/McIver St","""""",35.05307859,-78.8897381,0
+426aebdf-1bb9-4d83-bf7d-fe2cc166737a,"WRu00670AW","W Russell St/Robeson St","""Highsmith Rainey Hospital""",35.05364356,-78.88856467,0
+b684aee2-1ae2-423a-bde0-b422dc8caa42,"WRu00200BW","W Russell St/Maxwell St","""""",35.05153756,-78.88234539,0
+5be94632-c3c9-48db-b603-bce936d50684,"WRu00200CW","W Russell St/Worth St","""Dention Center""",35.0508192,-78.88033394,0
+5c2e3bea-fecc-4feb-806b-6bf9d6e45e4f,"ERu00100DW","E Russell St/Cross Creek St","""Salvation Army""",35.04965418,-78.87686233,0
+2703ebe4-2967-47f4-a2b7-ec1b30a8b3bc,"BStCtr","Blue Street Senior Center","""""",35.064146,-78.891801,0
+00d17ad5-f93d-4e64-9961-e06046cd14d2,"WalMartSki","WalMart","""Skibo Rd """,35.08234345,-78.95630205,0
+042fdf04-6023-4e13-9e83-dc300ad1ae3c,"Ski01400AS","Skibo Rd/Swain St","""Alger B Wilkins Elem School""",35.08391437,-78.95227192,0
+fb05d1cc-a7bd-49d5-ae20-191a6ba93de3,"BgB00000HE","Bragg Blvd Ramp/Pamalee Dr","""""",35.08601561,-78.94965432,0
+baabfd42-45b7-416c-80b9-84b44c32bf50,"BgB04500IE","Bragg Blvd/401 By pass ramp","""""",35.08704665,-78.9512105,0
+6b976bee-23d2-45e7-8cb1-1e6d7c3b951e,"BgB04900JE","Bragg Blvd/Zollie Jones Rd","""""",35.09130594,-78.95412469,0
+8c859e4e-ecdc-49b0-ab82-8268c9ac6207,"BgB05000KE","Bragg Blvd/Johnson St","""""",35.09376342,-78.9550677,0
+b79ac927-bd41-4e35-bed3-51ca7c6a7076,"BgB05400LE","Bragg Blvd/Fleishman St","""""",35.09851436,-78.95689735,0
+1ee7c50a-6d9c-4be1-810a-9a3d2a64515c,"OSw00100AS","Old Shaw Rd/Bragg Blvd","""""",35.10067156,-78.95732964,0
+67cf0ac5-685f-4338-8a49-e044e374196f,"OSw00300BS","Old Shaw Rd/Shaw Rd","""""",35.10263792,-78.95330115,0
+3ecc1fc4-2a36-45a8-a3cf-e2e721521a63,"Sha00600AS","Shaw Rd/Fuji Dr","""""",35.10490208,-78.9480776,0
+4c108253-0718-46db-b622-dd588a0b626c,"Sha01200BS","Shaw Rd/Gulf Dr","""""",35.10796342,-78.94018102,0
+60a2d47d-03e5-42d7-8d2a-f891f1168e8d,"Sha01400CS","Shaw Rd/Poinsett Ct","""""",35.1089855,-78.93626163,0
+0d2c30db-996c-4164-a764-c9eb7791ef4d,"Sha01600DS","Shaw Rd/Hibiscus Dr","""""",35.11075935,-78.93443527,0
+d783bdd2-a7e0-407c-a1df-65896cd78ef1,"Mur05500AW","Murchison Rd/Shaw Rd","""""",35.11400775,-78.92995065,0
+841e9584-7a3e-4db6-be01-dbd1afbf9e15,"ShM01200AS","Shaw Mill Rd/Murchison Rd","""""",35.1116603679455,-78.9272423939253,0
+3032a8f4-ac8d-4556-88ca-17a8f2ac7cf5,"CFVN","CFV North-Andrews Rd","""CFV Pavilion""",35.1566969,-78.87063302,0
+4b5bbda8-6dba-4a0a-9820-9a71a75d3bc6,"Ram05900AN","5965 Ramsey St [Us-401]","""""",35.1439233210041,-78.8726782126831,0
+6d4b211e-8571-439b-b10e-420df51a55b6,"Ram05700BN","Ramsey S/Aloha Dr","""""",35.13824499,-78.87506639,0
+017c4f6d-dfbc-440e-b55f-5d73a3694329,"Ram05200CN","Ramsey St/FS Fernwood Dr","""""",35.131802,-78.877901,0
+bb94dd6c-e95c-429d-9028-8c09ce32f62f,"Ram05000DN","Ramsey St/Treetop Dr","""TLC Auto Wash""",35.128412,-78.879262,0
+9e8e2a06-e6b7-4806-81ab-df92bb9398df,"Ram04800DN","Ramsey St/Adj Meadowcroft Dr","""""",35.126578,-78.879412,0
+562cd62f-a6b7-45cb-b5be-9d0e5de40deb,"WalMartRam","WalMart","""Ramsey St""",35.125165,-78.882221,0
+a2f4853d-9e11-4a7e-bd25-b42b608c63b3,"Ram04500EW","Ramsey St/Oates Dr","""Arby's""",35.122818,-78.87972,0
+7d0658b4-aa0c-487e-af31-fdba1cc1c7d9,"Ram04100FW","Ramsey St/McArthur Rd","""Lowes""",35.115475,-78.880112,0
+343778b9-f5d5-463a-a64b-6aeafe005d01,"Ram03800GW","McDonalds","""Ramsey St/Northgate Shopping Ctr""",35.113061,-78.879784,0
+f165c82e-2946-449a-b3b3-de6177a2e55a,"Ram03600HW","Ramsey St/Par Dr","""KFC""",35.109528,-78.879277,0
+ee30654e-b0f5-4047-9add-2c9ace2a4caf,"Ram03500IW","Ramsey St/Par Dr","""Hardees""",35.106958,-78.878871,0
+4129090f-ab3c-4cc0-8bba-704ffac50647,"CCb00500AN","Country Club Dr/Gables Dr","""""",35.10429995,-78.88964388,0
+20ecb958-962e-4f16-8733-dc09fa666a12,"Ros03300FE","Rosehill Rd/Country Club Dr","""FoodLion""",35.10336172,-78.89931825,0
+8b7592b5-eaa9-4898-acf8-d1a585e1da92,"Ros03300GE","Rosehill Rd/Tanglewood Dr","""""",35.10764099,-78.90204723,0
+566d836d-715c-40df-8c71-3514896d9df3,"Ros03600HN","Trinity Community Services","""Rosehill Rd/Dowfield Dr""",35.11212468,-78.90453287,0
+9f5586c0-98b8-4920-a5f6-9dfb369aa437,"Ros03900IE","Rosehill Rd/Autumn Dr","""""",35.1150435,-78.90807236,0
+b5610713-abae-49cd-a158-07c7232d871f,"Ros04200JE","Rosehill Rd/Joefield Dr","""""",35.117313,-78.91139975,0
+76ea23b8-04fb-45c9-a24d-07c1f2e81391,"ShM00800AN","Shaw Mill Rd/Rosehill Rd","""""",35.1171869,-78.91416535,0
+e1c998f1-b03e-416b-8705-e3a82f0d239f,"MethUniv","Methodist University","""""",35.131341,-78.876837,0
+f78193ba-0e2f-41e2-a755-b2ed9d9293fb,"Ram03300JW","Ramsey St/Chloe Dr","""Rite-Aid - Bench""",35.103965,-78.8784100936896,0
+2e1980d3-922c-4df1-9f7d-7f3883b11511,"Ram03100KW","Ramsey St/Plantation Rd","""""",35.101118,-78.878003,0
+a54b167e-642d-4c3a-911b-ff6de4e75ed3,"Ram02800LW","Ramsey St/Northwest Ave","""Tokay Post Office""",35.096615,-78.877368,0
+ed6234d5-f882-4345-84f2-65ce27bc363d,"Ram02600MW","Ramsey St/Circle Ct","""Luther Nick Jeralds School""",35.094196,-78.877424,0
+2b61ef48-f026-4544-bc5f-b29f94e59c6b,"Ram01200SW","Ramsey St/DSS","""Health Dept/DSS""",35.07397761,-78.88070966,0
+6e79e434-ff76-49a1-a1f5-d1dd64f1e83f,"Ram01000TW","Ramsey St/Wiley St","""""",35.06899211,-78.87951444,0
+9c01b407-5222-4ad9-99d3-13e97909ff44,"Ram00700UW","Ramsey St/Chance St","""""",35.0636657,-78.87826991,0
+1de2a5b3-892d-4f66-a723-eab5f6ef3cf9,"Ram00400VW","Ramsey St/Moore St","""""",35.05937982,-78.87728175,0
+e0f10a81-1624-462e-84a0-654415a9354f,"Ram00400WW","Ramsey St/Rowan St","""Rite Aid""",35.0579455,-78.87694873,0
+82fbad4b-2a88-4a5f-919c-37ff4bb04db6,"Gfd00150AE","Glensford Dr/Morganton Rd","""Glensford Commons""",35.06774775,-78.96068833,0
+05804d5b-d5cb-4680-9c66-dbc17795e360,"Cpd00000AE","Campground Rd /Lowe's","""Lowes""",35.06731326,-78.96401193,0
+d62307ea-4d0a-4288-9a98-fab1eca2c9f0,"Ski01900BN","Skibo Rd/Campground Church Rd","""Lowes""",35.067269,-78.966994,0
+c0417783-0658-4ed8-9605-dcb26be7f0de,"Ski01950CN","Skibo Rd/K Mart","""IHOP""",35.064379,-78.968005,0
+03bad939-8df8-49c5-b062-07375ea74bff,"Ski01960DN","Skibo Rd/Red Tip Rd","""Hyundai""",35.062874,-78.96853,0
+c080985a-e2a9-4fa2-98ea-875b107d0445,"Ski01990EN","Skibo Rd/Cliffdale Rd","""Miyabi """,35.060504,-78.969612,0
+69c00254-1227-4f23-a650-c10f1484a0fc,"Ski02020FN","Skibo Rd/Cliffdale Rd","""Acura/Leisure Living""",35.057478,-78.971663,0
+284a5bce-966a-4f64-a37a-8a34067208cd,"Ski02070GN","Skibo Rd/Home Depot","""Skibo Rd/Chason Ridge Dr""",35.054331,-78.973131,0
+4319ce82-cd77-4faf-8f3f-e8d25842aca0,"Rae05500AS","Lewis Chapel Church/Raeford Rd","""""",35.04405607,-78.97498305,0
+0df2167e-9319-4eeb-8004-26e992438ab8,"Rae05400BS","Raeford Rd/Greenleaf Dr","""""",35.04331517,-78.97221533,0
+4a2bf53d-ef2b-4443-84ca-93c2d6b392f7,"Rae05200CS","Raeford Rd/Durant Dr","""""",35.04235014,-78.96712068,0
+4261c65f-efb2-4f44-bbf3-8346be23c4a8,"Rae05200DS","Raeford Rd/Sandalwood Dr","""""",35.04245693,-78.96496967,0
+064d05c8-db6a-411f-8299-082d3523cfad,"HpM00200AW","Hope Mills Rd/Sequoia Rd","""""",35.04095622,-78.96108259,0
+408bd8bc-0075-459d-afac-bba5ab72da15,"HpM00300BW","Hope Mills Rd/Spruce Dr","""""",35.03861308,-78.96107207,0
+c611fd71-1b74-4579-86d0-2c687691e991,"HpM00600CW","Hope Mills Rd/Walnut Dr","""""",35.03632389,-78.9610921,0
+9f456501-8a95-46d0-ae53-54accf09fe39,"HpM00800DW","Hope Mills Rd/Birch St","""""",35.03483943,-78.96108671,0
+63fde4bb-5971-40f9-b9ed-2411fa0a7cd2,"HpM00900EW","Hope Mills Rd/Ponderosa Dr","""""",35.03235626,-78.96110072,0
+d4a55f2e-974f-4cdb-97c8-9c5cc19eac44,"HpM01000FW","Hope Mills Rd/Utile Rd","""""",35.029883,-78.96109826,0
+847bcae0-5566-4e6f-a733-ccec5ad17a48,"Rwd04970AE","Redwood Dr/Hope Mills Rd","""""",35.02774988,-78.96005998,0
+4b8beac0-d071-43e5-a845-5c314ffde4c3,"Rwd04900BS","Redwood Dr/Cawdor Dr","""""",35.02816327,-78.95760119,0
+721ec816-6dd7-439b-b8ce-823ec8606cc2,"Rwd04800CS","Redwood Dr/Devonshire Dr","""""",35.02877172,-78.95393928,0
+5374883e-c040-48d8-987a-bab3974d22f7,"Odo01300AW","Odom Dr/Coventry Rd","""""",35.02710777,-78.9525839,0
+b114c335-a047-4bfc-aa44-b848435afa01,"Cov04300AS","Coventry Rd/Stratford Rd","""""",35.02839417,-78.94948655,0
+fa7b32f3-e632-425f-992f-d23438ad8cdd,"Cov03900BS","Coventry Rd/Ireland Dr","""""",35.02997896,-78.94630924,0
+a4789c48-2975-47d9-b49a-10546bd0664b,"Ire01700DW","Ireland Dr/Martindale Dr","""""",35.02887158,-78.94484151,0
+6a178baf-b1c4-45d4-8d69-8c9cea9badd3,"Ire01780EW","Ireland Dr/Village Dr","""""",35.02614001,-78.94286733,0
+35b54942-0b4b-4c77-8d63-7e142200a72a,"Vil03700DS","Village Dr/Wayne Ln","""""",35.02651483,-78.94058651,0
+22d64749-3e3c-4b4b-bdb0-0c0e495a9a40,"Rox01600AE","Roxie Ave/Thomas Ave","""""",35.03099084,-78.93906501,0
+9a30f1ce-c79b-4434-9301-9d01927e1d67,"Rox01400BE","Roxie Ave/Elizabeth Dr","""""",35.0340694,-78.94005341,0
+f1c2a798-cb47-46db-9e79-3feb28a799f5,"Pam01180AW","Pamalee Dr/Blanton Rd","""""",35.087389,-78.942561,0
+a0fe2e85-96bd-448f-b526-e4c8a0ec49db,"Pam01490BS","Pamalee Dr/Cain Rd","""""",35.088078,-78.927029,0
+25394037-018f-4984-9d43-e3b9fb3ecfe6,"Pam01700CS","Pamalee Dr/Commonwealth Ave","""""",35.089754,-78.922183,0
+f4d4cf88-a838-42b8-91a9-110223081309,"Pam01850DS","Pamalee Dr/Capri St","""""",35.093554,-78.918437,0
+c4bc23b0-ca53-49f2-ad20-66f6abf272a3,"FSU-11","FSU/Langdon","""""",35.077588,-78.893985,0
+9ad3f6f3-5869-4251-a5a3-7a382db17a34,"Sea01900AE","Seabrook Rd/Broadell Dr","""""",35.0861,-78.898086,0
+1a9ba8c0-4dda-4c7f-9680-2ac1b9f091e2,"Mur02200FE","Murchison Rd/ Jasper St","""""",35.0851549643,-78.9052239041,0
+67b315bb-44e9-452a-bce6-d6ccb7bc2584,"Mur02400GE","Murchison Rd/Phillips St","""""",35.0877488654,-78.9074886745,0
+d1f988b1-4598-460a-8fe8-c5c0195b13bf,"Mur02500HE","Murchison Rd/McLamb Dr","""""",35.0896088352,-78.9091003409,0
+9b86969a-585d-4fe3-8770-0dc0775f843c,"Mur02600IE","Murchison Rd/Patina Ct","""""",35.0907177021,-78.9100599379,0
+d92bc86d-67d0-4762-a1bb-70088fe03de3,"Mur02800JE","Murchison Rd/Patina Ct","""""",35.0927543509,-78.9118166942,0
+0ee29d26-a757-4bd0-85b0-707643e5b91c,"Mur03000KE","Murchison Rd/Country Club Dr","""""",35.0953055941,-78.9139704588,0
+e4b5c32a-3ecc-4cc8-9448-6779e21f1d9c,"CCb00600AS","Country Club Dr/Rosehill Rd","""Food Lion""",35.10292789,-78.89824828,0
+1b54f419-97b2-477c-9b9f-1c61b3bb5e06,"CCb00500BS","Country Club Dr/Gables Dr","""""",35.10408897,-78.8895802,0
+d5c3034f-c3f8-4027-84d6-742adecccfdf,"Ram03500NE","Ramsey St/Glenola St","""CVS""",35.10694438,-78.87854567,0
+d4080e97-89ef-4cf9-a021-411a576e00ea,"Ram03600OE","Ramsey St/Law Rd","""Ruby Tuesday""",35.10898079,-78.87887649,0
+592fe867-96e8-49de-83e9-390635f724c1,"Ram03700PE","Ramsey St/Longview Dr","""""",35.1113229,-78.87919813,0
+2888baba-8ae5-4385-8c6d-e4fbbb96eeed,"Ram04200QE","Ramsey St/Andover Rd","""Northwood Temple Church""",35.11839284,-78.87969335,0
+29e5b45c-3aff-4286-8549-1cd169c1e506,"Ram04900RE","Ramsey St/Treetop Dr","""""",35.12792516,-78.87900698,0
+69951fdc-ef20-4221-984a-f484e903ab40,"Ram05700SS","Ramsey St/Kinlaw Rd","""Kinwood""",35.1381173,-78.87481024,0
+4cb3073b-802e-45a6-8d57-b7a7ac1ca39c,"2Bal02430A","Two Bale Ln","""""",35.028353,-79.058908,0
+54224388-4b5b-4885-b819-888f415b2c58,"Cli09000AE","Cliffdale Rd/Beverly Dr","""""",35.04197952,-79.06423606,0
+1ab788a9-f33e-4422-9298-1ef736e7dcc5,"Cli08800BE","Cliffdale Rd/Seaford Dr","""""",35.04861818,-79.06398644,0
+c85153a8-063f-43dd-9dce-84764679ac6c,"Cli08600CE","Cliffdale Rd/Chelsea Rd","""Hawthorne""",35.05371661,-79.06286947,0
+2da40c23-6f5c-40f5-b826-ea36d9ec70f8,"Cli08400DS","Cliffdale Rd/Beaver Run Dr","""Beaver Run""",35.05674298,-79.05840219,0
+6740bb36-e587-4e49-8b40-4e5effdd71c5,"Cli08100ES","Montibello Shopping Center","""Cliffdale Rd/Rim Rd""",35.05949631,-79.04787021,0
+276fd6de-786b-4b0c-9d4e-92c08b3ed270,"Cli08100FS","Cliffdale Rd/Prestige Blvd","""""",35.0603357,-79.04586477,0
+2d3c5afe-dffb-4586-9cf5-77ec2185774c,"Cli07900GS","Cliffdale Rd/Winward Cv","""Bone Creek Apts""",35.06247205,-79.04057088,0
+f9ee4bcb-03dc-4984-8c0e-6316dc0ff6c1,"Cli07000HW","Cliffdale Rd/Wayland Dr","""""",35.06194093,-79.01680373,0
+2437bf70-877c-4d07-8e4b-c3ddcdd80440,"Cli06900IW","Cliffdale Rd/71st School Rd","""Cook Out""",35.060165,-79.012923,0
+2d18ed64-5f24-49ec-a593-91b647d2a91e,"Rei00400AE","S Reilly Rd/Northumberland St","""""",35.06641136,-79.01319114,0
+0a68c67a-9c12-4656-a7e8-ff757f5469f6,"Rei00200BE","S Reilly Rd/Riegelwood St","""""",35.07714496,-79.01019918,0
+273faf9d-5fac-4397-bef5-62100a0f6432,"Rei00200CE","S Reilly Rd/Morganton Rd","""""",35.08173718,-79.00993836,0
+25738dc2-f2c4-477b-b779-c8ab116403cb,"Mor06400AW","Morganton Rd/Evanston St","""""",35.08235172,-79.00792991,0
+01d8665c-7785-4a4f-883a-1507fa075acc,"Mor06300BW","Morganton Rd/Tollhouse Dr","""""",35.08177482,-79.00376066,0
+33b70faa-b57a-4c34-a2f6-796ec4220ca4,"Mor06000CW","Morganton Rd/Murray Fork Shopping Ctr","""""",35.07931363,-78.99160113,0
+09a328a0-7247-4952-95ad-28a9e296f083,"Bon00200AS","Bonanza Dr/Foxfire Rd","""""",35.08202043,-78.98780186,0
+32f0d701-55b4-410d-84f7-cb1e56cc1e8c,"Bon00390BS","Bonanza Dr/Cartwright Dr","""Westover School""",35.08671173,-78.986427,0
+55086850-1a64-4042-9495-eb59a78b7787,"Lnc00098AN","Dogwood Manor","""""",35.046093,-78.872717,0
+419a8cc1-90cf-4f98-8f5c-04dd3a497d24,"Cpb00300AE","Campbell Ave/Adj Alfred St","""""",35.044864,-78.876094,0
+87b57d75-c44f-4d40-97f5-255e76d63510,"Cpb00300BE","Campbell Ave/Cross Creek St","""""",35.04586958,-78.87898299,0
+dfe46a59-80c9-40ab-a193-caff59db947e,"Gil00400AW","Gillespie St/Blount St","""""",35.0460448,-78.88066467,0
+55968aff-04ef-4dc8-973d-bf19c7bb88af,"Gil00460BW","Gillespie St/Chase St","""""",35.04468949,-78.88112527,0
+5c891bb0-b6a7-45bc-9afb-6223cb9dca60,"Sou00600AN","Southern Ave/Poe St","""""",35.04119894,-78.88346194,0
+568e18d9-0658-4303-b251-af5d056e34c8,"Sou00700BN","Southern Ave/Tolar St","""""",35.03960479,-78.88588941,0
+78ad1176-820d-4e51-8dd4-ce94a9a2142a,"Sou00700CN","Southern Ave/Winslow St","""""",35.03776162,-78.8886938,0
+e2d5491d-55fe-4b2a-963d-0b4e954b4efc,"Sou00900DN","Southern Ave/Spencer St","""""",35.03627892,-78.89017766,0
+cd2af0b4-24fc-46aa-a510-0f6d63744119,"Sou01000EN","Southern Ave/Whitfield St","""""",35.03477309,-78.89136219,0
+75d659e7-0883-4fd1-8092-1d855ab29473,"Sou01040FN","Massey Hill Hardware","""Gillespie St/Mayview St""",35.03235662,-78.89326188,0
+bbc17f36-8f90-4a6f-8c77-faaa9e7b5301,"Sou01070GN","Southern Ave/May St","""Massey Hill School""",35.02978457,-78.89524137,0
+e9fd5f58-e693-4251-9be2-e418ce88996f,"Sou01100HN","Southern Ave/Craven St","""""",35.02661559,-78.89769528,0
+035e2937-d281-44b9-a9ce-5da5193eeae4,"Sou02000IN","Southern Ave/Quality Rd","""""",35.02466443,-78.89921427,0
+5f5275a2-d61e-4ccc-b58d-2c2af635d4b9,"Sou02300JN","Southern Ave/Owen Dr","""""",35.01980384,-78.90302806,0
+0454d681-7ea4-4e32-9fbf-5ecd4532c6ef,"Owe02400AE","Owen Dr/Cumberland Rd","""""",35.01870072,-78.91438725,0
+18b6397a-3f5c-44a0-a959-dcbc8ba3fddb,"Poi02070AS","Owen Dr/Poinciana Ln","""""",35.02262981,-78.92148085,0
+510d79b0-33b0-4cb4-b7bb-a672cd22438c,"CPk02900BN","Coronada Parkway/Poinciana Ln","""""",35.02504469,-78.9234499,0
+01a88ea8-1fee-4934-beb5-d2a396e97898,"Owe01900BE","Owen Dr/Briar Cir","""Briarwood Apts""",35.02590114,-78.92565678,0
+523f1a86-4066-4590-9f5a-3fb8f38bbe02,"BTl03000AS","Boone Trail Ext/Owen Dr","""""",35.0288495,-78.92725923,0
+b855bdca-361c-4f74-8fee-165ec69ba967,"BTl03000BS","Boone Trail Ext/Quiet Cove","""""",35.0298655,-78.92518072,0
+9c2167f2-73aa-4410-a6c5-f3b83de23393,"Vil03100AN","Village Dr/Metro Medical Dr","""""",35.03116332,-78.92872414,0
+b81cff16-8691-47f4-99a9-41c04e80f6da,"Vil03300BN","Village Dr/CFV ER","""Shelter""",35.03040756,-78.93209496,0
+14be1ddc-ed6c-49e3-9d3c-db1bdfa01c89,"Vil03500CN","Village Dr/Roxie Ave","""""",35.02791927,-78.93815949,0
+39119437-6f4a-449d-87a0-2122aabe7e19,"CCb00600BN","Country Club Dr/Rosehill Rd","""Food Lion""",35.103508,-78.897384,0
+02dd8868-4efe-4494-83ef-89509857b1d2,"CCb00900CN","Country Club Dr/Distribution Dr","""Inactive-Future Stop""",35.099325,-78.91415,0
+7be8c177-0c5a-485d-a949-b36e2b1d711b,"Pam01800AN","Pamalee Dr/Gardner St","""""",35.093287,-78.919002,0
+94ef7ab5-bb82-48bb-b990-1ce7be5053fd,"Pam01500BN","Pamalee Dr/Helen St","""Dollar General""",35.088858,-78.925257,0
+d8ec88fc-712e-4bbf-94ae-2410bd19c019,"Pam01100CS","Pamalee Dr/Blanton Rd","""""",35.087869,-78.944367,0
+a14e8a3c-f381-4dc9-a07f-d710112c7bb6,"Vil03700CN","Village Dr/Wayne Ln","""""",35.02667832,-78.94069735,0
+3ef8d816-e982-4f21-86e7-1246cc440dcb,"Ire01700AE","Ireland Dr/Faison Ave","""""",35.02907311,-78.94484196,0
+fb8d7db7-2b93-41d1-8dd7-90b0563b6433,"Cov03900AN","Coventry Rd/Faison Ave","""""",35.02971249,-78.94710155,0
+98bbfd7d-3257-4117-b0b9-e2ad93852117,"Odo01300AE","Odom Dr/Coventry Rd","""""",35.02737431,-78.9525547,0
+8b298579-114f-4de5-aef4-a363fe11beba,"Rwd04800AN","Redwood Dr/Devonshire Dr","""""",35.02885199,-78.95406514,0
+16554b08-2aee-4d5b-9c74-677163b95191,"Rwd04900BN","Redwood Dr/Cawdor Dr","""""",35.02830445,-78.95739103,0
+6597fd8e-5cdd-4eb3-80cd-47ff4e0e5ec6,"Rwd04970CN","Redwood Dr/Hope Mills Rd","""""",35.0278302,-78.96030815,0
+ae95a1c2-25b3-450d-8b1a-af46b908266e,"HpM01000AE","Hope Mills Rd/Keyboard Ln","""""",35.02997295,-78.96083054,0
+8614e466-c599-4b02-b6e7-a142a1882d35,"HpM00900BE","Hope Mills Rd/Cottonwood Dr","""""",35.03261692,-78.96082201,0
+02e350fa-e741-48c7-90b3-d2e0827dd4cf,"HpM00600CE","Hope MIlls Rd/Walnut Dr","""""",35.03644083,-78.96082991,0
+e1dc194c-77ad-4364-93df-7759a067cab0,"HpM00300DE","Hope MIlls Rd/Catalpa Rd","""""",35.03919825,-78.96083339,0
+40b110d8-1581-4a7f-9549-dfa436e43b3a,"HpM00200EE","Hope MIlls Rd/Raeford Rd","""""",35.04135934,-78.96083111,0
+172b16c1-d191-417b-a88e-2937bb35e1e8,"Cpd00000AW","Campground Rd /Lowe's","""Lowes""",35.06712301,-78.96402823,0
+be87c865-979b-4605-a64c-d0bdcc0f49c8,"Gfd00150AS","Glensford Dr/Morganton Rd","""Glensford Commons""",35.06751752,-78.96034084,0
+5f739f04-b434-489b-95cc-bf3967768fdc,"Ray00000AS","Ray Ave/W Russell St","""""",35.052225,-78.882703,0
+4ac63653-672d-4397-8871-817c65528e93,"Ray00200BS","Maiden Ln Library","""Ray Ave/Maiden Ln""",35.055464,-78.881636,0
+f9ca7ac0-8cb1-4880-93c4-a1aaded2fe2c,"Ray00300CS","Ray Ave/Mason Ave","""Bank of America""",35.057079,-78.880858,0
+fb65f6b9-1a6f-4d6b-9142-d7a01459b713,"BgB00600AE","Bragg Blvd/Washington Dr","""""",35.0613241728,-78.8886378725,0
+3f144419-14d4-4a46-b8ba-a389bd975459,"BgB00900BE","Bragg Blvd/Blue St","""""",35.0640108532,-78.8941509655,0
+09e69a7c-55a4-4cfa-86e5-545b05618c4d,"BgB00990CE","Bragg Blvd/Ames St","""""",35.0649466461,-78.8962852595,0
+555f3969-220d-4bbb-b97b-5f8846ccaa19,"BgB01000DE","Bragg Blvd/Ames St","""""",35.0655526036,-78.8976622306,0
+135bb324-6315-489a-b1de-e0b5e1b12293,"FtP00700AS","Filter Plant D/Bragg Blvd","""""",35.0673543744,-78.9000867805,0
+c96e913f-46fa-4169-8bc6-a827987071f4,"FtP00710BS","Filter Plant Dr/Ames St","""""",35.0679859838,-78.8969860812,0
+85130555-c90e-40b4-80ba-36bdff71eff3,"FtP00600CS","Filter Plant Dr/Ames St","""PWC water plant""",35.068901733,-78.8947350908,0
+95c6461f-85e4-4463-9644-572cb87cb26b,"Mur01200AE","Murchison Rd/W T Brown Dr","""""",35.0718274354,-78.8946097375,0
+d4f6a9fa-0036-4781-a6dc-6a219beff202,"FSU-12","FSU/Murchison","""1200 Murchison Rd""",35.072919747,-78.8954392131,0
+951247d8-4809-4dad-b336-73363ba64f08,"Mur01400BE","Murchison Rd/Langdon St","""""",35.0764576883,-78.8980115112,0
+6d487ea9-7ba9-471a-94a2-3f3cd568c84f,"Mur01600CE","Murchison Rd/State Ave","""""",35.0777806216,-78.8989602083,0
+6ba3d9b6-bcde-4aa4-b8ca-faa3d554d1f2,"Mur01700DE","Murchison Rd/State Ave","""""",35.0799001735,-78.9006228205,0
+dcc79482-8ef0-4956-aa1a-c41ded089b27,"Mur01900EE","Murchison Rd/Bullock St","""""",35.0822574501,-78.9026834856,0
+6be08d47-8a6c-4f4b-825b-e7e5e42f5cec,"Mur03500LE","Murchison Rd/Country Club Dr","""Pamalee Plaza""",35.0989214264,-78.9170681542,0
+b032c2fe-dad1-4a44-a725-a2a3b4fe2bed,"Mur04200ME","Murchison Rd/Clean Sweep Ln","""""",35.1025763552,-78.9201382142,0
+457d9a2e-b7df-49c1-9758-6e8f78c70935,"Mur04500NE","Murchison Rd/Cashiers Ln","""""",35.1043031673,-78.9215841971,0
+83ef71f7-8551-40f1-9b35-8e25b49a37a6,"Mur04700OE","Murchison Rd/Sisal Dr","""""",35.1056942176,-78.9227512634,0
+362d3d0b-2eca-43b1-9a9d-e5a2faa34153,"Mur05000PE","Murchison Rd/Sisal Dr","""""",35.1076547281,-78.9243860359,0
+275c7ba0-faed-4c8e-ab65-ac9344ac1ce5,"Mur05200QE","Murchison Rd/Shaw Mill Rd","""""",35.1101138668,-78.9264481175,0
+e5cbd178-1c28-4ce4-8065-fd06574373f4,"CdC02000AE","Deluxe Inn","""Cedar Creek Rd/Judson Ch Rd""",35.0068723943,-78.8173506864,0
+7034215a-f892-4f93-9786-ddff1c739666,"CdC01900BE","Cedar Creek Rd/Jim Johnson Rd","""Comfort Inn""",35.0080277936,-78.8243248899,0
+7c91a62f-b0a0-4f95-a7d1-a3b0af2d9f05,"CdC01900CE","Cedar Creek Rd/Decent Rd","""Sleep Inn""",35.0091727488,-78.8271788409,0
+a4ab420b-098d-4404-8f27-65bc89d7df18,"CdC01700DE","Cedar Creek Rd/Locks Creek Rd","""Locks Creek """,35.0136999751,-78.83642423,0
+c76445ba-1acf-4bf1-8760-dc0be6b68bc0,"Slo01800AS","Sloan Ave/Cedar Creek Rd","""""",35.0345958896,-78.8451044326,0
+0ce758b4-fb83-4d6b-98ca-1ade2188a993,"Slo01900BS","Sloan Ave/Sapona Rd","""""",35.0355730885,-78.8405853378,0
+67846f87-dc2b-49f9-8a29-329893c98320,"Sap01900AE","Sapona Rd/Cedar St","""""",35.0374466986,-78.841994436,0
+dce8931f-3c3a-4d69-b062-f3f7f7bae4df,"Ply00200AS","Plymouth St/Sapona Rd","""Kinlaws""",35.0397773376,-78.8443137153,0
+a5e59557-258a-4071-aefa-b5d305be320a,"Ply00100BS","Plymouth St/Clinton Rd","""""",35.0425599496,-78.8434853782,0
+731d2530-32ab-49d1-bc88-1d228556ea8b,"Cli01700AE","Clinton Rd/Plymouth St","""""",35.0433017819,-78.8441986906,0
+e2c1d67e-1c8a-4e7f-92b8-f193e2851eb7,"Cli01500BE","Clinton Rd/Lock Trl","""""",35.0455073951,-78.8511128481,0
+59edbfa7-b0a5-4298-be61-d79e01d2d946,"Cli01500AE","Clinton Rd/Deep Creek Rd","""""",35.0468002353,-78.8541508558,0
+d90ab207-189e-4285-a5c6-0911ca35a63c,"Per00900BE","Person St/Broad St","""Weiner Works""",35.0476193823,-78.8614775109,0
+be9a258d-84ce-4d50-b887-2728ad37193d,"Eas00200AN","Eastern Blvd/Locust St","""""",35.0438489065,-78.8660155197,0
+2c96dc3c-34c0-4a8d-a92d-c1b4da609e7c,"LVD04600AE","Lake Valley Drive/Skibo Rd","""Toys R Us""",35.07628218,-78.96372589,0
+175d1f1d-c09a-4774-abbc-034cdfb6b603,"LVD04700BE","Embasy Suites","""""",35.0798193,-78.96585678,0
+d0cf7ac2-f8ec-4aa8-9568-f8544e3e2784,"Yad05000AE","Yadkin Rd/Lake Valley Dr","""""",35.08343654,-78.96915599,0
+774529b6-5f0a-4102-a5bb-0c7e3cbf60bc,"Yad05400BE","Yadkin Rd/Cimarron Dr","""""",35.08596858,-78.97713907,0
+64fe1ef8-5afa-45d2-8ef4-1beacec25a9f,"Yad06000CE","Yadkin Rd/Southwick Dr","""""",35.09691223,-78.98820366,0
+0d95fde0-ffbd-4021-a0c5-ae14590c2a97,"Yad06400DE","Yadkin Rd/York Rd","""""",35.10376281,-78.99319249,0
+f939ca91-68e2-481d-ba01-d3685eae5013,"Fil06900AN","Fillyaw Rd/Bozeman Lp","""""",35.10436015,-78.99660596,0
+0e8747a7-8e5a-4692-89ca-b175566847a9,"BraggHub","Multimodal Hub","""""",35.157809,-78.97433,0
+cdf4ff1a-35d7-4c87-94c6-7b2bf7caf99a,"MESC0","Way Point","",35.1524876148991,-78.9705721420391,0
+f0bb32ba-aca4-4f10-86f8-751007aa3b6b,"CCb00100CS","Country Club Dr/Ramsey St","""Rite Aid""",35.10493235,-78.8794962,0
+b9f43faa-3cfa-4bfa-a662-ba5ffb99b43a,"Hay00400AE","Hay S/Ray Ave","""AIT""",35.05416585,-78.88250015,0
+99903af1-d7c1-454b-ad13-b222db13cb03,"Hay00600BE","Hay St/Hale St","""""",35.05593414,-78.88781251,0
+072e5443-a684-4241-adba-48d61baaf969,"Hay00700CN","Hay St/Hillside Ave","""""",35.0559879,-78.88984762,0
+90953c6b-4861-4367-89a4-55fbc22d7f0c,"Hay00800DN","Hay St/Mental Health","""Hay St/Woodside Ave""",35.05609826,-78.89240818,0
+fbe2548b-d6f7-4a1c-ba30-62f95f3880a5,"Hay00900EN","Hay St/Hinsdale Ave","""""",35.05621068,-78.89510031,0
+182f8a44-f676-4b1a-ae66-c7aa9bf43058,"Hay01100FN","Hay St/Oakridge Ave","""""",35.05664579,-78.89874409,0
+44b558bc-0fbf-4566-892a-0b2f6368c04e,"FtB01200AE","Fort Bragg Rd/Park St","""""",35.05787092,-78.90112383,0
+ba41ee2a-b68a-4a8d-8065-0c35398c67fc,"FtB01300BE","Fort Bragg Rd/Claremont Ave","""""",35.05888346,-78.90288437,0
+63636a1d-b416-4ff5-9b6d-d6217b38b397,"FtB01600CE","Fort Bragg Rd/Greenville Ave","""""",35.06168759,-78.90776675,0
+1cf449d0-b9f6-4929-81fc-f688ddf932b3,"FtB01700DE","Fort Bragg Rd/Cape Fear Ave","""""",35.06323125,-78.91042632,0
+4800b654-2cd4-432f-825f-a7603eff28ad,"FtB02000EE","Fort Bragg Rd/Glenville Ave","""""",35.06456801,-78.91278071,0
+3139f32f-1de9-4395-83f8-35b1b5954dd1,"FtB02500FE","Fort Bragg Rd/Fairfax Ave","""""",35.06780891,-78.91838927,0
+6f2000db-0f07-448b-8185-8894905e4175,"FtB02600GE","Fort Bragg Rd/McPherson Ave","""""",35.06900151,-78.92044764,0
+2eb41c9b-4ac9-429f-97b1-3b3e280f3a24,"Dev00380AN","Devers St/Fort Bragg Rd","""Honeycutt Rec Center""",35.0692286,-78.92240974,0
+f8e0458d-d98c-4f57-be71-9a8ab7dc268d,"FTCC1","FTCC","""""",35.06793472,-78.92659274,0
+a167836b-22ed-46cd-85f2-6cb458e08437,"FtB02900AW","Fort Bragg Rd/Hull Rd","""B and B Lanes""",35.072246,-78.926412,0
+34365f49-304e-401c-8486-99b04b3cc296,"Sta00400AS","Stamper Rd/Fort Bragg Rd","""Stamper Rd Fire Dept""",35.07138124,-78.92351913,0
+47cc3d37-66da-4405-87ef-61ba7b6a794b,"Elm00800AN","Eutaw Shopping Center","""Elm St/Sigman St""",35.07474609,-78.92621275,0
+3e3db4d9-740a-4d13-9fce-dd8fcb6860e4,"BgB02900EE","Bragg Blvd/Elm St","""""",35.07424019,-78.92782171,0
+2d0d9c4b-ede4-4edc-81b4-77ca5bdbb542,"BgB03000FE","Bragg Blvd/Cain Rd","""CVS""",35.0749708,-78.92967412,0
+c4b3159a-0453-4f9b-afff-500c10ac4b4a,"BgB03300GE","Bragg Blvd/William Clark Rd","""Popeyes""",35.07678175,-78.93465055,0
+a24c89ce-07f3-4bd0-a165-232312b755e8,"SyD03600AE","Sycamore Dairy Rd/Bragg Blvd","""McDonalds""",35.07835068,-78.94091195,0
+b6ba56ea-bd3e-4dbb-934b-277ce82794c7,"SyD03700BE","Sycamore Dairy Rd/Bargain St","""ABC Store""",35.07913804,-78.94412236,0
+970e856b-f134-45cc-bca7-2cdb50b584c6,"McP00572HE","McPherson Church Rd/NS Skibo Rd","""""",35.079125,-78.956374,0
+fe5501c8-3dc2-44de-8186-9764fe70e945,"McP00300AW","N McPherson Church Rd/Sycamore Dairy R","""Outback""",35.07423208,-78.95334907,0
+6912b040-7398-47f3-9cfc-cbd31c66441a,"McP00200BW","N McPherson Church Rd/Vancouver Dr","""Hamricks/Olive Garden""",35.07101613,-78.9517938,0
+d189ec86-ed39-4fb6-96ec-328a421a762f,"McP00100CW","N McPherson Church Rd/Vancouver Dr","""Joes Crab Shack""",35.06952068,-78.95127055,0
+b1541119-d9c6-4822-966e-a46ad7e3892c,"Mor03800AE","Westwood Shopping Center","""Morganton Rd/N McPherson Church Rd """,35.06755951,-78.95163937,0
+01cdbf01-1fef-48f3-bd66-bd91b726c276,"OWR00200AS","Old Wilmington Rd/Person St","""""",35.049094,-78.869642,0
+28caf54b-26c2-4632-a4a7-d246f3d0aee5,"Per00400CE","Person St/Kennedy St","""""",35.05023767,-78.87115947,0
+0f46898d-2ff4-49a4-9569-961a99a330c5,"Per00300DE","Person St/N Cool Spring St","""Adj Greyhound""",35.0511819154728,-78.8738436325695,0
+d1ca91fd-b6fd-49ac-8b0b-ec893e7720b3,"Bow00100AE","Bow St/Person St","""""",35.052042,-78.875989,0
+fec91124-dd05-4701-83b6-1934dbf83449,"Gre0300AE","Green St/Gorhamaly St","""Otis Jones Post Office""",35.05619226,-78.87687501,0
+71436abf-989f-4aed-9caa-a2f1efa5ebd0,"Ram00400AE","Ramsey St/Grove St","""""",35.05805549,-78.87673962,0
+dd314638-878e-4744-8c96-e55f69dfc45d,"Ram00500BE","Ramsey St/Lamon St","""Rogers and Breece""",35.06039184,-78.87727849,0
+1e9f1359-73a7-456c-b4c8-c6f3176a851a,"Ram00800CE","Ramsey St/Drake St","""""",35.06546453,-78.87847023,0
+9e0e8f23-5750-4ab6-858a-d201dfc5d26c,"Wal00130AS","Ramsey St/Wall St","""Douglas Dentistry""",35.06790487,-78.87837516,0
+55dbe3b0-dbc7-4f03-b2a2-9189a9651cbb,"Wal00200BS","Wall St/North St","""""",35.06824438,-78.87689572,0
+74fbfa03-3f2f-4837-8ee8-3739e329909c,"Nor01100AE","North St/Ingram St","""Behind Fay Block Co""",35.071447,-78.8756792,0
+1f0e588b-0169-4b60-923c-3254751b9561,"Nor01200BE","North St/Ingram St","""""",35.0737323,-78.87601381,0
+d9645bd1-624c-43bc-9b5b-dc2daa51e9e5,"Nor01300CE","Blueberry Place","""""",35.0758024,-78.87628668,0
+92b2eb32-6a89-46ad-936c-d8b46457edc9,"Nor01600DS","North St/Brookwood Ave","""""",35.07988905,-78.87781374,0
+10b2182a-64e2-410e-93ed-677e786c88c8,"Col00220AN","Colonial Dr/Fayette Ave","""""",35.08078155,-78.87992381,0
+c4660a4e-f019-4a29-84e6-23ea24450cc0,"Ram01700EE","Ramsey St/Colonial Dr","""""",35.08085208,-78.88195218,0
+6c337f7a-82e9-48ac-b16c-0d08966a84a0,"Ram01900FE","Ramsey St/Williston St","""""",35.08349448,-78.88118846,0
+7ab90e39-6d7c-4b3d-b6d3-49bd413c282a,"Ram02000GE","Ramsey St/Sherman St","""""",35.08626325,-78.87975469,0
+8277831b-206a-4961-a717-32fcbff6683b,"Ram2100HE","Ramsey St/Facility Dr","""""",35.08778508,-78.87897207,0
+782e3775-a1a0-46c3-9eae-074a50de2cf0,"Ram02500IE","Ramsey St/Kirkland Dr","""""",35.09211305,-78.87729819,0
+632cd078-5cd6-46df-8eae-775515dc6fde,"Ram02500JE","Ramsey St/Brainerd Ave","""""",35.09382294,-78.87721655,0
+79e83150-1128-413b-bc23-1f088d2929b5,"Ram02800JE","Ramsey St/Eastwood Ave","""Tokay Post Office""",35.0967662,-78.87713676,0
+dd2d6a23-6789-47da-9bba-2dab867c6d55,"Ram02900KE","Ramsey St/Lynn Ave","""""",35.09989719,-78.87759029,0
+c6552b19-401a-4c7e-8aba-bc98cc685644,"Ram03200LE","Ramsey St/Bartow Dr","""Reed Ross School""",35.10196933,-78.8778844,0
+db993d42-f3b9-45cb-bcf1-c45adb76f233,"Ram03300ME","Ramsey St/Bartow Dr","""Walgreens""",35.10462247,-78.8782093,0
+6ecbcc1d-a366-4185-8a92-e731e8cb107c,"ShM00800BS","Shaw Mill Rd/Rosehill Rd","""""",35.11712395,-78.91410627,0
+eb0a02c0-736a-40ad-ac05-c78f79bf807f,"Ros04500KS","Rosehill Rd/Golden Rd","""""",35.12108752,-78.91251979,0
+ecdc6951-1442-41bd-8a07-66cba03f111c,"Ros04700LS","Rosehill Rd/Breckenridge St","""Warrenwood School""",35.1216134,-78.90732647,0
+193df511-bb20-4657-bd1c-f43d35f49d30,"Ros04800ME","Roseill Rd/Floras Ln","""""",35.12260314,-78.90305851,0
+8c1ad14f-abad-40fe-9a60-6fbdbc585b25,"Ros04900NE","Rosehill Rd/Tranquil Ln","""""",35.12543184,-78.89973046,0
+c8e0c755-9272-4da2-9714-9aad178a7e81,"Ros04900OS","College Lakes Library","""Rosehill Rd/McArthur Rd""",35.12811692,-78.89800083,0
+a0df799a-54bd-48cc-92ee-2ee7b5519077,"StW00400AS","Stacy Weaver Dr/Southland Dr","""""",35.13278877,-78.89382659,0
+af7931ad-b765-4933-98d4-24b1b0b1b2b8,"StW00300BS","Stacy Weaver Dr/Cooper Rd","""""",35.13237543,-78.88697469,0
+3edd8aee-d05b-447c-8394-74b620d2ceb9,"StW00200CW","Stacy Weaver Dr/Arbor Rd","""""",35.13049227,-78.88113033,0
+8772adff-147e-4051-95c4-e9fcfdafd3c1,"BSt00500AE","B Street/Adam Street","""""",35.050797,-78.86873,0
+24a61667-a7c3-4111-8578-17da6bca5399,"BSt00300BE","B Street/Grove Street","""""",35.053172,-78.867505,0
+f204a7e6-e660-40f5-b766-ac68fcefd78d,"Gro00500AW","Grove St/B St","""""",35.0535180281,-78.8664338952,0
+13a5209b-8248-4754-867e-f49c2a6a074d,"CFPlaza","Cape Fear Plaza","""Grove St/Racepatch St""",35.0519879718,-78.862168804,0
+1aef94a4-512c-4fa1-8acc-69a9125c76ad,"Per00900CW","Person St/Broad St","""Christ Gospel Church""",35.0475398255,-78.8618400346,0
+8551e686-84a2-4615-9a8b-1f9cba6e51a3,"DpC00100AN","Deep Creek Rd/Clinton Rd","""""",35.0453811728,-78.8546726738,0
+41efdb9c-09d8-4817-b872-5598d1dd887b,"DpC00400BN","Deep Creek Rd/Downing St","""Second Harvest Food Bank""",35.0408364045,-78.8543744223,0
+cd199aaa-157f-4324-ae4f-2e8907fe3a32,"DpC00800CN","Deep Creek Rd/Ford Ln","""""",35.0345041139,-78.854154082,0
+8eb51b8e-071b-412f-aa6f-149e597581f2,"DpC01000DN","Deep Creek Rd/Melvinville Ct","""""",35.0315539383,-78.8540262411,0
+faac5d02-0cdf-4bcc-a998-a97a3cc8084b,"DpC01100EN","Deep Creek Rd/Cade Hill Ave","""""",35.029533187,-78.8538859905,0
+d0d6da4d-e92c-4e74-9c38-2b89a2383e89,"CdH01400AS","Cade Hill Ave/Jacob St","""""",35.0279845263,-78.8504789079,0
+fe17ed78-92ae-4da1-94d8-5be130b9d315,"Lit00800AE","Little Ave/Oxford St","""""",35.0316101252,-78.849879642,0
+1e897025-dbc3-48f2-b5a0-850957449852,"Tro01700AS","Cedar Creek Plaza","""Troy Dr/Griffin St""",35.0336807571,-78.8468250025,0
+8996c797-8a9d-4797-b7ce-b81e87a40976,"CdC00700AW","Cedar Creek Rd/Troy Ave","""""",35.0326729177,-78.8451832522,0
+192746a8-2fa9-4ef2-8798-3cc638977b3f,"CdC00900BW","Cedar Creek Rd/Cedar Creek Rd","""Smith International""",35.0294013063,-78.8440188108,0
+cc2849ec-251f-46ec-81a3-43c93963bee7,"CdC01100CW","Cedar Creek Rd/Cedar Creek Rd","""Creekside Assisted Living""",35.0248792259,-78.842328868,0
+b8cb34a2-55cf-48b8-8149-1e1328a8c6d2,"CdC01700DW","Cedar Creek Rd/Fields Rd","""CFV Community Program""",35.0137421599,-78.8367995968,0
+2412b608-6d29-4c5a-9f67-61044549b6ab,"CdC01700EW","Cedar Creek Rd/Bureau Dr","""""",35.009102616,-78.8276439729,0
+8a3c1a45-3f38-473c-b09a-b981742708c6,"CdC01900FS","Cedar Creek Rd/Jim Johnson Rd","""""",35.0078425655,-78.8243925194,0
+a9da546c-636f-4095-ad06-33a5197096b3,"FAST","FAST","""FAST Base""",35.05441666,-78.86833318,0
+2358a381-af18-425c-a584-8b471b110123,"GVT","Grove View Terrace","""""",35.05496353,-78.8699374,0
+b5a5b3da-8ac5-4122-b6de-ba801633229c,"Ray00300DS","Ray Ave/Rowan St","""ESC""",35.0586868,-78.88001561,0
+d5758f3a-7ea9-4881-aeaf-14b201b53f84,"Moo00300AE","Moore St/Mechanic St","""""",35.06085723,-78.88055178,0
+5dfb41a6-4450-4178-828c-e2b6f764b0e2,"Moo00400BE","Moore St/Frink St","""""",35.06159538,-78.88268319,0
+aa5d475c-7571-4f53-8bcc-cf7c4bc4819a,"Hil00500AE","Hillsboro St/Chance St","""""",35.06357733,-78.88405965,0
+5865029d-7d85-46d0-bfdc-22ada34dd04a,"Hil00700BE","Hillsboro St/Cumberland St","""""",35.06663818,-78.88390186,0
+ba560b80-ca0d-4d5f-8e0e-c19d16a927c0,"Hil00800CE","Hillsboro St/MLK","""""",35.07020354,-78.88366277,0
+91c19bb3-e90e-4e35-9f7d-ffbf17267cc1,"Hil01100EE","Hillsboro St/Peace St","""""",35.07504701,-78.88291768,0
+9aac2c31-87c7-42ae-8f04-dae1625c0c48,"Hil01300FS","Hillsboro St/Ramsey St","""Operation Blessing""",35.07706976,-78.88198106,0
+c695f5f0-87eb-4153-afda-0b34b77797fa,"Ram01400DE","Ramsey St/Kensington Cir","""""",35.0779153,-78.8813544,0
+a6c80f84-8fcd-43b6-b751-0dde7b5c06ba,"Ros01900AE","Rosehill Rd/Ramsey St","""Hillside Manor""",35.08296319,-78.88246168,0
+6104e33d-398e-4858-a430-a4028f48627c,"Ros02000BE","Rosehill Rd/Osceola Dr","""Rosehill Garden""",35.08499667,-78.88299169,0
+1f698adb-dc87-4e91-bb2e-898c5fa4c7db,"Ros02100CE","Rosehill Rd/Seneca Dr","""Melvin Place""",35.08679821,-78.88317378,0
+dcc07101-61ac-44c7-8583-8455dc95c038,"Ros02400DE","Rosehill Rd/Walstone Rd","""Kingdom Hall""",35.09089756,-78.88566742,0
+a7614454-cc67-4b21-b931-099c65d34271,"Ros02800EN","Rosehill Rd/Walstone Rd","""Hood Memorial AME Church""",35.0965122,-78.89114567,0
+925e20f5-844f-4bc1-a5e5-dac135311eb5,"Hickory1","Hickory Hills","""""",35.10043326,-78.89342293,0
+c6d4ef44-7932-4a91-a222-f64ce685b459,"Hickory2","Hickory Hills ","""""",35.10111249,-78.89374134,0
+49ecb713-e64b-497c-b622-5e8e30b6696c,"Hickory3","Hickory Hills ","""""",35.10005363,-78.89391966,0
+40dbe76e-8866-43d1-8e55-f8adda766310,"Mur05400RE","Murchison Rd/Shaw Rd","""""",35.11336679,-78.92916533,0
+956f8ab0-0184-4c2c-85a1-852e087bd6ce,"Sha01600AN","Shaw Rd/Gregory St","""""",35.11077894,-78.93458679,0
+1a9ff716-6692-499e-a4bb-1bff7a468f3a,"Sha01400BN","Shaw Rd/Holland St","""""",35.10894153,-78.93656202,0
+61be5f35-8364-43fd-87cb-ecacbf695807,"Sha01200CN","Shaw Rd/Summerwind Dr","""""",35.10810657,-78.93992976,0
+3500191a-0b4e-47c1-a6a2-2ed05e28425b,"Sha00600DN","Shaw Rd/Foxtrot Dr","""""",35.10493956,-78.94827428,0
+2cf80e72-ceae-4a7c-9098-e5e17a6f0dc8,"Sha00400EN","Shaw Rd/Old Shaw Rd","""""",35.10384944,-78.95219288,0
+972ce5ea-9cc4-4f80-b056-cf55f2beb64f,"BgB05600AN","Bragg Blvd/Shaw Rd","""""",35.10145606,-78.95846978,0
+d842d440-d5eb-4ff1-b7aa-8c241faff012,"BgB05400BW","Bragg Blvd/Clover St","""""",35.09780894,-78.95706828,0
+2ff564e3-7ea7-449d-bc33-e6b68b6f2bba,"BgB05000CW","Bragg Blvd/Mike St","""""",35.09362211,-78.95548651,0
+dc4249d1-26d8-4f26-980b-0c3bc3566107,"Swa00280AS","Swain St/Bragg Blvd","""Crown Ford""",35.08510079,-78.95000494,0
+f82397f2-ed49-47ff-b9bd-e0ddb9f9da01,"SBg02100AS","Food Lion","""""",35.014961,-79.008777,0
+4b83eaf8-0a52-4435-b2b5-2d92e791762c,"SBg01500BS","Strickland Bridge Rd / Childers Dr","""Sidewalk""",35.024814,-79.002255,0
+3b6f270a-4b9b-4641-8c69-5d20aa08b457,"SBr00800CS","Strickland Bridge Rd/FS Applecross Ave","""""",35.039295,-78.997191,0
+aa677cd2-f430-4c5d-a190-86a2bbc67453,"Hil00900DE","Hillsboro St/Windsor Dr","""""",35.07217914,-78.88344146,0
+f53746d5-9a86-4c23-9205-5c4f41c77e2a,"DVM","DMV/Board of Ed","""""",35.015331,-78.89651,0
+54c60f36-3d3c-4bb8-90ee-30ded93aa678,"Sou02500KN","Southern Ave/Owen Dr","""""",35.017427,-78.904987,0
+6266bcd2-f69a-470c-8d3a-fbb046904059,"Sou02700LN","Southrn Ave/W Mountain Dr","""""",35.015054,-78.906866,0
+d6c8002e-54cc-4fe3-8a49-7acafa296c82,"Cam02720AS","Camden Rd/Wake St","""""",35.01611261,-78.90851546,0
+44b0b01a-d10f-49bd-ba1e-b4600c606302,"Epr03100AS","Enterprise Ave/Toledo Ct","""""",35.02496,-78.914502,0
+d4aad868-7f6b-4367-953b-c71909a333a0,"Epr03170BS","Enterprise Ave/Hyde Pl","""""",35.026112,-78.913536,0
+04239222-a10c-48ed-b84a-f0a7bfd4238c,"CPky2700AE","Coronadao Parkway/Balboa St","""""",35.026216,-78.916193,0
+4f7dc84b-a753-4aa9-82c4-39adb101a7c2,"CpC0300AN","Cape Center Dr/Roxie Ave","""""",35.036394,-78.939866,0
+4899e554-a719-4955-ba6d-02ef50028fad,"Rox00490CN","Roxie Ave/Joel St","""""",35.039139,-78.941194,0
+b74ee442-519b-4546-87d6-a550b539c5b7,"Dav04100AN","David St/Faison Ave","""""",35.039893,-78.943931,0
+191f85a6-53c3-43cd-81ab-37b56036c708,"BgB04400DW","Bragg Blvd/Swain St","""XP1""",35.0852915695483,-78.9494510858924,0
+ad7f56ad-de7d-4a2c-9fd9-931fea645734,"Ski01800AN","Skibo Rd/Arby's","",35.071455,-78.965541,0
+f48ca95f-9d52-41bb-8ff5-d04b079a706b,"Ski02100HN","Skibo Rd/Louise St","""Lewis Chapel School""",35.04837527,-78.97574749,0
+2fee9229-3cb8-4116-b068-0090e8573e54,"Bun01000AE","Bunce Rd/Fredrick Rd","""""",35.04489702,-78.99236306,0
+06fd4014-900e-4eb8-9c1c-1eaf1c763f35,"Bun00900BE","Bunce Rd/Dessa Ree Ln","""Hickory Ridge Apts""",35.04792009,-78.99526074,0
+2414504b-359b-4800-b041-b9c808f3f366,"Bun00800CE","Bunce Rd/Portsmouth Dr","""""",35.05072906,-78.9979861,0
+7eed8e53-6352-4c7e-87eb-c467a84f0739,"Bun00700DE","Bunce Rd/Cliffdale Rd","""""",35.05366654,-79.00080477,0
+b43c9a2b-efcf-4ad0-8e9a-d84652b4852e,"RandCkPt","Non ID waiting point Randolph","""""",35.1526740284368,-78.9706391972684,0
+4bc3e04f-af61-46cc-a56c-2da45743881f,"VAMC","7300 Old Raeford Rd [Us-401]","""""",35.031805,-79.029482,0

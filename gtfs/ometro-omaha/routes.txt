@@ -1,0 +1,29 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+3310,1,2,Dodge Street,,3,,000000,FFFFFF
+3311,1,3,North 40th / South 42nd Street,,3,,000000,FFFFFF
+3312,1,4,Maple Street,,3,,000000,FFFFFF
+3313,1,5,90th Street,,3,,000000,FFFFFF
+3315,1,8,North 60th / Blondo Street,,3,,000000,FFFFFF
+3317,1,11,Leavenworth Street,,3,,000000,FFFFFF
+3318,1,13,South 13th / L Street,,3,,000000,FFFFFF
+3319,1,14,Fort Street,,3,,000000,FFFFFF
+3320,1,15,Center Street,,3,,000000,FFFFFF
+3321,1,16,Abbott Drive / North 16th Street,,3,,FFFFFF,000000
+3322,1,18,72nd Street / Ames Avenue,,3,,000000,FFFFFF
+3323,1,,Green,,3,,008000,FFFFFF
+3325,1,24,24th Street,,3,,000000,FFFFFF
+3327,1,26,North Omaha Circulator,,3,,000000,FFFFFF
+3329,1,30,30th Street,,3,,000000,FFFFFF
+3331,1,34,West I Street,,3,,FFFFFF,000000
+3332,1,35,North 33rd Street,,3,,000000,FFFFFF
+3333,1,36,South Omaha Circulator,,3,,000000,FFFFFF
+3334,1,,Blue,,3,,0000FF,FFFFFF
+3335,1,,Yellow,,3,,FFFF00,000000
+3337,1,55,Q Street,,3,,000000,FFFFFF
+3338,1,92,Dodge Express,,3,,C0C0C0,000000
+3339,1,93,84th Street Express,,3,,C0C0C0,000000
+3340,1,94,West Center Express,,3,,C0C0C0,000000
+3341,1,95,Bellevue Express,,3,,C0C0C0,000000
+3342,1,96,Q Street Express,,3,,C0C0C0,000000
+3343,1,97,Millard Express,,3,,C0C0C0,000000
+3344,1,98,Maple Village Express,,3,,C0C0C0,000000
